@@ -1,0 +1,13 @@
+You're a French-speaking college student (22) exploring HIV prevention options.
+You are comfortable with scientific explanations but need practical advice.
+
+Start by asking:
+
+"Comment fonctionne la PrEP exactement ?" (How does PrEP work exactly?)
+"Est-ce que ça a des effets secondaires graves ?" (Does it have serious side effects?)
+As the conversation progresses, express concerns about:
+
+Effectiveness: "Est-ce que la PrEP est aussi efficace que les préservatifs ?" (Is PrEP as effective as condoms?)
+Drug interactions: "Peut-on prendre la PrEP avec d'autres médicaments ?" (Can I take PrEP with other medications?)
+Stopping PrEP: "Que se passe-t-il si j'arrête la PrEP ?" (What happens if I stop PrEP?)
+You are cautious but open-minded, seeking logical, research-backed responses.

@@ -1,0 +1,150 @@
+"User_Message","Response","Response_Time","Temperature"
+"Je, PrEP inafanya kazi kweli na ina madhara gani ya muda mrefu?","Ndio, PrEP inafanya kazi vizuri. Ikiwa unachukua kila siku, inaweza kupunguza hatari ya kupata HIV kwa karibu 99%. 
+
+Madhara ya muda mrefu ni nadra. Watu wengi hawapati madhara makubwa. Wengine wanaweza kupata maumivu ya kichwa, kichefuchefu, au kutapika katika wiki chache za mwanzo. Madhara haya kawaida hupita. 
+
+Ni muhimu kuzungumza na daktari wako kuhusu PrEP na madhara yoyote unayoweza kuwa nayo.","0.0","0.69"
+"Je, kuna njia yoyote ya kufuatilia afya yangu wakati wa kutumia PrEP?","Ndio, kuna njia za kufuatilia afya yako wakati wa kutumia PrEP. 
+
+1. Utahitaji kupimwa mara kwa mara kwa HIV. Hii inasaidia kuhakikisha uko salama.
+2. Utahitaji pia kupimwa kazi ya figo kila baada ya miezi tatu.
+3. Ni muhimu kuzungumza na daktari wako kuhusu dalili zozote unazoweza kuwa nazo.
+
+Kumbuka, daktari wako atakusaidia kufuatilia afya yako vizuri.","0.0","0.7"
+"""Nitapataje msaada wa ziada ikiwa nitahitaji kuzungumza na mtu kuhusu matumizi ya PrEP?""","Unaweza kupata msaada wa ziada kwa njia zifuatazo:
+
+1. Zungumza na daktari wako. Wanaweza kukupa taarifa na msaada.
+2. Tembelea kliniki za afya. Wanaweza kuwa na washauri wa afya.
+3. Tafuta makundi ya msaada. Kuna makundi yanayojadili mambo ya PrEP.
+4. Piga simu kwa huduma za usaidizi za afya. Wanaweza kutoa ushauri wa haraka.
+
+Ni muhimu kupata msaada unaohitajika.","0.0","0.63"
+"Je, kuna hatari yoyote ya kupata magonjwa mengine ya zinaa wakati wa kutumia PrEP?","Ndio, kuna hatari ya kupata magonjwa mengine ya zinaa wakati wa kutumia PrEP. 
+
+PrEP inazuia HIV tu. Haipatikani dhidi ya magonjwa mengine kama gonorrhea au chlamydia. 
+
+Ili kujikinga, ni vizuri kutumia kondomu pamoja na PrEP. Hii itasaidia kulinda dhidi ya magonjwa mengine ya zinaa. Zungumza na daktari wako kuhusu njia bora za kujikinga.","0.0","0.67"
+"Je, PrEP inaweza kuathiri uzito wangu au viwango vya nguvu?","Ndio, PrEP inaweza kuathiri uzito wako kwa njia mbalimbali. Watu wengine wanaweza kupata uzito, wakati wengine wanaweza kupoteza uzito. 
+
+Madhara haya ni nadra na yanaweza kutofautiana. Ni muhimu kuzungumza na daktari wako kuhusu mabadiliko yoyote unayopata. Wanaweza kusaidia kufuatilia hali yako.","0.0","0.99"
+"Je, PrEP inahitaji kuzingatiwa kwa muda gani kabla ya kuona matokeo?","PrEP inahitaji kuchukuliwa kwa muda wa siku 21 ili kutoa ulinzi bora dhidi ya HIV kwa wanawake. 
+
+Kwa anal sex, inachukua muda wa siku 7. Hakikisha unachukua PrEP kila siku ili iweze kufanya kazi vizuri.","0.0","0.72"
+"Je, PrEP inaweza kuathiri mzunguko wangu wa hedhi au afya yangu ya uzazi?","Ndio, PrEP inaweza kuathiri mzunguko wako wa hedhi au afya ya uzazi. Watu wengine wameeleza mabadiliko katika mzunguko wao wa hedhi. 
+
+Madhara haya ni nadra na yanaweza kutofautiana. Ni muhimu kuzungumza na daktari wako kuhusu mabadiliko yoyote unayopata. Wanaweza kusaidia kufuatilia hali yako.","0.0","0.63"
+"Je, kuna vipimo vyote vinavyopaswa kufanywa wakati wa matumizi ya PrEP ili kuhakikisha ninaendelea kuwa salama?","Ndio, kuna vipimo muhimu unavyohitaji wakati wa kutumia PrEP. Hizi ni:
+
+1. **Kupima HIV** mara kwa mara. Hii inasaidia kuhakikisha uko salama.
+2. **Kupima kazi ya figo** kila baada ya miezi tatu. Hii ni muhimu kwa afya yako.
+3. Ni vizuri pia **kuzungumza na daktari** wako kuhusu dalili zozote unazoweza kuwa nazo.
+
+Kumbuka, daktari wako atakusaidia kufuatilia afya yako vizuri.","0.0","1.02"
+"Je, PrEP inaweza kuathiri jinsi ninavyohisi au mood yangu?","Ndio, PrEP inaweza kuathiri jinsi unavyohisi au mood yako. Watu wengine wanaweza kupata mabadiliko ya kihisia wakati wa kutumia PrEP. 
+
+Madhara haya ni nadra na yanaweza kutofautiana. Ni muhimu kuzungumza na daktari wako kuhusu mabadiliko yoyote unayopata. Wanaweza kusaidia kufuatilia hali yako na kukupa msaada.","0.0","0.81"
+"Je, PrEP inaweza kuathiri uwezo wangu wa kushiriki katika shughuli za kimwili au michezo?","Ndio, PrEP inaweza kuathiri uwezo wako wa kushiriki katika shughuli za kimwili au michezo. 
+
+Baadhi ya watu wanaweza kujisikia uchovu au kichefuchefu kwa muda mfupi. Madhara haya ni nadra na yanaweza kupita. 
+
+Ni muhimu kuzungumza na daktari wako kuhusu mabadiliko yoyote unayopata. Wanaweza kusaidia kufuatilia hali yako.","0.0","0.84"
+"Je, PrEP inapatikana wapi nchini Kenya na ni gharama gani kwa kawaida?","PrEP inapatikana katika vituo vya afya nchini Kenya. Vituo vya HIV, hospitali, na kliniki za afya ya uzazi mara nyingi hutoa PrEP.
+
+Gharama ya PrEP inaweza kutofautiana. Watu wengi wanaweza kupata PrEP bure kupitia mipango ya serikali na mashirika yasiyo ya kiserikali. Ni vyema kuzungumza na daktari wako au kutembelea kituo cha afya ili kupata maelezo zaidi.","0.0","0.69"
+"Je, kuna tofauti kati ya PrEP na njia nyingine za kuzuia HIV, kama vile PEP?","Ndio, kuna tofauti kati ya PrEP na PEP. 
+
+- **PrEP** (Pre-exposure Prophylaxis) ni dawa unayochukua kabla ya kuweza kujikinga na HIV. Inachukuliwa kila siku ili kupunguza hatari ya kupata HIV.
+
+- **PEP** (Post-exposure Prophylaxis) ni dawa unayochukua baada ya kuwa na hatari ya kupata HIV. Ni muhimu kuchukua PEP ndani ya masaa 72 baada ya kuweza kuathirika. 
+
+Kwa hivyo, PrEP ni kinga ya kabla, wakati PEP ni kinga ya baada. Zungumza na daktari wako ili kujua zaidi kuhusu njia hizi.","0.0","0.88"
+"Je, PrEP inaweza kusaidia kupunguza mpenyo wa HIV katika jamii yangu?","Ndio, PrEP inaweza kusaidia kupunguza mpenyo wa HIV katika jamii yako. 
+
+Kwa watu wanaotumia PrEP, hatari ya kupata HIV inashuka sana. Hii inasaidia kulinda sio tu mwenyewe bali pia washirika wa ngono. 
+
+Kuwa na watu wengi wanaotumia PrEP katika jamii kunaweza kusaidia kupunguza maambukizi ya HIV kwa ujumla. Zungumza na daktari wako ili kujifunza zaidi kuhusu jinsi PrEP inaweza kusaidia.","0.0","0.96"
+"Je, kuna njia yoyote ya kufuatilia afya yangu wakati wa kutumia PrEP?","Ndio, kuna njia za kufuatilia afya yako wakati wa kutumia PrEP. 
+
+1. Utahitaji kupimwa mara kwa mara kwa HIV.
+2. Utahitaji pia kupimwa kazi ya figo kila baada ya miezi tatu.
+3. Ni muhimu kuzungumza na daktari wako kuhusu dalili zozote unazoweza kuwa nazo.
+
+Daktari wako atakusaidia kufuatilia afya yako vizuri.","0.0","0.97"
+"""Nitapataje msaada wa ziada ikiwa nitahitaji kuzungumza na mtu kuhusu matumizi ya PrEP?""","Unaweza kupata msaada wa ziada kwa njia zifuatazo:
+
+1. Zungumza na daktari wako. Wanaweza kukupa taarifa na msaada.
+2. Tembelea kliniki za afya. Wanaweza kuwa na washauri wa afya.
+3. Tafuta makundi ya msaada. Kuna makundi yanayojadili mambo ya PrEP.
+4. Piga simu kwa huduma za usaidizi za afya. Wanaweza kutoa ushauri wa haraka.
+
+Ni muhimu kupata msaada unaohitajika.","0.0","0.5"
+"Je, ni muundo gani wa msingi wa maandalizi ya chakula wakati wa kutumia PrEP ili kuhakikisha ninapata virutubisho vyote muhimu?","Samahani, lakini siwezi kusaidia na maelezo kuhusu maandalizi ya chakula. Tafadhali niulize kuhusu PrEP au HIV na nitafurahi kusaidia.","0.0","1.09"
+"Je, kuna ushauri wowote kuhusu jinsi ya kuanzisha mazungumzo na daktari wangu kuhusu PrEP?","Ni vizuri kuzungumza na daktari wako kuhusu PrEP. Hapa kuna baadhi ya hatua za kuanzisha mazungumzo:
+
+1. **Andika maswali yako.** Fikiria juu ya maswali unayotaka kuuliza kuhusu PrEP.
+2. **Eleza wasiwasi wako.** Zungumza kuhusu hofu zako au maswali kuhusu matumizi ya PrEP.
+3. **Fanya mazungumzo ya wazi.** Omba daktari wako akueleze jinsi PrEP inavyofanya kazi.
+4. **Uliza kuhusu mipango ya kusaidia.** Tafuta taarifa kuhusu msaada wa kifedha au rasilimali zinazopatikana.
+5. **Piga hatua.** Zungumza kuhusu uamuzi wako wa kuchukua PrEP au njia nyingine za kinga.
+
+Ni muhimu kuwa na mazungumzo ya wazi na daktari wako.","0.0","0.73"
+"Je, kuna tofauti kati ya PrEP na njia zingine za kuzuia magonjwa ya zinaa?","Ndio, kuna tofauti kati ya PrEP na njia zingine za kuzuia magonjwa ya zinaa.
+
+- **PrEP** (Pre-exposure Prophylaxis) ni dawa unayochukua kabla ya kuweza kujikinga na HIV. Inachukuliwa kila siku ili kupunguza hatari ya kupata HIV.
+
+- Njia zingine za kuzuia magonjwa ya zinaa, kama kondomu, hutoa ulinzi dhidi ya HIV na magonjwa mengine kama gonorrhea na chlamydia. 
+
+PrEP inazuia HIV pekee, hivyo ni bora kutumia pamoja na kondomu kwa ulinzi wa ziada. Zungumza na daktari wako ili kujua zaidi.","0.0","0.71"
+"Je, PrEP inaweza kuathiri uzito wangu au kuleta mabadiliko yoyote katika kimetaboliki yangu?","Ndio, PrEP inaweza kuathiri uzito wako au kuleta mabadiliko katika kimetaboliki yako. 
+
+Watu wengine wanaweza kupata uzito, wakati wengine wanaweza kupoteza uzito. Madhara haya ni nadra na yanaweza kutofautiana. 
+
+Ni muhimu kuzungumza na daktari wako kuhusu mabadiliko yoyote unayopata. Wanaweza kusaidia kufuatilia hali yako.","0.0","0.85"
+"Je, ni hatua gani zinaweza kuchukuliwa ili kuboresha ufanisi wa PrEP wakati wa kuutumia?","Ili kuboresha ufanisi wa PrEP, unaweza kuchukua hatua zifuatazo:
+
+1. **Chukua kila siku.** Hakikisha unachukua PrEP kila siku kama ilivyoelekezwa.
+2. **Fanya vipimo vya HIV mara kwa mara.** Hii inasaidia kuhakikisha uko salama.
+3. **Zungumza na daktari wako.** Wanaweza kusaidia kufuatilia afya yako na kutoa ushauri.
+4. **Tumia kondomu.** Hii inasaidia kupunguza hatari ya magonjwa mengine ya zinaa.
+5. **Fanya maamuzi sahihi ya ngono.** Chagua njia za ngono zenye hatari ndogo.
+
+Kumbuka, ufanisi wa PrEP unategemea matumizi sahihi.","0.0","1.2"
+"Je, PrEP inafanya kazi kweli na ina madhara gani ya muda mrefu?","Ndio, PrEP inafanya kazi vizuri. Ikiwa unachukua kila siku, inaweza kupunguza hatari ya kupata HIV kwa karibu 99%.
+
+Madhara ya muda mrefu ni nadra. Watu wengi hawapati madhara makubwa. Wengine wanaweza kupata maumivu ya kichwa, kichefuchefu, au kutapika katika wiki chache za mwanzo. Madhara haya kawaida hupita.
+
+Ni muhimu kuzungumza na daktari wako kuhusu PrEP na madhara yoyote unayoweza kuwa nayo.","0.0","0.56"
+"Je, kuna njia yoyote ya kuimarisha ufanisi wa PrEP katika mazingira yangu kama mwanamke?","Ili kuimarisha ufanisi wa PrEP kama mwanamke, unaweza kuchukua hatua zifuatazo:
+
+1. **Chukua kila siku.** Hakikisha unachukua PrEP kila siku kama ilivyoelekezwa.
+2. **Fanya vipimo vya HIV mara kwa mara.** Hii inasaidia kuhakikisha uko salama.
+3. **Tumia kondomu.** Hii itasaidia kulinda dhidi ya magonjwa mengine ya zinaa.
+4. **Zungumza na daktari wako.** Wanaweza kusaidia kufuatilia afya yako na kutoa ushauri.
+5. **Fanya maamuzi sahihi ya ngono.** Chagua njia za ngono zenye hatari ndogo.
+
+Kumbuka, matumizi sahihi ya PrEP ni muhimu kwa ulinzi bora.","0.0","0.86"
+"Je, kuna tofauti yoyote katika matumizi ya PrEP kwa wanawake wanaotumia uzazi wa mpango ikilinganishwa na wale wasiokuwa na matumizi ya uzazi wa mpango?","Ndio, kuna tofauti katika matumizi ya PrEP kwa wanawake wanaotumia uzazi wa mpango ikilinganishwa na wale wasiokuwa na matumizi ya uzazi wa mpango. 
+
+1. **Usalama wa matumizi:** PrEP ni salama kwa wanawake wote, lakini ni muhimu kujua jinsi uzazi wa mpango unavyoweza kuathiri afya yako.
+
+2. **Mabadiliko katika homoni:** Uzazi wa mpango unaweza kuleta mabadiliko katika homoni. Hii inaweza kuathiri jinsi mwili wako unavyojibu PrEP.
+
+3. **Hatuwa za ziada:** Wanawake wanaotumia uzazi wa mpango wanapaswa kuzungumza na daktari wao ili kuhakikisha wana ulinzi wa kutosha dhidi ya HIV. 
+
+Ni muhimu kujadili masuala haya na daktari wako ili kuhakikisha unapata ulinzi bora.","0.0","0.93"
+"Je, ni vigezo gani vya msingi vinavyopaswa kuzingatiwa kabla ya kuanza kutumia PrEP?","Kabla ya kuanza kutumia PrEP, zingatia vigezo hivi:
+
+1. **Hali ya HIV:** Lazima upime na uhakikishe kuwa huna HIV.
+2. **Kazi ya figo:** Unapaswa kupimwa ili kuhakikishia figo zako zinafanya kazi vizuri.
+3. **Hatari ya HIV:** Zingatia ikiwa uko katika hatari ya kupata HIV.
+4. **Mabadiliko ya dawa:** Onyesha daktari wako kuhusu dawa zote unazotumia.
+5. **Mawasiliano:** Zungumza na daktari wako kuhusu maswali au wasiwasi wowote.
+
+Ni muhimu kufuata hatua hizi kabla ya kuanza PrEP.","0.0","0.78"
+"Je, ni vigezo gani vya kufuatilia afya yangu wakati wa kutumia PrEP?","Wakati wa kutumia PrEP, zingatia vipimo hivi:
+
+1. **Kupima HIV:** Fanya vipimo mara kwa mara ili kuhakikisha uko salama.
+2. **Kupima kazi ya figo:** Fanya kipimo hiki kila baada ya miezi tatu.
+3. **Mabadiliko yoyote:** Zungumza na daktari wako kuhusu dalili zozote unazoweza kuwa nazo.
+
+Hii itasaidia kufuatilia afya yako vizuri.","0.0","1.06"

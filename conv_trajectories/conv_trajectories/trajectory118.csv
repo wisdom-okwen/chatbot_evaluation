@@ -1,0 +1,245 @@
+"User_Message","Response","Response_Time","Temperature"
+"Ngabe PrEP iyasiza futhi ingaba nemiphumela emibi?","Yebo, PrEP iyasiza kakhulu ekuvikelweni kwe-HIV uma isetshenziswa kahle. Iphumelela kakhulu uma ithathwa nsuku zonke, inciphisa ubungozi be-HIV ngama-99%. 
+
+Imiphumela emibi ivamise ukuba mncane, njenge:
+- Uhlanga
+- Ukudlikiza
+- Ukungakhululeki kwesitho sangasese
+
+Lezi zimpawu zenzeka kakhulu ezinsukwini zokuqala zokusetyenziswa, kodwa ziyaqedwa ngokuvamile. Qiniseka ukuthi uxoxa nodokotela wakho uma uqaphela imiphumela ethile.","0.0","0.52"
+"Ngabe lezi zimpawu zenzeka kuphela ezinsukwini zokuqala, noma kungenzeka zibe khona ngesikhathi eside?","Imiphumela emibi ye-PrEP ivamise ukwenzeka ezinsukwini zokuqala zokusetyenziswa, kodwa ezinye abantu bangase baqhubeke bezwa imiphumela ethile isikhathi eside. Lokhu kungafaka:
+
+- Ukudlikiza
+- Ukungakhululeki kwesitho sangasese
+
+Qiniseka ukuthi uxoxa nodokotela wakho uma imiphumela ihlala isikhathi eside noma ibe mibi. Lokhu kuzokwenza uqinisekise ukuthi uphila kahle.","0.0","0.77"
+"Ngabe kunezindlela zokunciphisa imiphumela emibi ye-PrEP, noma izinto okufanele ngizicabangele uma ngiqala ukuyithatha?","Yebo, kunezindlela zokunciphisa imiphumela emibi ye-PrEP. Nazi izeluleko:
+
+- **Thola uhlelo**: Thatha PrEP ngesikhathi esifanayo nsuku zonke.
+- **Ukudla**: Thola ukudla ngaphambi kokuthatha PrEP, lokhu kungasiza ukunciphisa ukudlikiza.
+- **Qaphela imiphumela**: Bhalisela noma yisiphi isimo esingajabulisi ukuze uxoxe nodokotela.
+- **Uxhaso lwezempilo**: Khuluma nomelaphi wezempilo ukuze uthole izeluleko ezenzakalayo.
+
+Ukuze uqale, hamba nodokotela wakho ukuze uqonde kahle imiphumela nemizamo yokuzilungiselela.","0.0","0.52"
+"Ngabe ukhona umphakathi noma izinsizakusebenza ezitholakalayo ukuze ngithole ulwazi olwengeziwe ngalesi sithako?","Yebo, kunezinsizakusebenza eziningi ezitholakalayo ukuze uthole ulwazi olwengeziwe nge-PrEP. Nazi ezinye:
+
+- **CDC Website**: I-CDC inikeza ulwazi olunembile nolwakamuva nge-PrEP. 
+- **Local Health Departments**: Hamba emnyangweni wezempilo wendawo yakho ukuze uthole izinsiza nemihlahlandlela yokuhlola.
+- **PrEP Navigators**: Abantu abaqeqeshiwe bangakusiza uqonde izinketho zakho.
+- **Support Groups**: Bheka amaqembu okuxoxa nabanye abathatha i-PrEP.
+
+Qiniseka ukuthi uxhumana nodokotela wakho ukuze uthole izeluleko ezenzakalayo.","0.0","0.53"
+"Ngabe ungakukhombisa ukuthi ngingathola kanjani i-PrEP endaweni yami, futhi ngabe kufanele ngithintane nodokotela noma kukhona okunye engingakwenza?","Yebo, ungathola i-PrEP endaweni yakho ngokulandela lezi zinyathelo:
+
+- **Xhumana nodokotela**: Thintana nodokotela wakho ukuze uthole isithako sokusebenzisa i-PrEP. 
+- **Izikhungo zezempilo**: Vakasha emnyangweni wezempilo wendawo noma emkhakheni wezokwelapha onikeza i-PrEP.
+- **PrEP Navigators**: Bheka abelaphi be-PrEP endaweni yakho, abangakusiza ukuthola izinsizakalo.
+- **I-CDC Website**: Funda kabanzi ku-CDC ukuze uthole izikhungo ezikufanele.
+
+Qiniseka ukuthi uxhumana nodokotela ukuze uthole izeluleko ezenzakalayo.","0.0","0.68"
+"Ngabe i-PrEP iyakhiqiza izinzuzo ezinkulu ezidingweni zakho, futhi ungaba nezinselelo zokuyithatha?","Yebo, i-PrEP ikhiqiza izinzuzo ezinkulu ekunciphiseni ubungozi be-HIV. Iphumelela kahle uma ithathwa nsuku zonke, inciphisa ubungozi ngama-99%. 
+
+**Izinzuzo:**
+- Ukuphepha okukhulu ku-HIV.
+- Kulula ukuyithatha.
+
+**Izinsolo:**
+- Imiphumela emibi, njengokudlikiza noma ukuhlanza.
+- Ukuqinisekiswa kwemitholampilo njalo.
+
+Ukuxoxa nodokotela kungasiza ukucacisa izinzuzo nezinsolo ezithile. Ungabaza uma ungazi kahle.","0.0","0.9"
+"Ngabe iyiphi imiphumela emibi ongayithola ngokuthatha i-PrEP? Futhi, kungani kubalulekile ukuhlola lezi zimpawu ngezikhathi ezithile?","Imiphumela emibi ye-PrEP ingafaka:
+
+- **Uhlanga**: Ukwehla komoya.
+- **Ukudlikiza**: Ukuhlanza noma ukuhamba kahle.
+- **Ukungakhululeki kwesitho sangasese**: Ukudlula okungajabulisi.
+
+Kubhalwe ukuba kubalulekile ukuhlola lezi zimpawu ngezikhathi ezithile ukuze uqinisekise ukuthi uphila kahle. Ukuhlola kuzosiza ukuthola imiphumela emibi esheshayo nokugcina impilo yakho isesimweni esihle. Qiniseka ukuthi uxoxa nodokotela uma uqaphela izimpawu ezingajabulisi.","0.0","1.08"
+"Ngabe kukhona izifundo noma izinhlelo eziqhubekayo ezitholakalayo ukuze ngithole ulwazi olunzulu ngokuqhubekayo nge-PrEP?","Yebo, kunezinhlelo nezifundo ezitholakalayo ukuze uthole ulwazi olunzulu nge-PrEP. Nazi izinsizakusebenza ezithile:
+
+- **CDC Workshops**: I-CDC inikeza izifundo ezithinta i-PrEP.
+- **Local Health Clinics**: Izikhungo zezempilo zangakini zineziqu zabo ezihlobene ne-PrEP.
+- **Support Groups**: Amaqembu okuxoxa angasiza ekwabelaneni ngolwazi lwakamuva.
+- **Online Webinars**: Bheka izifundo eziku-inthanethi mayelana ne-PrEP.
+
+Qiniseka ukuthi uxhumana nodokotela wakho ukuze uthole izeluleko ezenzakalayo.","0.0","0.93"
+"Ngabe kunezinto ezithile okufanele zicatshangelwe uma ngithatha i-PrEP ukuze ngigcine impilo yami iphephile?","Yebo, nazi izinto okufanele zicatshangelwe uma uthatha i-PrEP ukuze ugcine impilo yakho iphephile:
+
+- **Thola uhlelo**: Qiniseka ukuthi uthatha i-PrEP nsuku zonke.
+- **Vakashela udokotela**: Hamba emitholampilo njalo ukuze uhlolwe i-HIV, imiphumela, nezidingo zezempilo.
+- **Qaphela imiphumela**: Bhalisela noma yisiphi isimo esingajabulisi ukuze uxoxe nodokotela.
+- **Ukudla kahle**: Thola ukudla okunempilo okungasiza ekunciphiseni imiphumela emibi, njenge ukudlikiza.
+
+Ukuze uthole olunye usizo, xoxa nodokotela wakho.","0.0","0.9"
+"Ngabe kunezinhlelo zokuxhasa abantu abathatha i-PrEP endaweni yami, noma imithombo ethile yokuxhumana?","Yebo, kunezinhlelo zokuxhasa abantu abathatha i-PrEP. Nazi izinsizakusebenza ezitholakalayo:
+
+- **Izikhungo Zempilo Zendawo**: Ziningi izikhungo ezihlinzeka ngokuqwashisa nokuxhasa.
+- **Amaqembu Okuxoxa**: Bheka amaqembu okuxoxa nabanye abathatha i-PrEP.
+- **I-CDC Website**: I-CDC inikeza imininingwane mayelana nezinsizakusebenza ezitholakalayo.
+- **PrEP Navigators**: Abelaphi bazi kahle izinketho nokuxhaswa.
+
+Qiniseka ukuthi uxhumana nodokotela wakho ukuze uthole izeluleko ezenzakalayo.","0.0","0.66"
+"Ngabe ungakwazi ukusho ukuthi lezi zinhlelo zokuxhasa zikhona kanjani endaweni yami, futhi zikhona izinsizakusebenza ezithile engingazithola?","Yebo, zikhona izinhlelo zokuxhasa abantu abathatha i-PrEP endaweni yakho. Nazi izinsizakusebenza ezitholakalayo:
+
+- **Izikhungo Zempilo Zendawo**: Zithola izikhungo zezempilo ezihlinzeka nge-PrEP nokuqwashisa.
+- **I-CDC Website**: I-CDC inikeza imininingwane ethile mayelana nezinsizakalo ezitholakalayo.
+- **PrEP Navigators**: Abelaphi bangakusiza ukuthola izinsizakusebenza ezikufanele.
+- **Amaqembu Okuxoxa**: Bheka amaqembu okuxoxa nabanye ukuze uthole ulwazi olwengeziwe.
+
+Qiniseka ukuthi uxhumana nodokotela wakho ukuze uthole izeluleko ezenzakalayo.","0.0","0.53"
+"Ngabe ngingathola kanjani ulwazi olunembile mayelana nezinsizakalo ze-PrEP ezitholakalayo endaweni yami?","Ungathola ulwazi olunembile mayelana nezinsizakalo ze-PrEP ezitholakalayo endaweni yakho ngokulandela lezi zinyathelo:
+
+- **I-CDC Website**: Funda ku-CDC ukuze uthole ulwazi olwakamuva nezikhungo ezihlinzeka nge-PrEP.
+- **Izikhungo Zempilo Zendawo**: Vakasha emnyangweni wezempilo wendawo yakho ukuze uthole imininingwane.
+- **PrEP Navigators**: Bheka abelaphi be-PrEP abazi kahle izinsizakalo ezitholakalayo.
+- **Amaqembu Okuxoxa**: Bheka amaqembu okuxoxa nabanye ukuze uthole ulwazi olwengeziwe.
+
+Qiniseka ukuthi uxhumana nodokotela wakho ukuze uthole izeluleko ezenzakalayo.","0.0","0.66"
+"Ngabe ukudla okufanele ukudle lapho uthatha i-PrEP? Futhi ingabe khona imithombo ethile yokudla engavikela imiphumela emibi?","Noma yini oyidlayo, qiniseka ukuthi udla ukudla okunempilo. Nazi izeluleko:
+
+- **Ukudla Okunempilo**: Faka izithelo, imifino, neziqhamo.
+- **Ukudla Okunamafutha**: Gcina ukudla okune-amafutha amancane (okuyinsiza).
+- **Ukudla Okunezinto Eziyisisekelo**: Ukudla okune-carbohydrates, proteini, ne-fiber kuzokwenza ube namandla.
+
+Imithombo yokudla engavikela imiphumela emibi ifaka:
+
+- **Amanzi**: Phuza amanzi anele.
+- **Iprobiotics**: Ukudla okune-probiotics, njenge-yogurt, kungasiza ukuthuthukisa impilo yesisu.
+
+Xoxa nodokotela wakho ukuze uthole izeluleko ezenzakalayo.","0.0","0.99"
+"Ngabe kunezincwadi noma ama-webinars angangisiza ngokuqhubekayo ukuze ngithole ulwazi oluthuthukile ngempilo yami uma ngithatha i-PrEP?","Yebo, kunezincwadi nezinsizakusebenza ezitholakalayo ukuze uthole ulwazi oluthuthukile nge-PrEP. Nazi ezinye:
+
+- **I-CDC Workshops**: I-CDC inikeza izifundo ezithinta i-PrEP.
+- **Online Webinars**: Bheka izifundo eziku-inthanethi mayelana ne-PrEP.
+- **Local Health Clinics**: Izikhungo zezempilo zendawo zineziqu ezihlobene ne-PrEP.
+- **Support Groups**: Amaqembu okuxoxa angasiza ekwabelaneni ngolwazi.
+
+Qiniseka ukuthi uxhumana nodokotela wakho ukuze uthole izeluleko ezenzakalayo.","0.0","0.94"
+"Ngabe kukhona izinkinga ezithile ezivame ukwenzeka lapho abantu besebenzisa i-PrEP, futhi yini okufanele ngiyazi ukuze ngizilungiselele?","Yebo, kunezinkinga ezithile ezivame ukwenzeka lapho abantu besebenzisa i-PrEP. Nazi ezinye:
+
+- **Uhlanga**: Ukwehla komoya.
+- **Ukudlikiza**: Ukuhlanza noma ukuhamba kahle.
+- **Ukungakhululeki kwesitho sangasese**: Ukudlula okungajabulisi.
+
+**Izinto okufanele uzicabangele**:
+
+- **Thola uhlelo**: Qiniseka ukuthi uthatha i-PrEP nsuku zonke.
+- **Ukudla**: Phuza amanzi anele futhi udle ukudla okunempilo.
+- **Vakashela udokotela**: Hamba emitholampilo njalo ukuze uhlolwe.
+
+Xoxa nodokotela wakho ukuze uthole izeluleko ezenzakalayo.","0.0","0.84"
+"Ngabe ngabe imiphumela emibi ye-PrEP ingaba nomthelela omkhulu empilweni yami, futhi ingabe kubalulekile ukuthi ngibe necebo lokuphuma uma ngithola imiphumela engathandeki?","Yebo, imiphumela emibi ye-PrEP ingaba nomthelela, kodwa ivamise ukuba mncane. Kubalulekile ukuba necebo lokuphuma uma uthola imiphumela engathandeki. 
+
+**Izinyathelo zokwenza:**
+- **Xhumana nodokotela**: Bika noma yiziphi izimpawu ezivela.
+- **Thola uhlelo**: Qiniseka ukuthi uthatha i-PrEP nsuku zonke.
+- **Funda**: Thola ulwazi ngalezi zimpawu ukuze uqonde kahle.
+
+Ukuxhumana nodokotela wakho kuzokusiza ukuthola izixazululo ezifanele.","0.0","0.87"
+"Ngabe ungathanda ukwazi okwengeziwe mayelana nezinyathelo ezithile ongazithatha ukuze uqinisekise ukuthi uthatha i-PrEP ngendlela efanele futhi uvikele imiphumela emibi?","Yebo, ngizokujabulela ukusiza! Nazi izinyathelo ezithile:
+
+- **Thola uhlelo**: Qiniseka ukuthi uthatha i-PrEP nsuku zonke, ngesikhathi esifanayo.
+  
+- **Vakashela udokotela**: Hamba emitholampilo njalo ukuze uhlolwe i-HIV, imiphumela, nezidingo zezempilo.
+
+- **Ukudla kahle**: Dla ukudla okunempilo, njengezithelo, imifino, ne-probiotics, ukuze unciphise imiphumela emibi.
+
+- **Bika imiphumela**: Uma uqaphela noma yiziphi izimpawu ezingajabulisi, xhumana nodokotela ukuze uthole izeluleko.
+
+Lezi zinyathelo zizokwenza uqinisekise ukuthi uthatha i-PrEP ngendlela efanele.","0.0","1.11"
+"Ngabe kukhona izinto ezenzakalayo noma izinyathelo ezithile ongazithatha ukuze uqinisekise ukuthi i-PrEP iyasebenza kahle futhi ivikela wena ngempela ku-HIV?","Yebo, nazi izinyathelo ezithile zokuphumelela kwe-PrEP:
+
+- **Thola uhlelo**: Qiniseka ukuthi uthatha i-PrEP nsuku zonke, ngesikhathi esifanayo.
+  
+- **Vakashela udokotela**: Hamba emitholampilo njalo ukuze uhlolwe i-HIV, imiphumela, nezidingo zezempilo.
+
+- **Bika imiphumela**: Uma uqaphela noma yiziphi izimpawu ezingajabulisi, xhumana nodokotela.
+
+- **Funda**: Thola ulwazi olunembile mayelana ne-PrEP nendlela yokuyithatha.
+
+- **Ukudla kahle**: Dla ukudla okunempilo ukuze unciphise imiphumela emibi.
+
+Lezi zinyathelo zizokwenza uqinisekise ukuthi i-PrEP iyasebenza kahle. Qiniseka ukuthi uxhumana nodokotela wakho ukuze uthole izel","0.0","0.99"
+"Ngabe kufanele ngidlule emitholampilo njalo ukuze ngiqinisekise ukuthi i-PrEP ingasiza? Futhi, ingabe kukhona izinkomba ezithile engingabheka ukujabulisa ukuhlala ngokubambisana?","Yebo, kubalulekile ukuvakashela emitholampilo njalo ukuze uqinisekise ukuthi i-PrEP iyasebenza kahle. Lokhu kuzokwenza:
+
+- **Hlola i-HIV**: Ukuhlolwa njalo kuzosiza ukuqinisekisa ukuthi uphila kahle.
+- **Bika imiphumela**: Xoxa nodokotela uma uqaphela izimpawu ezingajabulisi.
+
+### Izinkomba zokuphila ngokubambisana:
+
+- **Thola Uxhaso**: Joyina amaqembu okuxoxa.
+- **Funda**: Thola imithombo ethokozisayo mayelana ne-PrEP.
+- **Hlanganyela**: Xoxa nabanye abathatha i-PrEP ukuze uxoxe ngezinto ezithokozisayo.
+
+Qiniseka ukuthi uxhumana nodokotela wakho ukuze uthole izeluleko ezenzakalayo.","0.0","1.08"
+"Ngabe yini enye indlela engiyithola ngayo ukuze ngikwazi ukuqhuba kahle ekuthatheni i-PrEP? Futhi, ingabe kudinga izivivinyo ezithile ukuze ngiqinisekise impilo yami?","Yebo, nazi ezinye izindlela ezizokusiza ekuthatheni i-PrEP kahle:
+
+- **Thola uhlelo**: Qiniseka ukuthi uthatha i-PrEP nsuku zonke, ngesikhathi esifanayo.
+- **Vakashela udokotela**: Hamba emitholampilo njalo ukuze uhlolwe i-HIV, imiphumela, nezidingo zezempilo.
+- **Qaphela imiphumela**: Bika noma yiziphi izimpawu ezingajabulisi ukuze uxoxe nodokotela.
+
+**Izivivinyo ezibalulekile**:
+
+- **Ukuhlolwa kwe-HIV**: Ukuhlolwa kufanele kwenziwe njalo, ngokuvamile njalo ezinyangeni ezintathu.
+- **Ukuhlolwa kokusebenza kwezinso**: Ukuhlolwa kwemisebenzi yeziqhamo kunconywa njalo.
+
+Ukuxhumana nodokotela kuzokusiza uqhubeke unempilo.","0.0","0.87"
+"Ngabe kufanele ngilandele iziphakamiso ezithile ezivela kudokotela ukuze ngiqhubeke ngithatha i-PrEP ngokuphumelelayo? Futhi, ingabe kunamasu okuphila angangisiza ekuphatheni imiphumela emibi engase ibe khona?","Yebo, kufanele ulandele iziphakamiso ezivela kudokotela ukuze uqhubeke uthatha i-PrEP ngokuphumelelayo. Nazi ezinye iziphakamiso:
+
+- **Thola uhlelo**: Qiniseka ukuthi uthatha i-PrEP nsuku zonke, ngesikhathi esifanayo.
+- **Vakashela udokotela**: Hamba emitholampilo njalo ukuze uhlolwe i-HIV, imiphumela, nezidingo zezempilo.
+- **Bika imiphumela**: Xoxa nodokotela uma uqaphela izimpawu ezingajabulisi.
+
+### Amathiphu okuphila:
+
+- **Ukudla okunempilo**: Phuza amanzi anele, udle izithelo nemifino.
+- **Ukuzivocavoca**: Hlanganisa ukugijima noma imisebenzi yokuzivocavoca ukuze uthuthukise impilo yakho.
+- **Ukuph","0.0","0.91"
+"- **Ukuphumuza kahle**: Qiniseka ukuthi uthola isikhathi sokuphumula esanele ukuze usize umzimba wakho.
+
+Lezi zindlela zizokwenza uqinisekise ukuthi uthatha i-PrEP ngendlela efanele. Ukuxhumana nodokotela wakho kuzokwenza uqhubeke uthola izeluleko ezihambisana nezidingo zakho.","Yebo, kufanele ulandele iziphakamiso ezivela kudokotela ukuze uqhubeke uthatha i-PrEP ngokuphumelelayo. Nazi ezinye iziphakamiso:
+
+- **Thola uhlelo**: Qiniseka ukuthi uthatha i-PrEP nsuku zonke, ngesikhathi esifanayo.
+  
+- **Vakashela udokotela**: Hamba emitholampilo njalo ukuze uhlolwe i-HIV, imiphumela, nezidingo zezempilo.
+
+- **Bika imiphumela**: Xoxa nodokotela uma uqaphela izimpawu ezingajabulisi.
+
+### Amathiphu okuphila:
+- **Ukudla okunempilo**: Phuza amanzi anele, udle izithelo nemifino.
+- **Ukuzivocavoca**: Hlanganisa imisebenzi yokuzivocavoca ukuze uthuthukise impilo yakho.
+- **Ukuphumuza kahle**","0.0","0.82"
+"Ngabe kukhona izinkinga ezithile ezivame ukwenzeka uma abantu behluleka ukuhamba emitholampilo njalo, futhi yini ongayenza ukuze uqinisekise ukuthi uhlala uphila kahle?","Yebo, uma abantu behluleka ukuhamba emitholampilo njalo, bangase bahluleka ukuhlolwa kwe-HIV, okungaholela ekutholeni imiphumela emibi ye-PrEP. 
+
+**Izinkinga ezivame ukwenzeka:**
+- **Ukungazi**: Ungakwazi ukuhamba isikhathi eside ungazi ukuthi unayo i-HIV.
+- **Imiphumela emibi**: Ukungahambi emitholampilo kungaholela ekungaziphatheni kahle kwemithi.
+
+**Izinyathelo zokwenza:**
+- **Hlela izivakashi**: Beka isikhathi esithile sokuvakashela emitholampilo.
+- **Funda**: Thola ulwazi oludingekayo mayelana ne-PrEP.
+- **Thola uxhaso**: Joyina amaqembu okuxoxa ukuze uthole ukwesekwa.
+
+Ukuxhumana nod","0.0","0.69"
+"Ngabe kukhona izinsizakalo ezithile ezitholakala emiphakathini yenu ezisiza abantu abathatha i-PrEP? Futhi, ungathanda ukwazi ukuthi ingabe kukhona imihlahlandlela ethile yokuphila engasiza ekunqandeni imiphumela emibi?","Yebo, kunezinsizakalo ezithile ezitholakala emiphakathini ezisiza abantu abathatha i-PrEP. Nazi ezinye:
+
+- **Izikhungo Zempilo Zendawo**: Zihlinzeka ngokuqwashisa nokuxhasa.
+- **Amaqembu Okuxoxa**: Abantu bangabelana ngolwazi nokwesekwa.
+- **PrEP Navigators**: Abantu abaqeqeshiwe bangakusiza ukufinyelela izinsizakalo.
+
+### Imihlahlandlela yokuphila engasiza ekunqandeni imiphumela emibi:
+- **Thola uhlelo**: Thatha i-PrEP nsuku zonke.
+- **Ukudla Okunempilo**: Phuza amanzi anele, udle izithelo nemifino.
+- **Ukuzivocavoca**: Hlanganisa imisebenzi yokuzivocava.
+- **Vakashela udokotela","0.0","0.93"
+"Ngabe ungakwazi ukusho ukuthi yiziphi izinhlelo zomphakathi ezitholakalayo ukuze ngithole ukwesekwa okwengeziwe uma ngithatha i-PrEP? Futhi, ingabe kukhona izinsizakalo ezikhethekile ezitholakala ezikhungweni zezempilo?","Yebo, nazi izinhlelo zomphakathi ezitholakalayo ukuze uthole ukwesekwa okwengeziwe uma uthatha i-PrEP:
+
+- **Izikhungo Zempilo Zendawo**: Zihlinzeka ngokuqwashisa, ukwelashwa, nokuxhaswa.
+- **Amaqembu Okuxoxa**: Abantu bangabelana ngolwazi nolwazi lokweseka.
+- **PrEP Navigators**: Abantu abaqeqeshiwe bangakusiza ukufinyelela izinsizakalo.
+
+### Izinsizakalo ezikhethekile ezitholakala ezikhungweni zezempilo:
+- **Ukuhlolwa kwe-HIV**: Ukuhlola njalo ukuze uqinisekise impilo.
+- **Ukukhuluma nodokotela**: Ukuze uthole izeluleko ezithile nezokwelapha.
+
+Qiniseka ukuthi uvakashela izikhungo zezempilo ukuze uthole ulwazi ol","0.0","0.82"

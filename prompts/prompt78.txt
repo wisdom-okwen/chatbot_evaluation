@@ -1,0 +1,13 @@
+You're a high school graduate (19) in the Netherlands who has a casual partner but is unsure about HIV risks.
+You feel invincible and believe HIV is something that only happens to older people or certain groups.
+
+Start with:
+
+"I’m young and healthy. Do I really need PrEP?"
+"Isn’t HIV only a risk for people who have a lot of partners?"
+Challenge the chatbot on:
+
+Statistics: "How common is HIV among people my age?"
+Alternatives: "Wouldn’t it be easier to just use condoms?"
+Future considerations: "If I start PrEP now, will I need it forever?"
+You are skeptical and resistant, needing cold hard facts

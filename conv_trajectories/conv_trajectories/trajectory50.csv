@@ -1,0 +1,251 @@
+"User_Message","Response","Response_Time","Temperature"
+"Je! PrEP ni nini?","PrEP, au Pre-exposure Prophylaxis, ni dawa inayotumiwa kusaidia kuzuia maambukizi ya HIV kwa watu ambao hawana virusi hivyo lakini wako katika hatari kubwa ya kuambukizwa. 
+
+- **Jinsi inavyofanya kazi**: PrEP inazuia HIV kuingia katika seli za mwili, ikilinda mtu dhidi ya maambukizi wakati wa kufanya ngono au kutumia dawa za kulevya kwa sindano.
+- **Kipimo**: Inaweza kutumika kama kidonge kila siku au kama sindano ya kila miezi miwili (CAB-LA).
+- **Ufanisi**: Ikiwa inachukuliwa kama inavyot","0.0","0.52"
+"User: Inafanya kazi aje?  
+Chatbot: PrEP inafanya kazi kwa kuzuia HIV kuingia katika mwili wako. Ikiwa unatumia dawa hiyo kila siku, inasaidia kuzuia virusi vya HIV wakati unafanya ngono au unaposhiriki vifaa vya dawa. Hii ina maana kwamba hata kama mtu mwingine ana HIV, wewe bado uko salama.
+
+User: Je! Lazima nilipe pesa nyingi?  
+Chatbot: Bei ya PrEP inaweza","kuathiriwa na bima yako ya afya. 
+
+- **Ikiwa una bima**: Medicaid na wengi wa waajiri wa kibiashara hufunika PrEP bila gharama yoyote kwa wagonjwa. 
+- **Ikiwa huna bima**: Kuna mipango ya msaada kama ""Ready, Set, PrEP"" inayotoa PrEP bure. 
+- **Gharama zinazoweza kutolewa**: Kisichofunikwa na bima, PrEP inaweza kuwa ghali, lakini kuna mipango ya kusaidia kupunguza gharama. 
+
+Ni vyema kuzungumza na mtoa huduma wako wa afya kwa maelezo zaidi.","0.0","0.82"
+"User: Je! Naweza kupata PrEP vijijini?  
+Chatbot: Ni muhimu kujua kwamba PrEP inaweza kupatikana katika vituo vya afya na kliniki. Ingawa katika maeneo ya vijijini inaweza kuwa ngumu kidogo, baadhi ya vituo vya afya vinaweza kutoa huduma hii. Ni vyema kuuliza katika kliniki yako ya karibu ili kujua kama wana PrEP.
+
+User: Je! Hii ni dawa salama kweli?  
+Chatbot: Nd","Chatbot: Ndiyo, PrEP ni dawa salama na imeidhinishwa na FDA. Inachukuliwa kuwa na athari ndogo, na watu wengi wanaichukua bila matatizo makubwa. Hata hivyo, ni muhimu kufanya majaribio ya kawaida na daktari wako ili kuhakikisha ufanisi wa dawa na afya yako kwa ujumla. Ikiwa una maswali zaidi, usisite kuzungumza na mtoa huduma wako wa afya.","0.0","0.51"
+"Je! PrEP ina madhara yoyote? (Does PrEP have any side effects?)  
+Ninaweza kupata msaada wa daktari wapi ili nijue zaidi? (Where can I get help from a doctor to learn more?)","**Je! PrEP ina madhara yoyote?**  
+PrEP ina athari ndogo, kama vile:
+
+- Kichwa kuuma
+- Kizunguzungu
+- Kichefuchefu
+
+Athari hizi mara nyingi hupungua baada ya wiki chache za matumizi. Ni muhimu kuzungumza na daktari wako kuhusu masuala yoyote unayokutana nayo.
+
+**Ninaweza kupata msaada wa daktari wapi ili nijue zaidi?**  
+Unaweza kutembelea vituo vya afya, kliniki za HIV, au ofisi za daktari katika eneo lako. Pia, unaweza kuwasiliana na huduma za afya za jamii zinazotoa msaada kuhusu PrEP.","0.0","1.1"
+"Je! PrEP inaweza kusaidia watu wote? (Can PrEP help everyone?)  
+Je! Naweza kuiamini kuhusu usalama wake? (Can I trust its safety?)","**Je! PrEP inaweza kusaidia watu wote?**  
+PrEP inawafaidi watu ambao hawana HIV lakini wako katika hatari kubwa ya kuambukizwa. Hii ni pamoja na wale wanaofanya ngono bila kinga na watu wenye HIV au wale wanaoshiriki vifaa vya dawa. 
+
+**Je! Naweza kuiamini kuhusu usalama wake?**  
+Ndiyo, PrEP ni salama na imeidhinishwa na FDA. Ina athari ndogo na wengi wanaichukua bila matatizo makubwa. Ni muhimu kufanya majaribio ya kawaida na daktari wako ili kuhakikisha ufanisi wa dawa na afya yako kwa ujumla.","0.0","1.2"
+"Je! PrEP inaweza kusaidia watu wote? (Can PrEP help everyone?)  
+Naweza kuiamini kuhusu usalama wake? (Can I trust its safety?)  
+Chatbot: Ndiyo, PrEP inawafaidi watu ambao hawaita HIV lakini wako katika hatari kubwa ya kuambukizwa. Hii ni pamoja na wale wanaofanya ngono bila kinga na wale wanaoshiriki vifaa vya dawa. 
+
+Kuhusu usalama wake, PrEP ni sal","**Je! PrEP inaweza kusaidia watu wote?**  
+Ndiyo, PrEP inawafaidi watu ambao hawana HIV lakini wako katika hatari kubwa ya kuambukizwa. Hii ni pamoja na wale wanaofanya ngono bila kinga na wale wanaoshiriki vifaa vya dawa. 
+
+**Naweza kuiamini kuhusu usalama wake?**  
+Ndiyo, PrEP ni salama na imeidhinishwa na FDA. Ina athari ndogo, na wengi wanaichukua bila matatizo makubwa. Ni muhimu kufanya majaribio ya kawaida na daktari wako ili kuhakikisha ufanisi wa dawa na afya yako kwa ujumla.","0.0","1.07"
+"Je! PrEP inaweza kusaidia watu wote? (Can PrEP help everyone?)  
+Naweza kuiamini kuhusu usalama wake? (Can I trust its safety?)  
+
+Ningependa kujua, je! Ni vipi PrEP inaweza kusaidia watu ambao wako katika hatari tofauti? (How can PrEP help people in different risks?)  
+Na je! Kuna watu ambao hawapaswi kutumia PrEP? (Are there people who should not use PrEP?)","**Je! PrEP inaweza kusaidia watu ambao wako katika hatari tofauti?**  
+PrEP inawafaidi watu ambao hawana HIV lakini wako katika hatari kubwa ya kuambukizwa. Hii ni pamoja na:
+
+- Wanaofanya ngono bila kinga.
+- Wanaoshiriki vifaa vya dawa.
+- Wanaweza kuwa na wapenzi ambao wana HIV.
+
+**Je! Kuna watu ambao hawapaswi kutumia PrEP?**  
+Watu ambao hawapaswi kutumia PrEP ni pamoja na:
+
+- Wale walio na HIV.
+- Wale ambao wana matatizo makubwa ya figo.
+- Wale wanaochukua dawa zinazoweza kuingiliana na PrEP, kama adefovir","0.0","0.71"
+"Je! Ni vipi PrEP inaweza kusaidia watu ambao wako katika hatari tofauti? (How can PrEP help people in different risks?)  
+Na je! Kuna watu ambao hawapaswi kutumia PrEP? (Are there people who should not use PrEP?)  
+
+Ningependa kujua, je! Ni vipi PrEP inavyoweza kusaidia katika kupunguza maambukizi ya HIV katika jamii? (How can PrEP help in reducing HIV infections in the community","**Je! Ni vipi PrEP inaweza kusaidia watu ambao wako katika hatari tofauti?**  
+PrEP inawafaidi watu ambao hawana HIV lakini wako katika hatari kubwa ya kuambukizwa. Hii ni pamoja na:
+
+- Wanaofanya ngono bila kinga, hasa na wapenzi ambao wanaweza kuwa na HIV.
+- Wanaoshiriki vifaa vya dawa, kama sindano na vifaa vingine.
+- Wanaweza kuwa na wapenzi ambao wana HIV lakini wanaweza kudhibiti virusi kupitia matibabu.
+
+**Je! Kuna watu ambao hawapaswi kutumia PrEP?**  
+Watu ambao hawapaswi kutumia PrEP ni pamoja na:
+
+- Wale walio na HIV.
+","0.0","0.88"
+"Je! Ni vipi PrEP inavyoweza kusaidia katika kupunguza maambukizi ya HIV katika jamii? (How can PrEP help in reducing HIV infections in the community?)  
+Na je! Ikiwa watu wengi wanaanza kutumia PrEP, hilo litamaanisha nini kwa afya ya jamii yetu? (If many people start using PrEP, what will it mean for the health of our community?)","**Ni vipi PrEP inavyoweza kusaidia katika kupunguza maambukizi ya HIV katika jamii?**  
+PrEP inachangia kupunguza maambukizi ya HIV katika jamii kwa:
+
+- **Kuzuia maambukizi**: Watu wanaotumia PrEP wanakuwa na ulinzi wa juu dhidi ya HIV, hivyo kupunguza uwezekano wa kueneza virusi.
+- **Kujenga uelewa**: Kueneza elimu kuhusu PrEP huwasaidia watu kuelewa hatari za HIV na njia za kujilinda.
+- **Kusaidia wale walio hatarini**: Kuongeza matumizi ya PrEP miongoni mwa walio katika hatari kubwa kunap","0.0","1.09"
+"Je! Ikiwa watu wengi wanaanza kutumia PrEP, hilo litamaanisha nini kwa afya ya jamii yetu? (If many people start using PrEP, what will it mean for the health of our community?)  
+Je! Kuna mipango ya elimu kuhusu PrEP katika vijiji vyetu? (Are there educational programs about PrEP in our villages?)","**Ikiwa watu wengi wanaanza kutumia PrEP, hilo litamaanisha nini kwa afya ya jamii yetu?**  
+Kuwa na watu wengi wanaotumia PrEP kunaweza:
+
+- **Kupunguza maambukizi ya HIV**: Hii itasaidia kupunguza viwango vya maambukizi ya HIV katika jamii.
+- **Kujenga uelewa**: Kuongeza ufahamu kuhusu HIV na njia za kujilinda, hivyo kuimarisha afya ya umma.
+- **Kusaidia wale walio hatarini**: Kutoa ulinzi kwa wale walio katika hatari kubwa, kupunguza mzigo wa magonjwa katika jamii.
+
+**Je! Kuna mipango ya elimu kuhusu PrEP katika vijiji","0.0","0.88"
+"vyetu?**  
+Ndiyo, baadhi ya maeneo yana mipango ya elimu kuhusu PrEP. Hizi zinaweza kuwa semina, mikutano, au kampeni za kuelimisha jamii kuhusu HIV na jinsi PrEP inavyofanya kazi. Ni muhimu kujua kama kuna shughuli kama hizo katika kijiji chako ili uweze kupata maelezo zaidi na kusaidia wengine pia. Unaweza kuuliza katika vituo vya afya au kwa viongozi wa kijiji kuhusu mipango hiyo.","**Je! Kuna mipango ya elimu kuhusu PrEP katika vijiji vyetu?**  
+Ndiyo, baadhi ya maeneo yana mipango ya elimu kuhusu PrEP. Hizi zinaweza kuwa:
+
+- **Semina na Mikutano**: Kutoa maelezo kuhusu HIV na PrEP.
+- **Kampeni za Uhamasishaji**: Kuongeza ufahamu katika jamii kuhusu njia za kujilinda.
+
+Ni vyema kuuliza katika vituo vya afya au kwa viongozi wa kijiji kwa maelezo zaidi kuhusu shughuli hizi.","0.0","0.66"
+"Ningependa kujua, je! Ni vipi PrEP inaweza kusaidia kuzuia maambukizi ya HIV kwa watoto na vijana? (How can PrEP help prevent HIV infections in children and young people?)  
+Na je! Kuna njia nyingine za kujilinda dhidi ya HIV mbali na PrEP? (Are there other ways to protect against HIV besides PrEP?)","**Je! Ni vipi PrEP inaweza kusaidia kuzuia maambukizi ya HIV kwa watoto na vijana?**  
+PrEP inaweza kusaidia kwa:
+
+- **Kutoa ulinzi**: Watoto na vijana walio katika hatari wanaweza kuzuiwa na PrEP, hasa wale wanaofanya ngono bila kinga au wanaoshiriki vifaa vya dawa.
+- **Kujenga uelewa**: Kuongeza elimu kuhusu HIV na ulinzi wa afya kwa vijana huwasaidia kuchukua hatua sahihi za kujilinda.
+
+**Na je! Kuna njia nyingine za kujilinda dhidi ya HIV mbali na PrEP?**  
+Ndio, njia nyingine za kujilinda ni pamoja na:
+
+- **","0.0","0.74"
+"**Na je! Kuna njia nyingine za kujilinda dhidi ya HIV mbali na PrEP?**  
+Ndio, njia nyingine za kujilinda ni pamoja na:
+
+- **Kufanya ngono salama**: Kutumia kondomu kila wakati wakati wa kufanya ngono.
+- **Kupima HIV mara kwa mara**: Kujua hali yako na ya wapenzi wako.
+- **Kujifunza kuhusu njia za uhamasishaji wa jamii**: Kusaidia wengine kuj","**Na je! Kuna njia nyingine za kujilinda dhidi ya HIV mbali na PrEP?**  
+Ndio, njia nyingine za kujilinda ni pamoja na:
+
+- **Kufanya ngono salama**: Kutumia kondomu kila wakati wakati wa kufanya ngono.
+- **Kupima HIV mara kwa mara**: Kujua hali yako na ya wapenzi wako.
+- **Kujifunza kuhusu elimu ya afya**: Kuongeza ufahamu katika jamii kuhusu HIV na njia za kuhifadhi afya.
+
+Hizi ni njia muhimu za kusaidia kupunguza hatari ya maambukizi ya HIV.","0.0","0.63"
+"Je! PrEP inaweza kusaidia kuzuia maambukizi ya HIV kwa watoto na vijana? (How can PrEP help prevent HIV infections in children and young people?)  
+Na je! Kuna njia nyingine za kujilinda dhidi ya HIV mbali na PrEP? (Are there other ways to protect against HIV besides PrEP?)","**Je! PrEP inaweza kusaidia kuzuia maambukizi ya HIV kwa watoto na vijana?**  
+PrEP inaweza kusaidia kwa:
+
+- **Kutoa ulinzi**: Watoto na vijana walio katika hatari wanaweza kuzuiwa na PrEP, hasa wale wanaofanya ngono bila kinga au wanaoshiriki vifaa vya dawa.
+- **Kujenga uelewa**: Kuongeza elimu kuhusu HIV na ulinzi wa afya kwa vijana huwasaidia kuchukua hatua sahihi za kujilinda.
+
+**Na je! Kuna njia nyingine za kujilinda dhidi ya HIV mbali na PrEP?**  
+Ndio, njia nyingine za kujilinda ni pamoja na:
+
+- **Kufanya","0.0","0.75"
+"ngono salama**: Kutumia kondomu kila wakati wakati wa kufanya ngono.
+- **Kupima HIV mara kwa mara**: Kujua hali yako na ya wapenzi wako.
+- **Kujifunza kuhusu elimu ya afya**: Kuongeza ufahamu katika jamii kuhusu HIV na njia za kuhifadhi afya.
+
+Ningependa kujua, je! PrEP inapatikana kwa watoto na vijana? (Is PrEP available for children and young people?)  
+Na je","**Je! PrEP inapatikana kwa watoto na vijana?**  
+Ndio, PrEP inapatikana kwa watoto na vijana ambao hawana HIV lakini wako katika hatari kubwa ya kuambukizwa. Ni muhimu kwa watoto na vijana hawa kuzungumza na daktari wao kuhusu hatari zao na faida za PrEP.
+
+**Na je! Kuna njia nyingine za kujilinda dhidi ya HIV mbali na PrEP?**  
+Ndio, njia nyingine za kujilinda ni pamoja na:
+
+- **Kufanya ngono salama**: Kutumia kondomu kila wakati wakati wa kufanya ngono.
+- **Kupima HIV mara kwa mara**: Kujua hali yako na ya wapenzi wako.
+- **K","0.0","1.1"
+"Ningependa kujua, je! PrEP inapatikana kwa watoto na vijana? (Is PrEP available for children and young people?)  
+Na je! PrEP inaweza kutoa msaada kwa watu wenye wasiwasi wa afya ya akili? (Can PrEP help people with mental health concerns?)","**Je! PrEP inapatikana kwa watoto na vijana?**  
+Ndio, PrEP inapatikana kwa watoto na vijana ambao hawana HIV lakini wako katika hatari kubwa ya kuambukizwa. Ni muhimu kwao kuzungumza na daktari wao kuhusu hatari na faida za PrEP.
+
+**Je! PrEP inaweza kutoa msaada kwa watu wenye wasiwasi wa afya ya akili?**  
+PrEP inaweza kusaidia watu wenye wasiwasi wa afya ya akili kwa kutoa ulinzi dhidi ya HIV, hivyo kupunguza wasiwasi wa kuambukizwa. Hata hivyo, ni muhimu kujadili masuala ya afya ya akili na mtoa huduma ili kupata msaada unaohitajika.","0.0","0.92"
+"Ningependa kujua, je! PrEP inaweza kusaidia watu wenye wasiwasi wa afya ya akili kwa vipi? (How can PrEP help people with mental health concerns?)  
+Na je! Kuna mashirika au vikundi vya kusaidia watu wanaotumia PrEP katika jamii yetu? (Are there organizations or support groups for people using PrEP in our community?)","**Je! PrEP inaweza kusaidia watu wenye wasiwasi wa afya ya akili kwa vipi?**  
+PrEP inaweza kusaidia kwa kupunguza wasiwasi wa kupata HIV, hivyo kuwapa watu uhakika wa afya yao. Hii inaweza kuboresha hali yao ya kiakili kwa kuwapa ulinzi.
+
+**Na je! Kuna mashirika au vikundi vya kusaidia watu wanaotumia PrEP katika jamii yetu?**  
+Ndiyo, kuna mashirika na vikundi vya msaada vinavyotoa elimu na usaidizi kwa watu wanaotumia PrEP. Unaweza kuuliza katika vituo vya afya au kliniki za HIV kwa taarifa zaidi juu ya rasilimali hizi katika jamii yako.","0.0","0.74"
+"Ningependa kujua, je! Ni vipi unaweza kupata taarifa zaidi kuhusu PrEP na watu wanaotumia dawa kama hii katika jamii yetu? (How can you find more information about PrEP and people using this medication in our community?)  
+Na je! Unafikiri kuna haja ya kuanzisha elimu zaidi kuhusu PrEP katika kijiji chetu? (Do you think there is a need for more education about PrEP in our village?)","**Je! Ni vipi unaweza kupata taarifa zaidi kuhusu PrEP na watu wanaotumia dawa kama hii katika jamii yetu?**  
+Unaweza kupata taarifa zaidi kuhusu PrEP kupitia:
+
+- **Vituo vya afya**: Wengi wanatoa elimu na huduma kuhusu PrEP.
+- **Kliniki za HIV**: Zinatoa msaada wa moja kwa moja na ushauri.
+- **Mashirika ya afya ya jamii**: Hutoa rasilimali na semina za elimu.
+
+**Na je! Unafikiri kuna haja ya kuanzisha elimu zaidi kuhusu PrEP katika kijiji chetu?**  
+Ndio, elimu zaidi kuhusu PrEP inaweza kusaidia kuongeza ufahamu wa HIV, kupunguza unyany","0.0","1.11"
+"**Je! Ni vipi unaweza kupata taarifa zaidi kuhusu PrEP na watu wanaotumia dawa kama hii katika jamii yetu?**  
+Unaweza kupata taarifa zaidi kuhusu PrEP kupitia:
+
+- **Vituo vya afya**: Wengi wanatoa elimu na huduma kuhusu PrEP.
+- **Kliniki za HIV**: Zinatoa msaada wa moja kwa moja na ushauri.
+- **Mashirika ya afya ya jamii**: Hutoa rasilimali na semina za elimu.","**Je! Ni vipi unaweza kupata taarifa zaidi kuhusu PrEP na watu wanaotumia dawa kama hii katika jamii yetu?**  
+Unaweza kupata taarifa zaidi kuhusu PrEP kupitia:
+
+- **Vituo vya afya**: Wengi wanatoa elimu na huduma kuhusu PrEP.
+- **Kliniki za HIV**: Zinatoa msaada wa moja kwa moja na ushauri.
+- **Mashirika ya afya ya jamii**: Hutoa rasilimali na semina za elimu.
+
+**Na je! Unafikiri kuna haja ya kuanzisha elimu zaidi kuhusu PrEP katika kijiji chetu?**  
+Ndio, elimu zaidi kuhusu PrEP inaweza kusaidia kuongeza ufahamu wa HIV na kupunguza unyany","0.0","1.06"
+"Ningependa kujua, je! Kuna vikao vya elimu au watu katika jamii wanaweza kufundisha kuhusu PrEP? (Are there sessions or people in the community who can teach about PrEP?)  
+Na je! Unaweza kusaidiaje mtu ambaye anahitaji kuelewa zaidi kuhusu PrEP lakini ana wasiwasi? (How can you help someone who needs to understand more about PrEP but is worried?)","**Je! Kuna vikao vya elimu au watu katika jamii wanaweza kufundisha kuhusu PrEP?**  
+Ndiyo, kuna vikao vya elimu na mashirika yanayotoa mafunzo kuhusu PrEP. Unaweza kutafuta semina au mikutano katika vituo vya afya, shule za afya, au mashirika ya kijamii.
+
+**Na je! Unaweza kusaidiaje mtu ambaye anahitaji kuelewa zaidi kuhusu PrEP lakini ana wasiwasi?**  
+Unaweza kumsaidia kwa:
+
+- **Kumhimiza kutafuta habari**: Msaada wa vitabu, tovuti, au vikao vya elimu.
+- **Kumshauri kutembelea daktari**","0.0","1.11"
+"**Je! Kuna vikao vya elimu au watu katika jamii wanaweza kufundisha kuhusu PrEP?**  
+Ndiyo, kuna vikao vya elimu na mashirika yanayotoa mafunzo kuhusu PrEP. Unaweza kutafuta semina au mikutano katika vituo vya afya, shule za afya, au mashirika ya kijamii.
+
+**Na je! Unaweza kusaidiaje mtu ambaye anahitaji kuelewa zaidi kuhusu PrEP lakini ana wasiwasi?**","**Je! Kuna vikao vya elimu au watu katika jamii wanaweza kufundisha kuhusu PrEP?**  
+Ndiyo, kuna vikao vya elimu na mashirika yanayotoa mafunzo kuhusu PrEP. Unaweza kutafuta semina au mikutano katika vituo vya afya, shule za afya, au mashirika ya kijamii.
+
+**Na je! Unaweza kusaidiaje mtu ambaye anahitaji kuelewa zaidi kuhusu PrEP lakini ana wasiwasi?**  
+Unaweza kumsaidia kwa:
+
+- **Kumhimiza kutafuta habari**: Msaada wa vitabu, tovuti, au vikao vya elimu.
+- **Kumshauri kutembelea daktari**","0.0","0.83"
+"**Je! Unaweza kusaidiaje mtu ambaye anahitaji kuelewa zaidi kuhusu PrEP lakini ana wasiwasi?**  
+Unaweza kumsaidia kwa:
+
+- **Kumhimiza kutafuta habari**: Msaada wa vitabu, tovuti, au vikao vya elimu.
+- **Kumshauri kutembelea daktari**: Daktari anaweza kuelezea vizuri kuhusu PrEP na kujibu maswali yao.
+- **Kumsikiliza","**Je! Unaweza kusaidiaje mtu ambaye anahitaji kuelewa zaidi kuhusu PrEP lakini ana wasiwasi?**  
+Unaweza kumsaidia kwa:
+
+- **Kumhimiza kutafuta habari**: Msaada wa vitabu, tovuti, au vikao vya elimu.
+- **Kumshauri kutembelea daktari**: Daktari anaweza kuelezea vizuri kuhusu PrEP na kujibu maswali yao.
+- **Kumsikiliza**: Kutoa nafasi ya kujieleza na kujadili hofu zao bila hukumu.","0.0","1.14"
+"Ningependa kujua, je! Kuna watu wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP na afya ya HIV? (Are there people who can talk to the community about the importance of PrEP and HIV health?)  
+Na je! Kuna njia nzuri ya kuhamasisha watu wengine kujifunza kuhusu PrEP? (What is a good way to encourage others to learn about PrEP?)","**Je! Kuna watu wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP na afya ya HIV?**  
+Ndio, kuna wataalamu wa afya, wakala wa afya ya jamii, na watu wenye ujuzi wa HIV wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP. 
+
+**Na je! Kuna njia nzuri ya kuhamasisha watu wengine kujifunza kuhusu PrEP?**  
+- **Kufanya semina**: Kuandaa matukio ya elimu kupitia vituo vya afya au shule.
+- **Kampeni za uhamasishaji**: Kutumia vyombo vya habari na mitandao ya kijamii kueneza ufahamu.
+- **Kutoa rasil","0.0","0.96"
+"**Je! Kuna watu wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP na afya ya HIV?**  
+Ndiyo, kuna wataalamu wa afya, wakala wa afya ya jamii, na watu wenye ujuzi wa HIV wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP.
+
+**Na je! Kuna njia nzuri ya kuhamasisha watu wengine kujifunza kuhusu PrEP?**  
+- **Kufanya semina**: Kuandaa matuk","**Je! Kuna watu wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP na afya ya HIV?**  
+Ndiyo, kuna wataalamu wa afya, wakala wa afya ya jamii, na watu wenye ujuzi wa HIV wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP.
+
+**Na je! Kuna njia nzuri ya kuhamasisha watu wengine kujifunza kuhusu PrEP?**  
+- **Kufanya semina**: Kuandaa matukio ya elimu kupitia vituo vya afya au shule.
+- **Kampeni za uhamasishaji**: Kutumia vyombo vya habari na mitandao ya kijamii kueneza ufahamu.
+- **Kutoa rasilimali","0.0","1.1"
+"**Je! Kuna watu wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP na afya ya HIV?**  
+Ndio, kuna wataalamu wa afya, wakala wa afya ya jamii, na watu wenye ujuzi wa HIV wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP.
+
+**Na je! Kuna njia nzuri ya kuhamasisha watu wengine kujifunza kuhusu PrEP?**  
+- **Kufanya semina**: Kuandaa matuk","**Je! Kuna watu wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP na afya ya HIV?**  
+Ndio, kuna wataalamu wa afya, wakala wa afya ya jamii, na watu wenye ujuzi wa HIV wanaweza kuzungumza na jamii kuhusu umuhimu wa PrEP.
+
+**Na je! Kuna njia nzuri ya kuhamasisha watu wengine kujifunza kuhusu PrEP?**  
+- **Kufanya semina**: Kuandaa matukio ya elimu kupitia vituo vya afya au shule. 
+- **Kampeni za uhamasishaji**: Kutumia vyombo vya habari na mitandao ya kijamii kueneza ufahamu. 
+- **Kutoa r","0.0","1.16"

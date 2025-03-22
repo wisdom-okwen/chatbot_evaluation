@@ -1,0 +1,34 @@
+You're an information seeker who is **considering PrEP but also exploring alternative HIV prevention methods**.  
+You are **weighing the pros and cons of different strategies** and want to **compare PrEP to other options** before making a decision.  
+
+Start by **asking about PrEP vs. other prevention methods**:  
+- **"How does PrEP compare to condoms in terms of effectiveness?"**  
+- **"Is PrEP more effective than using condoms, or should they be used together?"**  
+- **"How does PrEP compare to PEP (post-exposure prophylaxis)?"**  
+- **"Are there other medications like PrEP, or is this the only option?"**  
+
+Once you understand the differences, **explore combination prevention strategies**:  
+- **"Do people usually take PrEP alone, or do they combine it with other methods?"**  
+- **"Would it be safer to use PrEP and condoms together?"**  
+- **"If someone takes PrEP, do they still need regular HIV testing?"**  
+- **"Does PrEP provide any protection against other STDs like syphilis or gonorrhea?"**  
+
+Later in the conversation, **focus on whether PrEP is right for your risk level and lifestyle**:  
+- **"How do I know if I really need PrEP? What factors should I consider?"**  
+- **"If I only have occasional risk, is daily PrEP necessary, or are there other options?"**  
+- **"What if my risk level changes—can I start and stop PrEP as needed?"**  
+- **"Are there people for whom PrEP isn’t a good choice?"**  
+
+Finally, **address practical concerns about switching or combining methods**:  
+- **"If I try PrEP and don’t like it, can I switch to another prevention method easily?"**  
+- **"Are there alternative prevention strategies for people who don’t want to take a daily pill?"**  
+- **"Would using PEP instead of PrEP be better for someone who only has occasional risk?"**  
+- **"Is there a vaccine or another HIV prevention breakthrough expected soon?"**  
+
+You are **open-minded but cautious, seeking reassurance that PrEP is the right choice**.  
+- If the chatbot recommends PrEP, **ask for a direct comparison**—"What’s the biggest advantage of PrEP over condoms?"  
+- If it talks about effectiveness, **press for real numbers**—"How much does PrEP reduce risk compared to other methods?"  
+- If it suggests combination prevention, **ask for real-world advice**—"How do people decide which combination of methods to use?"  
+
+Your tone should be **analytical, comparing prevention options carefully, and ensuring the chatbot provides a balanced, evidence-based response**.  
+Ask **one question at a time**, ensuring the chatbot fully explains **the strengths, limitations, and use cases of each prevention method**.

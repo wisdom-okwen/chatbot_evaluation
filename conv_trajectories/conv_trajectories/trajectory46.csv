@@ -1,0 +1,199 @@
+"User_Message","Response","Response_Time","Temperature"
+"Je! Ninaweza kupata PrEP katika maeneo tofauti?","Ndio, unaweza kupata PrEP katika maeneo mbalimbali, ikiwa ni pamoja na:
+
+- **Kliniki za afya**: Zaidi ya kliniki nyingi za afya zinaweza kutoa PrEP.
+- **Maktaba za dawa**: Dawa za PrEP zinapatikana kwa agizo la daktari.
+- **Vituo vya afya ya jamii**: Vituo vya afya vinavyotoa huduma za kuzuia HIV mara nyingi vinatoa PrEP.
+- **Mtandao**: Unaweza kupata PrEP kupitia tovuti za huduma za afya na kliniki za mtandaoni.
+
+Ni vizuri kuzungumza na mtoa huduma wa afya ili kujua wapi unaweza kuipata.","0.0","1.01"
+"Inachukua muda gani kuanza kufanya kazi?","PrEP inahitaji muda fulani kabla ya kuanza kufanya kazi ipasavyo:
+
+- **Vaginal sex au matumizi ya dawa**: Inachukua takriban siku 21 za matumizi ya kila siku ili kutoa ulinzi bora dhidi ya HIV.
+- **Anal sex**: Inachukua siku 7 za matumizi ya kila siku kwa ulinzi bora.
+
+Ni muhimu kufuata ratiba ya kidonge kila siku ili kuhakikisha ufanisi.","0.0","0.88"
+"Je! Lazima nipate daktari kila mwezi?","Ndio, unapokuwa unatumia PrEP, ni muhimu kutembelea daktari kila miezi mitatu. Katika kila ziara, daktari atafanya vipimo vya HIV na kuangalia kazi za figo ili kuhakikisha ufanisi na usalama wa PrEP. Hii inasaidia kufuatilia afya yako na kufanya marekebisho yoyote katika matibabu yako.","0.0","0.99"
+"Je! Kuna njia zingine bora zaidi?","Kuna njia mbalimbali za kuzuia HIV ambazo zinaweza kuwa bora kulingana na mahitaji yako. Hizi ni pamoja na:
+
+- **PrEP**: Kichocheo cha kila siku au sindano ya kila miezi miwili (CAB-LA) kwa ulinzi wa muda mrefu.
+- **Makondu**: Makondomu ya kiume na ya kike hutoa ulinzi wa mwili dhidi ya HIV na magonjwa mengine ya zinaa.
+- **Kupima mara kwa mara**: Kujua hali yako ya HIV na ya wapartner wako ni muhimu.
+
+Zungumza na daktari wako ili kupata njia inayofaa zaidi kwako.","0.0","0.87"
+"Nina wasiwasi kuhusu siri ya matumizi ya PrEP. Je! Ninaweza kupata bila watu kujua?","Ndio, unaweza kutumia PrEP kwa faragha. Hapa kuna baadhi ya njia za kujiweka siri:
+
+- **Dawa za PrEP**: Unaweza kupata dawa kupitia duka la dawa na kuagiza kwa siri.
+- **Kliniki za afya**: Tafuta kliniki za afya zinazotoa huduma za faragha kwa wateja.
+- **Mtoa huduma wa afya**: Unaweza kujadili faragha na mtoa huduma wako wa afya ili kuhakikisha usiri.
+
+Kumbuka, ni haki yako kudumisha faragha kuhusu afya yako. Zungumza na daktari wako ili kupata maelezo zaidi.","0.0","1.15"
+"Ningependa kujua: ""Je! Kuna maeneo maalum katika nchi yangu ambapo ninaweza kupata PrEP kwa urahisi?""","Ndio, kuna maeneo maalum ambapo unaweza kupata PrEP kwa urahisi. Hizi ni pamoja na:
+
+- **Kliniki za afya**: Tafuta kliniki za afya za ndani zinazotoa huduma za HIV na PrEP.
+- **Vituo vya afya ya jamii**: Vituo hivi mara nyingi hutoa huduma za kuzuia HIV na PrEP.
+- **Maktaba za dawa**: Dawa za PrEP zinapatikana kwa agizo la daktari.
+- **Mtandao**: Tovuti za huduma za afya zinaweza kusaidia kupata kliniki za PrEP katika eneo lako.
+
+Ni vyema kuzungumza na mtoa huduma wa afya ili kupata maelezo zaidi.","0.0","1.04"
+"Je! Ni mambo gani mengine ambayo yanahitaji kujulikana kabla ya kuanza kutumia PrEP?","Kabla ya kuanza kutumia PrEP, ni muhimu kujua yafuatayo:
+
+- **Kujua Hali Yako ya HIV**: Unahitaji kupimwa HIV ili kuhakikisha haujapata virusi.
+- **Vipimo vya Kazi za Figo**: Daktari atakagua kazi za figo zako, kwani PrEP inaweza kuathiri afya ya figo.
+- **Muda wa Kutembelea Daktari**: Utahitaji kutembelea daktari kila miezi mitatu kwa ufuatiliaji.
+- **Mawasiliano na Mtoa Huduma**: Ni muhimu kuwa na mawasiliano mazuri na daktari wako kuhusu matatizo yoyote au maswali kuhusu","0.0","0.91"
+"Ningependa kujua: ""Ninaweza kupata usaidizi gani ikiwa sina fedha za kulipia PrEP?""","Ikiwa huna fedha za kulipia PrEP, kuna msaada mbalimbali unapatikana:
+
+- **Programu za Msaada wa Fedha**: Programu kama ""Ready, Set, PrEP"" hutoa dawa za PrEP bure kwa waliohitimu. 
+- **Msaada wa Gilead**: Programu ya Gilead inatoa PrEP na vipimo vya HIV bila malipo kwa watu wenye kipato kinachopungua 500% ya kiwango cha umaskini wa shirikisho.
+- **Kliniki za Afya**: Tafuta vituo vya afya ya jamii ambavyo vinaweza kutoa huduma za PrEP bure au kwa gharama nafuu.
+- **Maktaba za","0.0","1.09"
+"dawa**: Baadhi ya maduka ya dawa yanaweza kutoa PrEP kwa gharama nafuu au kupitia mipango ya msaada.
+
+Ningependa kujua: ""Je! Kuna hatari zozote zinazohusiana na matumizi ya PrEP?""","PrEP ni njia salama na yenye ufanisi ya kuzuia HIV, lakini kuna hatari chache zinazoweza kuhusishwa nazo:
+
+- **Madhara ya Pembeni**: Watu wengine wanaweza kupata madhara madogo kama vile kichefuchefu, maumivu ya kichwa, na uchovu, ambayo mara nyingi hupungua ndani ya wiki chache.
+  
+- **Athari kwa Figo**: PrEP inaweza kuathiri kazi za figo, hivyo ni muhimu kufanywa vipimo vya figo kila miezi mitatu.
+
+- **Ushirikiano na Dawa Nyingine**: Baadhi ya dawa, kama vile zile za matibabu ya Hepatitis B, zin","0.0","0.64"
+"Ningependa kujua: ""Je! Kuna madhara ya muda mrefu ambayo yanapaswa kujulikana kuhusu matumizi ya PrEP?""","PrEP ni salama na yenye ufanisi, lakini madhara makubwa ya muda mrefu hayajathibitishwa. Hata hivyo, mambo yafuatayo yanapaswa kuzingatiwa:
+
+- **Athari za Figo**: Kuna uwezekano wa kuathiri kazi za figo kwa muda mrefu, hivyo ni muhimu kufanywa vipimo vya figo kila miezi mitatu.
+  
+- **Ushirikiano na Dawa Nyingine**: Dawa zingine, kama zile za Hepatitis B, zinaweza kuathiri ufanisi wa PrEP.
+
+Ni muhimu kujadili maswali haya na daktari wako ili kuelewa zaidi.","0.0","0.76"
+"Ningependa kujua: ""Je! Ni hatua zipi ambazo ni muhimu kufuata ili kuanza kutumia PrEP?""","Ili kuanza kutumia PrEP, hatua zifuatazo ni muhimu:
+
+- **Kujua Hali Yako ya HIV**: Unahitaji kupimwa HIV ili kuhakikisha haujapata virusi.
+  
+- **Kufanya Vipimo vya Kazi za Figo**: Daktari atafanya vipimo ili kuangalia afya ya figo zako.
+  
+- **Kupata Agizo la Daktari**: Utahitaji kupata agizo la PrEP kutoka kwa mtoa huduma wa afya.
+
+- **Kujadili na Daktari**: Zungumza na daktari wako kuhusu maswali yoyote au wasiwasi ulionao.
+
+- **Mpango wa Ufuatiliaji**: Hakikisha","0.0","1.11"
+"Ningependa kujua: ""Je! Kuna tofauti kati ya PrEP na njia nyingine za kuzuia HIV kama kondomu?""","PrEP na makondomu ni njia mbili tofauti za kuzuia HIV, kila moja ikiwa na faida zake:
+
+### PrEP (Pre-exposure Prophylaxis)
+- **Maelezo**: Ni dawa inayotumika na watu wasio na HIV ili kujikinga na maambukizi ya HIV.
+- **Ufanisi**: Inapochukuliwa kila siku, PrEP inaweza kupunguza hatari ya maambukizi ya HIV kwa karibu 99%.
+- **Faragha**: Inatoa ulinzi bila lazima kushirikiana na mwenza, hivyo inaweza kuwa na usiri zaidi.
+
+### Makondomu
+- **Maelezo**: Ni vifaa vya kizuizi vinavy","0.0","0.57"
+"Ningependa kujua: ""Je! Ni jinsi gani PrEP inavyoweza kuwa faida kwa afya yangu katika muda mrefu?""","PrEP (Pre-exposure Prophylaxis) inaweza kuwa na faida kadhaa kwa afya yako katika muda mrefu:
+
+- **Ulinzi wa HIV**: Inapochukuliwa kama ilivyoagizwa, PrEP inatoa ulinzi wa karibu 99% dhidi ya maambukizi ya HIV, ikihakikisha usalama wa afya yako ya ngono.
+  
+- **Kujenga Uwezo wa Afya**: Kutumia PrEP kunaweza kukusaidia kujiamini katika mahusiano yako, ukijua unachukua hatua za kuzuia maambukizi ya HIV.
+
+- **Kuimarisha Afya ya Figo**: Ingawa ni muhimu kufuatilia kazi za","0.0","1.15"
+"Je! Ninaweza kupata taarifa zaidi juu ya vipimo ambavyo ni muhimu kabla ya kuanza kutumia PrEP?","Kabla ya kuanza kutumia PrEP, ni muhimu kufanya vipimo vifuatavyo:
+
+- **Kujua Hali Yako ya HIV**: Unahitaji kupimwa HIV ili kuhakikisha haujapata virusi.
+  
+- **Vipimo vya Kazi za Figo**: Daktari atafanya vipimo ili kuangalia afya ya figo zako, kwani PrEP inaweza kuathiri kazi za figo.
+
+- **Vipimo vya Magonjwa Mengine ya Zinaa**: Ni muhimu kupima kwa magonjwa kama gonorrhea na chlamydia ili kuhakikisha afya yako ya ngono.
+
+- **Mawasiliano na Mtoa Huduma**: Zungumza na daktari wako kuhusu maswali yoyote au","0.0","0.9"
+"Ningependa kujua: ""Je! Kuna njia za kuweza kufuatilia matumizi yangu ya PrEP ikiwa nipo katika maeneo tofauti?""","Ili kufuatilia matumizi yako ya PrEP ukiwa katika maeneo tofauti, unaweza kufanya yafuatayo:
+
+- **Kliniki za Afya**: Tembelea kliniki za afya zinazotoa huduma za PrEP ili kupata ufuatiliaji mzuri.
+  
+- **Maktaba za Dawa**: Fanya agizo la dawa kupitia duka la dawa unalotumia, na hakikisha unafuata ratiba ya kidonge.
+  
+- **Simu za Mkononi**: Tumia programu za simu za mkononi ambazo zinaweza kukusaidia kufuatilia siku zako za matumizi ya PrEP.
+
+- **Mtoa Huduma wa Afya**: Zungumza na daktari","0.0","0.55"
+"Ningependa kujua: ""Je! Kuna vidokezo gani vya kufuata ili kuhakikisha kuwa ninafanya matumizi sahihi ya PrEP?""","Ili kuhakikisha unatumia PrEP kwa usahihi, fuata vidokezo vifuatavyo:
+
+- **Chukua Dawa Kila Siku**: Hakikisha unachukua PrEP kila siku kama ilivyoagizwa. 
+
+- **Fanya Vipimo Mara kwa Mara**: Tembelea daktari kila miezi mitatu kwa vipimo vya HIV na kazi za figo.
+
+- **Kuwa na Mawasiliano na Daktari**: Zungumza na mtoa huduma wako kuhusu maswali au wasiwasi wowote kuhusu matumizi yako.
+
+- **Fuatilia Mambo ya Afya**: Jifunze kuhusu athari za pembeni na ifanye iwe rahisi kuziripoti.
+
+","0.0","0.96"
+"Ningependa kujua: ""Je! Kuna mipango ya usaidizi wa afya kwa watu wanaohitaji PrEP katika maeneo yangu?""","Ikiwa unahitaji usaidizi wa afya kwa watu wanaohitaji PrEP katika maeneo yako, unaweza kuangalia mambo yafuatayo:
+
+- **Kliniki za Afya za Jamii**: Tafuta vituo vya afya ya jamii ambavyo hutoa huduma za PrEP bila malipo au kwa gharama nafuu.
+
+- **Programu za Msaada wa Fedha**: Programu kama ""Ready, Set, PrEP"" hutoa dawa za PrEP bure kwa waliohitimu.
+
+- **Msaada wa Gilead**: Programu hii inatoa PrEP na vipimo vya HIV bila malipo kwa watu wenye kipato kinachopungua 500% ya kiwango cha umaskini wa sh","0.0","0.62"
+"User: Ningependa kujua: ""Je! Kuna mashirika au vikundi vya kijamii ambavyo vinaweza kusaidia katika kupata PrEP?""","Ili kupata msaada katika kupata PrEP, unaweza kuangalia mashirika na vikundi vya kijamii vifuatavyo:
+
+- **Mashirika ya Afya ya Kijamii**: Tafuta mashirika ya afya yanayotoa huduma za HIV na PrEP katika eneo lako.
+  
+- **Vikundi vya Kusaidia**: Vikundi kama ""SisterLove"" au ""The Well Project"" vinaweza kutoa maelezo na msaada wa kupata PrEP.
+
+- **Kliniki za Afya ya Jamii**: Wengi wanatoa huduma za PrEP na wanaweza kusaidia kwa mipango ya msaada wa kifedha.
+
+- **Tovuti za Msaada**: Tem","0.0","0.7"
+"Ningependa kujua: ""Je! Ni sababu gani za kupendelea kutumia PrEP kuliko njia nyingine za kuzuia HIV?""","Kuna sababu kadhaa za kupendelea kutumia PrEP kuliko njia nyingine za kuzuia HIV:
+
+- **Ufanisi wa Juu**: PrEP inaweza kupunguza hatari ya maambukizi ya HIV kwa karibu 99% inapochukuliwa kila siku.
+
+- **Faragha**: Inaruhusu matumizi ya ulinzi bila kuhitaji ushirikiano kutoka kwa mwenza, hivyo inaweza kuwa chaguo bora kwa wale wanaotaka usiri.
+
+- **Rahisi na Inapatikana**: PrEP inapatikana kupitia daktari na inaweza kuwa na mipango ya msaada wa kifedha.
+
+- **Si ya Kila Wakati**: Inatoa ulinzi wa muda m","0.0","1.19"
+"Ningependa kujua: ""Je! Ni jinsi gani naweza kujifunza zaidi kuhusu jinsi PrEP inavyofanya kazi katika kinga dhidi ya HIV?""","Ili kujifunza zaidi kuhusu jinsi PrEP inavyofanya kazi katika kinga dhidi ya HIV, unaweza kufuata hatua zifuatazo:
+
+- **Tafiti na Makala**: Soma makala za kisayansi na tafiti kuhusu PrEP zinazopatikana mtandaoni.
+
+- **Tovuti za Afya**: Tembelea tovuti za afya kama CDC au WHO zinazotoa maelezo ya kina kuhusu PrEP.
+
+- **Mikutano ya Afya**: Shiriki katika mikutano ya afya au semina zinazojadili masuala ya HIV na uzuiaji wake.
+
+- **Kujadili na Mtaalamu wa Afya**: Zungumza na daktari","0.0","0.91"
+"Ningependa kujua: ""Je! Kuna mafunzo au semina zinazotolewa kuhusu matumizi ya PrEP katika maeneo yangu?""","Ili kujifunza kuhusu mafunzo au semina zinazotolewa kuhusu matumizi ya PrEP katika maeneo yako, unaweza kufuata hatua zifuatazo:
+
+- **Kliniki za Afya**: Tembelea kliniki za afya za ndani zinazotoa mafunzo kuhusu PrEP na huduma za HIV.
+
+- **Mashirika ya Afya ya Kijamii**: Tafuta mashirika ambayo yanaweza kutoa semina au elimu kuhusu PrEP.
+
+- **Tovuti za Afya**: Angalia tovuti za afya kama CDC au WHO kwa maelezo kuhusu matukio ya mafunzo.
+
+- **Mitandao ya Kijamii**: Jiunge na vikundi vya mtandaoni au","0.0","0.73"
+"Ningependa kujua: ""Je! Kuna orodha ya vituo vya afya au kliniki zinazotoa PrEP katika maeneo tofauti?""","Ili kupata orodha ya vituo vya afya au kliniki zinazotoa PrEP katika maeneo tofauti, unaweza kufuata hatua zifuatazo:
+
+- **Tovuti za Afya**: Tembelea tovuti kama CDC au HIV.gov, ambazo zinaweza kutoa orodha ya vituo vya afya zinazotoa PrEP. 
+
+- **Maktaba za Dawa**: Wengi wa maduka ya dawa wanaweza kuelekeza huduma za PrEP au kukupa maelezo ya vituo vya karibu.
+
+- **Mashirika ya Afya ya Kijamii**: Tafuta mashirika ya afya ya kijamii katika eneo lako ambayo yanaweza kutoa huduma za HIV na PrEP.
+
+- **Mtoa","0.0","0.94"
+"User: Ningependa kujua: ""Je! Kuna mipango ya ushirikiano kati ya serikali na mashirika yasiyo ya kiserikali kuhusu utoaji wa PrEP?""","Ili kujua kuhusu mipango ya ushirikiano kati ya serikali na mashirika yasiyo ya kiserikali kuhusu utoaji wa PrEP, unaweza kuangalia yafuatayo:
+
+- **Tovuti za Serikali na Mashirika ya Afya**: Mamikakati ya serikali yanaweza kuonekana kwenye tovuti rasmi kama CDC au HIV.gov, wakishirikiana na mashirika yasiyo ya kiserikali kutoa PrEP.
+
+- **Mikutano ya Afya**: Shiriki katika mikutano ya afya au semina ambazo zinaweza kujadili ushirikiano wa huduma za HIV.
+
+- **Kliniki za Afya ya Jamii**: Tafuta kliniki ambazo zinaweza kutoa taarifa kuhusu mipango ya","0.0","1.2"
+"Ningependa kujua: ""Je! Kuna maelezo yoyote kuhusu jinsi ya kuwasiliana na mtoa huduma wa afya kuhusu matumizi ya PrEP?""","Ili kuwasiliana na mtoa huduma wa afya kuhusu matumizi ya PrEP, unaweza kufuata hatua zifuatazo:
+
+- **Tafuta Mtoa Huduma**: Pata daktari au kliniki inayotoa huduma za HIV na PrEP.
+
+- **Wasiliana kwa Simu**: Piga simu kwa ofisi ya daktari au kliniki na upange miadi.
+
+- **Barua Pepe**: Ikiwa inawezekana, tumia barua pepe kuwasiliana na mtoa huduma wako ili kuuliza maswali au kuomba maelezo zaidi.
+
+- **Kutembelea Moja kwa Moja**: Tembelea kliniki yako ya afya ili kuzung","0.0","0.75"
+"Ningependa kujua: ""Je! Kuna njia za kuweza kuanzisha mazungumzo na daktari kuhusu wasiwasi wangu kuhusu matumizi ya PrEP?""","Ili kuanzisha mazungumzo na daktari kuhusu wasiwasi wako kuhusu matumizi ya PrEP, unaweza kufuata hatua zifuatazo:
+
+- **Andika Maswali**: Andika maswali yako kabla ya kuhudhuria miadi ili uweze kujieleza vizuri.
+
+- **Fanya Miadi**: Panga miadi na daktari wako, ukitaja kwamba unataka kujadili PrEP.
+
+- **Fikia Mapema**: Tembelea ofisi ya daktari mapema na ushirikiane na wahudumu wa afya kuhusu wasiwasi wako.
+
+- **Zungumza kwa Uwazi**: Wakati wa ziara, ongea kwa uwazi kuhusu was","0.0","0.59"
