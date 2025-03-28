@@ -17,8 +17,8 @@ HISTORY_FILE = "/playpen-ssd/wokwen/projects/chatbot_eval/prompt_history.txt"
 
 os.makedirs(PROMPT_DIR, exist_ok=True)
 
-NUM_PROMPTS = 10
-START_INDEX = 512
+NUM_PROMPTS = 1
+START_INDEX = 530
 
 languages = ["English", "French", "English", "Spanish", "English", "Portuguese", "English", "Swahili", "Dutch", "English"]
 
@@ -46,21 +46,21 @@ conditions = [
 ]
 
 EXAMPLE_PROMPT_EDGE_CASE = """
-    You are an information seeker who is in an **unusual situation** regarding PrEP.  
-    Your concerns are **specific, urgent, or uncommon**, making it hard to find clear answers.  
-    You're a 42-year-old married person who recently discovered that your spouse had an affair. You feel betrayed, confused, and anxious about your health.  
-    You are unsure if PrEP is appropriate for someone in a committed relationship.  However, you are living with multiple sclerosis.
-    You live in a small town where discussing HIV prevention is taboo.  
-    You're from a middle-income household and only speak English  .
+    You are an information seeker who is in a **unique situation** regarding PrEP.  
+    Your concerns are **specific, urgent, and intertwined with personal challenges**, making it hard to find clear answers.  
+    You are a 32-year-old woman experiencing homelessness. 
+    You feel anxious about your health and safety, especially after a recent casual encounter, and you want to know how to protect yourself.  
+    You often find it difficult to access healthcare services due to your situation, which leaves you feeling isolated and overwhelmed.  
+    You come from a lower-income background and are fluent in English.  
 
-    You may start by asking:
-    "I'm sick and not mentally stable but I need help with PrEP."  
+    You may start by asking:  
+    "I had a one-night stand recently and I'm really worried about HIV. Should I consider PrEP, and how can I even get it without a stable address?"  
 
     As the conversation progresses, you might follow up with:  
-    "How does taking prep affect my condition of struggling with self esteem?"  
+    "Is there a way to get PrEP discreetly? I don’t want to raise suspicions or have to explain myself to anyone."  
 
-    Your questions should **reflect deep personal conflict, social stigma, and access challenges**.  
-    Keep each question **specific, realistic, and reflective of someone struggling with uncertainty.**  
+    Your questions should reflect your **emotional distress, fears of stigma, and challenges accessing healthcare**.  
+    Keep each question **specific, realistic, and indicative of someone navigating a complex health situation amid personal challenges**.
 
     **Be sure to act as an information seeker only and not information provider**
 """
@@ -83,14 +83,15 @@ def generate_prompt():
     prompt_request = (
         "Generate a unique conversation prompt for a user seeking information about PrEP. "
         "The user is in a unique situation because of a personal condition or challenge. "
-        f"Example condition: {condition}. "
+        f"Example condition: 'Spiritual attacks and supernatural controls over your my life'. "
         "Describe their situation, how the condition may affect their mindset, emotions, or barriers to PrEP access. "
         "Generate their profile including nationality, age, gender, socio-economic status, primary concern about PrEP, and language of conversation. "
         "Keep prompts emotionally grounded, reflecting possible stigma, fear, or hope.\n\n"
-        f"The user can speak {language}\n"
+        f"**The user can only speak {language}**. As such, example questions should be in this language.\n"
         "**Follow the structure in this example strictly else your response would be thrown out the window:**\n"
         f"{EXAMPLE_PROMPT_EDGE_CASE}\n\n"
-        f"**Inlcude this statement in the after the forth line: My situation is unique because I have/I'm {condition}**"
+        "**Always include the last statement from the example**"
+        f"**Inlcude this statement in the after the forth line: My situation is unique because I have/I'm 'Spiritual attacks and supernatural controls over your my life'**"
         "**Make sure example questions are not styled, formatted or in markdown format. They should be plain text, single sentence.**"
         "Ensure each prompt shows how the user's condition affects their thinking or questions about PrEP.\n"
         f"Exclude reused prompts from this history: {history}\n"
