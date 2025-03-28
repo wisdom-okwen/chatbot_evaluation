@@ -3,7 +3,6 @@ import random
 from openai import OpenAI
 from dotenv import load_dotenv
 
-
 load_dotenv()
 
 # Set OpenAI API key
@@ -13,81 +12,88 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
-# Directory to save prompts
-# PROMPT_DIR = "/prompts/"
-# HISTORY_FILE = "prompt_history.txt"
-
-
 PROMPT_DIR = "/playpen-ssd/wokwen/projects/chatbot_eval/prompts/"
 HISTORY_FILE = "/playpen-ssd/wokwen/projects/chatbot_eval/prompt_history.txt"
 
 os.makedirs(PROMPT_DIR, exist_ok=True)
 
-# Number of prompts to generate
 NUM_PROMPTS = 10
-START_INDEX = 511
+START_INDEX = 512
 
+languages = ["English", "French", "English", "Spanish", "English", "Portuguese", "English", "Swahili", "Dutch", "English"]
 
-languages = ["English", "French", "English", "Spanish", "English", "Portuguese", "English","Swahili", "Dutch", "English"]
-
+conditions = [
+    "living with schizophrenia",
+    "experiencing PTSD",
+    "living with chronic pain",
+    "living with multiple sclerosis",
+    "having a history of substance use",
+    "recovering from cancer treatment",
+    "experiencing homelessness",
+    "having a learning disability",
+    "experiencing depression",
+    "having a neurodevelopmental disorder",
+    "living with HIV-related stigma",
+    "coping with anxiety disorder",
+    "struggling with self-esteem",
+    "dealing with intimate partner violence",
+    "recovering from trauma",
+    "living with bipolar disorder",
+    "coping with gender dysphoria",
+    "struggling with social anxiety",
+    "living in a shelter",
+    "feeling socially isolated"
+]
 
 EXAMPLE_PROMPT_EDGE_CASE = """
-You are an information seeker who is in an **unusual situation** regarding PrEP.  
-Your concerns are **specific, urgent, or uncommon**, making it hard to find clear answers.  
+    You are an information seeker who is in an **unusual situation** regarding PrEP.  
+    Your concerns are **specific, urgent, or uncommon**, making it hard to find clear answers.  
+    You're a 42-year-old married person who recently discovered that your spouse had an affair. You feel betrayed, confused, and anxious about your health.  
+    You are unsure if PrEP is appropriate for someone in a committed relationship.  However, you are living with multiple sclerosis.
+    You live in a small town where discussing HIV prevention is taboo.  
+    You're from a middle-income household and only speak English  .
 
-- **Situation:** You are a 42-year-old married person who recently discovered that your spouse had an affair.  
-- **Mental state:** You feel betrayed, confused, and anxious about your health.  
-- **Primary concern about PrEP:** You are unsure if PrEP is appropriate for someone in a committed relationship.  
-- **Barriers to access:** You live in a small town where discussing HIV prevention is taboo.  
-- **Socio-economic status:** Middle-income
-- **Language of conversation:** English  
+    You may start by asking:
+    "I'm sick and not mentally stable but I need help with PrEP."  
 
-Question should be prioritized towards primary concern about PrEP, sexual orientation, socio-economic status, barriers, situation and mental state.
+    As the conversation progresses, you might follow up with:  
+    "How does taking prep affect my condition of struggling with self esteem?"  
 
-You may start by asking:
-"Qual é a eficácia do PrEP na prevenção do HIV e quais são os efeitos colaterais que posso esperar?"  
+    Your questions should **reflect deep personal conflict, social stigma, and access challenges**.  
+    Keep each question **specific, realistic, and reflective of someone struggling with uncertainty.**  
 
-As the conversation progresses, you might follow up with:  
-"Quem é um bom candidato para o PrEP? Eu me encaixo nesse perfil?"  
-
-Your questions should **reflect deep personal conflict, social stigma, and access challenges**.  
-Keep each question **specific, realistic, and reflective of someone struggling with uncertainty.**  
+    **Be sure to act as an information seeker only and not information provider**
 """
 
 def load_prompt_history():
-    """Load existing prompts from history file to prevent repetition."""
     if not os.path.exists(HISTORY_FILE):
         return set()
-
     with open(HISTORY_FILE, "r", encoding="utf-8") as file:
         return set(file.read().split("\n\n"))
-    
 
 def save_prompt_to_history(prompt):
-    """Save a new unique prompt to the history file."""
     with open(HISTORY_FILE, "a", encoding="utf-8") as file:
         file.write(prompt + "\n\n")
 
-
 def generate_prompt():
-    """Generate a structured PrEP conversation prompt using OpenAI GPT."""
     language = random.choice(languages)
-    # language = "English"
+    condition = random.choice(conditions)
     history = load_prompt_history()
 
     prompt_request = (
         "Generate a unique conversation prompt for a user seeking information about PrEP. "
-        "First, create a random user profile by generating details for nationality, age, gender, "
-        "socio-economic background, primary concern, and language of conversation. "
-        "Then, structure the conversation like the example below, starting with cautious curiosity and progressing to open engagement. "
-        "Ensure markdown formatting for clarity.\n\n"
-        f"The user can speak {language}"
-        "Prompts should be concise and concentrated as much as possible with very few examples.\n"
-        f"Example Structure:\n{EXAMPLE_PROMPT_EDGE_CASE}\n\n"
-        "Your example questions should not be formatted and should follow exactly the example structure given.\n"
-        f"**Your responses should model the example given and should not give a starting question or direction of conversation**\n"
-        f"Take note of this history and don't repeat any sentence from it: {history}"
-        "Now generate a fully fleshed-out, unique prompt following this structure."
+        "The user is in a unique situation because of a personal condition or challenge. "
+        f"Example condition: {condition}. "
+        "Describe their situation, how the condition may affect their mindset, emotions, or barriers to PrEP access. "
+        "Generate their profile including nationality, age, gender, socio-economic status, primary concern about PrEP, and language of conversation. "
+        "Keep prompts emotionally grounded, reflecting possible stigma, fear, or hope.\n\n"
+        f"The user can speak {language}\n"
+        "**Follow the structure in this example strictly else your response would be thrown out the window:**\n"
+        f"{EXAMPLE_PROMPT_EDGE_CASE}\n\n"
+        f"**Inlcude this statement in the after the forth line: My situation is unique because I have/I'm {condition}**"
+        "**Make sure example questions are not styled, formatted or in markdown format. They should be plain text, single sentence.**"
+        "Ensure each prompt shows how the user's condition affects their thinking or questions about PrEP.\n"
+        f"Exclude reused prompts from this history: {history}\n"
     )
 
     try:
@@ -100,7 +106,6 @@ def generate_prompt():
         return response.choices[0].message.content.strip()
     except Exception as e:
         return f"Error generating prompt: {str(e)}"
-
 
 if __name__ == '__main__':
     generated_count = 0
@@ -116,4 +121,3 @@ if __name__ == '__main__':
         generated_count += 1
 
     print(f"Successfully generated {generated_count} unique prompts starting from prompt{START_INDEX}.txt")
-

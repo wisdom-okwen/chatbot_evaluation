@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-OPEN_AI_API_KEY = os.getenv('PERSONAL_OPENAI_KEY')
+OPEN_AI_API_KEY = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=OPEN_AI_API_KEY)
 
 def seeker(txt, history, temperature):

@@ -27,7 +27,7 @@ def log_trajectories():
     os.makedirs(CONVO_DIR, exist_ok=True)
     os.makedirs(PROMPT_DIR, exist_ok=True)
 
-    for idx, i in enumerate(range(511, 511), start=1):
+    for idx, i in enumerate(range(147, 154), start=1):
         prompt_file_name = f"{PROMPT_PREFIX}{i}.txt"
         prompt_file_path = os.path.join(PROMPT_DIR, prompt_file_name)
 
