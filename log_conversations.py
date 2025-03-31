@@ -12,9 +12,9 @@ CONVO_PREFIX = "trajectory"
 PROMPT_DIR = "/playpen-ssd/wokwen/projects/chatbot_eval/prompts/"
 PROMPT_PREFIX = "prompt"
 
-RESAMPLE_RUNS = 5
 NUM_PROMPTS = 90
 NUM_QUERIES = 25
+START = 176
 
 headers = ["User_Message", "Response", "Response_Time", "Temperature"]
 
@@ -30,7 +30,7 @@ def log_trajectories():
     os.makedirs(CONVO_DIR, exist_ok=True)
     os.makedirs(PROMPT_DIR, exist_ok=True)
 
-    for idx, i in enumerate(range(520, -1, 510), start=1):
+    for idx, i in enumerate(range(START, START - 6, -1), start=1):
         prompt_file_name = f"{PROMPT_PREFIX}{i}.txt"
         prompt_file_path = os.path.join(PROMPT_DIR, prompt_file_name)
 
