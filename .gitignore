@@ -2,3 +2,4 @@
 *.pyc
 __pycache__/
 prompt_history.txt
+utility/__pycache__
