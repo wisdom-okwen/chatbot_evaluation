@@ -1,7 +1,12 @@
 import os
 import csv
-from critiques import user_criteria_prompt, self_criteria_prompt, third_party_criteria_prompt
-from critiques import get_gpt_overall_rating
+from critiques import (
+    user_criteria_prompt, 
+    self_criteria_prompt, 
+    third_party_criteria_prompt, 
+    get_gpt_overall_rating
+)
+
 
 USER_CRITERIA_RATINGS_FILE = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/criteria_ratings/user.csv"
 OBSERVER_CRITERIA_RATINGS_FILE = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/criteria_ratings/observer.csv"
