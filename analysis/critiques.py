@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-OpenAI_API_KEY = os.getenv('PERSONAL_OPENAI_KEY')
+OpenAI_API_KEY = os.getenv('OPENAI_API_KEY')
 if not OpenAI_API_KEY:
-    raise ValueError("PERSONAL_OPENAI_KEY environment variable is not set.")
+    raise ValueError("OPENAI_API_KEY environment variable is not set.")
 
 client = OpenAI(api_key=OpenAI_API_KEY)
 
