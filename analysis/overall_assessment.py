@@ -31,7 +31,7 @@ def generate_overall_ratings():
         if write_headers:
             writer.writerow(headers)
 
-        for i in range(530):
+        for i in range(530, 531):
             convo_file_name = f"{CONVO_PREFIX}{i}.csv"
             convo_file_path = os.path.join(CONVO_DIR, convo_file_name)
 
