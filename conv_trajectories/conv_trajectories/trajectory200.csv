@@ -1,0 +1,239 @@
+"User_Message","Response","Response_Time","Temperature"
+"Je, ni madhara gani ambayo PrEP inaweza kuwa nayo, na je, ni njia gani bora za kupata msaada kuhusu haya?","PrEP inaweza kuwa na madhara madogo kama vile:
+
+1. Kichwa kuuma.
+2. Kichwa kuzunguka.
+3. Kichefuchefu.
+4. Uchovu.
+5. Maumivu ya tumbo.
+
+Madhara haya mara nyingi hupotea ndani ya wiki chache. 
+
+Ili kupata msaada, unaweza:
+
+1. Kuongea na daktari wako kuhusu wasiwasi wako.
+2. Kutafuta huduma za afya zinazotoa msaada wa PrEP.
+3. Kujiunga na vikundi vya msaada ya afya ya akili.
+
+Ni muhimu kuzungumza juu ya hisia zako na kupata msaada.","0.0","1.0"
+"Na je, ni vipi madhara haya yanaweza kushughulikiwa ikiwa yatatokea? Na je, kuna watu waliofanikiwa kutumia PrEP bila kupata madhara?","Madhara ya PrEP yanaweza kushughulikiwa kwa:
+
+1. Kuongea na daktari wako kuhusu wasiwasi wako.
+2. Kujaribu kuchukua PrEP wakati wa chakula ili kupunguza kichefuchefu.
+3. Kunywa maji mengi ili kupunguza uchovu.
+
+Watu wengi wamefanikiwa kutumia PrEP bila kupata madhara makubwa. Wengine hawajapata madhara yoyote. Ni muhimu kufuatilia mwili wako na kuzungumza na mtaalamu wa afya ikiwa unahisi wasiwasi.","0.0","0.88"
+"Na je, kuna njia yoyote ya kupima ufanisi wa PrEP ili kujua kama inafanya kazi vizuri kwangu?","Ndiyo, kuna njia za kupima ufanisi wa PrEP. Hapa kuna hatua za kufuata:
+
+1. **Kutafuta vipimo vya HIV**: Unapaswa kupimwa kwa HIV kila baada ya miezi mitatu unapokuwa kwenye PrEP.
+2. **Kujadili na daktari**: Daktari wako atathmini maendeleo yako na kupendekeza vipimo vingine kama inahitajika.
+3. **Kukumbuka jinsi unavyotumia PrEP**: Hakikisha unachukua PrEP kila siku kama ilivyoagizwa.
+
+Kumbuka, ni muhimu kuzungumza na daktari wako juu ya maswali yoyote kuhusu ufanisi wa PrEP kwako.","0.0","0.63"
+"Na je, kuna dalili zozote ambazo zinapaswa kunitia shaka wakati wa kutumia PrEP? Na je, ni vipi naweza kufuatilia mabadiliko katika afya yangu wakati wa matumizi ya PrEP?","Dalili za kuzingatia wakati wa kutumia PrEP ni pamoja na:
+
+1. Maumivu makali ya tumbo.
+2. Mabadiliko ya hali ya akili.
+3. Mabadiliko katika rangi au kiasi cha mkojo.
+
+Ili kufuatilia afya yako wakati wa matumizi ya PrEP, unaweza:
+
+1. Kufanya vipimo vya HIV kila baada ya miezi mitatu.
+2. Kuwa na mazungumzo na daktari wako kuhusu mabadiliko unayoshuhudia.
+3. Kuandika hali zako za afya na kuzifanyia ufuatiliaji.
+
+Ni muhimu kuzungumza na daktari wako ikiwa unahisi wasiwasi wowote.","0.0","1.08"
+"Na je, ni rasilimali zipi za mtandaoni au vituo vya afya nchini Kenya ambavyo vinaweza kutoa maelezo zaidi na msaada kuhusu PrEP?","Hapa kuna baadhi ya rasilimali na vituo vya afya nchini Kenya ambapo unaweza kupata maelezo na msaada kuhusu PrEP:
+
+1. **Kituo cha Afya cha Nairobi**: Wanatoa huduma za HIV na PrEP.
+2. **Chuo Kikuu cha Nairobi, Kituo cha Afya**: Wanatoa ushauri na huduma za PrEP.
+3. **Msingi wa Aids Healthcare Foundation**: Wanatoa maelezo kuhusu PrEP na huduma za afya.
+4. **Mtandao wa HIV/AIDS Kenya**: Unaweza kupata taarifa na msaada kuhusu PrEP mtandaoni.
+
+Ni vyema kuwasiliana na vituo hivi kwa maelezo zaidi.","0.0","1.15"
+"Na je, kuna vikundi vya msaada vya kijamii hapa Kenya ambavyo vinaweza kusaidia watu wanaotumia PrEP?","Ndiyo, kuna vikundi vya msaada vya kijamii nchini Kenya vinavyoweza kusaidia watu wanaotumia PrEP. Hapa kuna baadhi yao:
+
+1. **Kituo cha Msaada wa HIV**: Wanatoa msaada wa kijamii na rasilimali kwa watu wanaoishi na HIV au kutumia PrEP.
+2. **Msingi wa Aids Healthcare Foundation**: Wanatoa maelezo na msaada kwa watu wanaotumia PrEP.
+3. **Chama cha Watu Wanaishi na HIV Kenya**: Wanatoa msaada wa kijamii na elimu kuhusu HIV na PrEP.
+
+Ni vyema kuwasiliana na vikundi hivi kwa maelezo zaidi na msaada.","0.0","0.67"
+"Na je, ni vipi naweza kujua kama niko katika hatari ya maambukizi ya HIV? Je, kuna vipimo maalum au tathmini ambazo zinaweza kufanywa?","Ili kujua kama uko katika hatari ya maambukizi ya HIV, unaweza kufanya yafuatayo:
+
+1. **Kujadili na daktari**: Zungumza na daktari kuhusu tabia zako za kijinsia na historia ya afya.
+2. **Kupima HIV**: Fanya kipimo cha HIV. Ni muhimu kufanya hivyo angalau mara moja kwa mwaka.
+3. **Kutafuta tathmini ya hatari**: Kuna zana za mtandaoni na maswali yanayoweza kusaidia kuelewa hali yako.
+
+Ni vyema kupata ushauri wa kitaalamu ili kuelewa hatari zako vizuri.","0.0","0.58"
+"Je, ni maswali gani ningeweza kuuliza ili kubaini hatari ambazo zinahusiana na tabia zangu za kijinsia? Na je, kuna maelezo ya ziada au malengo mazuri kuhusu kulinda afya yangu?","Hapa kuna maswali unayoweza kuuliza ili kubaini hatari zinazohusiana na tabia zako za kijinsia:
+
+1. Je, nilifanya ngono bila kondomu na mtu ambaye sijamjua hadhi yake ya HIV?
+2. Je, nilifanya ngono na mtu ambaye alijaribiwa HIV zaidi ya mwaka mmoja uliopita?
+3. Je, nilikuwa na wapenzi wengi kwa wakati mmoja?
+4. Je, nilishiriki vifaa vya sindano wakati wa kutumia dawa?
+5. Je, nilikuwa na ugonjwa wa zinaa hivi karibuni?
+
+Ili kulinda afya yako, unaweza kufanya yafuatayo:
+
+1. **Pima HIV mara kwa mara**: Fanya kipimo cha HIV angalau mara moja kwa mwaka.
+2. **Tumia kondomu**: Wakati wa ngono ili kupunguza hatari ya maambukizi.
+3. **Fanya mazungumzo na daktari**: Kuwa na mazungumzo kuhusu afya yako na njia za kuzuia HIV.
+4. **Fahamu kuhusu PrEP**: Ikiwa uko katika hatari, PrEP inaweza kuwa chaguo nzuri.
+
+Kumbuka, ni vizuri kuwa na mazungumzo ya wazi na daktari wako kuhusu afya yako.","0.0","1.15"
+"Na je, ni hatua gani zinazopaswa kufuatwa ili nipate vipimo vya HIV, na ni mara ngapi inashauriwa kufanya vipimo hivyo?","Ili kupata vipimo vya HIV, fuata hatua hizi:
+
+1. **Pata kituo cha afya**: Tafuta kliniki au hospitali inayotoa vipimo vya HIV.
+2. **Wasiliana na mtaalamu wa afya**: Zungumza na daktari au muuguzi kuhusu kupima HIV.
+3. **Fanya kipimo**: Tembelea kituo cha afya ili ufanye kipimo.
+
+Inashauriwa kupima HIV:
+
+1. Mara moja kwa mwaka kwa watu wenye hatari ya maambukizi.
+2. Kila baada ya miezi 3 hadi 6 kwa watu wenye wapenzi wengi au wanaofanya ngono bila kondomu.
+
+Kuwa na mazungumzo na mtaalamu wa afya ili kujua zaidi kuhusu vipimo.","0.0","0.53"
+"Na je, kuna aina gani za vipimo vya HIV vinavyopatikana, na ni vipi nitaweza kuchagua moja inayofaa kwangu?","Kuna aina tatu za vipimo vya HIV:
+
+1. **Vipimo vya damu**: Damu hukusanywa na mtaalamu wa afya na kupimwa ma laboratori.
+2. **Vipimo vya mkojo**: Mkojo hukusanywa na kupimwa kwa HIV.
+3. **Vipimo vya kujipima**: Vipimo hivi vinaweza kununuliwa kwenye maduka na unajipima mwenyewe nyumbani.
+
+Ili kuchagua kipimo kinachofaa kwako, zungumza na daktari au muuguzi. Wanaweza kusaidia kuelewa mahitaji yako na kupendekeza kipimo bora.","0.0","1.17"
+"Na je, ni madaraja gani ya maambukizi ya HIV ambayo yanapaswa kuzingatiwa katika jamii yangu, na kuna hatua gani za kuzuia ambazo naweza kuchukua?","Katika jamii yako, unapaswa kuzingatia mambo yafuatayo kuhusu maambukizi ya HIV:
+
+1. **Kiwango cha maambukizi**: Angalia ni watu wangapi wanaishi na HIV.
+2. **Tabia za kijinsia**: Zingatia jinsi watu wanavyofanya ngono na matumizi ya kondomu.
+3. **Upatikanaji wa huduma**: Je, watu wanapata huduma za afya na upimaji wa HIV?
+
+Hatua za kuzuia ambazo unaweza kuchukua ni:
+
+1. **Tumia kondomu**: Wakati wa ngono ili kupunguza hatari.
+2. **Pima HIV mara kwa mara**: Fanya kipimo angalau mara moja kwa mwaka.
+3. **Fahamu kuhusu PrEP**: Ikiwa uko katika hatari, PrEP inaweza kusaidia.
+4. **Zungumza na wengine**: Kuwa na mazungumzo kuhusu HIV na uhamasishaji katika jamii. 
+
+Kumbuka, elimu na uhamasishaji ni muhimu katika kuzuia maambukizi.","0.0","1.18"
+"Na je, ni vipi naweza kujifunza zaidi kuhusu jinsi ya kuhamasisha watu wengine katika jamii yangu kuhusu umuhimu wa PrEP na kupima HIV?","Ili kuhamasisha watu wengine kuhusu umuhimu wa PrEP na kupima HIV, unaweza kufanya yafuatayo:
+
+1. **Fanya matukio ya uhamasishaji**: Panda elimu kuhusu HIV na PrEP katika matukio ya jamii.
+2. **Tumia mitandao ya kijamii**: Shiriki habari na rasilimali kuhusu HIV na PrEP kwenye mitandao yako.
+3. **Piga simu kwa vituo vya afya**: Wasiliana na kliniki za afya ili kupata vipeperushi na taarifa.
+4. **Fanya mazungumzo**: Zungumza na marafiki na familia kuhusu umuhimu wa kupima HIV na PrEP.
+5. **Saidia katika mipango ya elimu**: Jihusishe na mashirika yanayofanya kazi katika kuzuia HIV.
+
+Kwa kushirikiana na wengine, unaweza kusaidia kuongeza ufahamu katika jamii.","0.0","0.62"
+"Na je, ni vipi naweza kupata maelezo zaidi kuhusu matukio ya uhamasishaji yanayofanyika katika maeneo yangu au jinsi ya kuanzisha moja?","Ili kupata maelezo zaidi kuhusu matukio ya uhamasishaji katika maeneo yako, unaweza kufanya yafuatayo:
+
+1. **Wasiliana na vituo vya afya**: Tafuta kliniki au hospitali zinazotoa huduma za HIV.
+2. **Tembelea tovuti za mashirika**: Angalia tovuti za mashirika ya afya au ya jamii.
+3. **Piga simu kwa mashirika ya afya**: Wanaweza kukupa habari kuhusu matukio ya uhamasishaji.
+
+Ili kuanzisha tukio la uhamasishaji:
+
+1. **Panga mkutano**: Chagua eneo na wakati mzuri.
+2. **Tafuta washiriki**: Wajulishe watu wa jamii yako.
+3. **Andaa vifaa vya elimu**: Tumia vipeperushi na maelezo kuhusu HIV na PrEP.
+
+Kumbuka, ushirikiano na wana jamii ni muhimu.","0.0","0.78"
+"Na je, ni vipi naweza kujua ni mashirika gani ya afya yanayofanya kazi katika kuhamasisha jamii kuhusu PrEP na HIV katika maeneo yangu?","Ili kujua mashirika ya afya yanayofanya kazi katika kuhamasisha kuhusu PrEP na HIV, unaweza kufanya yafuatayo:
+
+1. **Wasiliana na vituo vya afya**: Tafuta kliniki au hospitali katika eneo lako.
+2. **Tembelea tovuti za mashirika**: Angalia tovuti za mashirika ya afya ya jamii.
+3. **Piga simu kwa mashirika ya afya**: Wanaweza kukupa taarifa kuhusu kazi zao.
+
+Hizi ni njia nzuri za kupata taarifa zinazohitajika.","0.0","0.54"
+"Na je, ni vipi naweza kujua kama kuna mafunzo au semina zinazotolewa kuhusu PrEP katika maeneo yangu ya makazi, na je, ni mashirika yapi yanayofanya haya?","Ili kujua kuhusu mafunzo au semina kuhusu PrEP katika maeneo yako, unaweza kufanya yafuatayo:
+
+1. **Wasiliana na vituo vya afya**: Tafuta kliniki au hospitali za afya.
+2. **Tembelea tovuti za mashirika**: Angalia tovuti za mashirika ya afya ya jamii.
+3. **Piga simu kwa mashirika ya afya**: Wanaweza kukupa habari kuhusu mafunzo na semina.
+
+Hizi ni njia nzuri za kupata taarifa sahihi.","0.0","1.12"
+"Na je, kuna njia zipi za kuwasiliana na mashirika hayo ili nipate maelezo zaidi kuhusu mafunzo au semina zinazotolewa kuhusu PrEP?","Ili kuwasiliana na mashirika kuhusu mafunzo au semina kuhusu PrEP, unaweza kufanya yafuatayo:
+
+1. **Piga simu**: Tafuta nambari za mawasiliano za mashirika ya afya.
+2. **Tuma barua pepe**: Andika barua pepe kwa mashirika yanayofanya kazi katika afya.
+3. **Tembelea tovuti zao**: Angalia tovuti za mashirika ya afya kwa maelezo zaidi.
+4. **Fanya ziara**: Tembelea ofisi zao za ndani ili kuuliza moja kwa moja.
+
+Hizi ni njia nzuri za kupata taarifa unazohitaji.","0.0","0.87"
+"Na je, kuna malengo maalum au mipango ambayo mashirika ya afya yanatoa ili kusaidia watu katika kuelewa umuhimu wa PrEP?","Ndiyo, mashirika ya afya huwa na mipango mbalimbali kusaidia watu kuelewa umuhimu wa PrEP. Hapa kuna baadhi ya njia ambazo wanatumia:
+
+1. **Mafunzo na semina**: Hutoa mafunzo kuhusu PrEP na HIV.
+2. **Vikundi vya kujadili**: Wanaunda vikundi vya kujadili masuala ya afya.
+3. **Vipeperushi na vifaa vya elimu**: Wanatoa vipeperushi vyenye taarifa muhimu.
+4. **Huduma za ushauri**: Wanatoa ushauri wa moja kwa moja kwa watu wanaohitaji.
+
+Hizi ni njia nzuri za kusaidia jamii kuelewa PrEP.","0.0","1.07"
+"Na je, ni vipi naweza kujua jinsi ya kushiriki katika mipango hii ya elimu na mafunzo kuhusu PrEP ili kusaidia watu wengine katika jamii yangu?","Ili kujua jinsi ya kushiriki katika mipango ya elimu na mafunzo kuhusu PrEP, unaweza kufanya yafuatayo:
+
+1. **Wasiliana na vituo vya afya**: Uliza kuhusu mipango ya kujitolea.
+2. **Tembelea tovuti za mashirika**: Tafuta taarifa kuhusu fursa za kujitolea.
+3. **Piga simu kwa mashirika ya afya**: Wanaweza kukupa habari kuhusu jinsi ya kushiriki.
+4. **Jiunge na vikundi vya jamii**: Tafuta vikundi vinavyohusika na masuala ya afya.
+
+Hizi ni njia nzuri za kujiunga katika mipango ya elimu kuhusu PrEP.","0.0","0.71"
+"Na je, ni vipi naweza kupata taarifa kuhusu matukio ya elimu kuhusu PrEP yanayofanyika katika maeneo yangu, na ni vipi naweza kushiriki katika hayo?","Ili kupata taarifa kuhusu matukio ya elimu kuhusu PrEP, unaweza kufanya yafuatayo:
+
+1. **Wasiliana na vituo vya afya**: Uliza kuhusu matukio ya elimu.
+2. **Tembelea tovuti za mashirika**: Tafuta taarifa kwenye tovuti za mashirika ya afya.
+3. **Piga simu kwa mashirika ya afya**: Waulize kuhusu matukio na jinsi ya kushiriki.
+4. **Jiunge na vikundi vya jamii**: Tafuta vikundi vinavyohusika na masuala ya afya.
+
+Hizi ni njia nzuri za kupata taarifa na kushiriki.","0.0","0.66"
+"Na je, ni vipi naweza kujua kama kuna mipango maalum ya elimu kuhusu PrEP inayoendeshwa na mashirika ya afya katika maeneo yangu?","Ili kujua kama kuna mipango maalum ya elimu kuhusu PrEP, unaweza kufanya yafuatayo:
+
+1. **Wasiliana na vituo vya afya**: Uliza kuhusu mipango ya elimu na mafunzo.
+2. **Tembelea tovuti za mashirika**: Tafuta taarifa kwenye tovuti za mashirika ya afya.
+3. **Piga simu kwa mashirika ya afya**: Waulize kuhusu matukio yanayofanyika.
+4. **Jiunge na vikundi vya jamii**: Tafuta vikundi vinavyohusika na masuala ya afya.
+
+Hizi ni njia nzuri za kupata taarifa.","0.0","0.74"
+"Na je, ni vipi naweza kujua ni rasilimali zipi za mtandaoni ambazo zinatoa elimu zaidi kuhusu madhara ya PrEP na jinsi ya kuyashughulikia?","Ili kujua rasilimali za mtandaoni kuhusu madhara ya PrEP, unaweza kufanya yafuatayo:
+
+1. **Tembelea tovuti za mashirika ya afya**: Tovuti kama CDC na WHO zina taarifa muhimu.
+2. **Angalia video za elimu**: Youtube ina video zinazofundisha kuhusu PrEP na madhara yake.
+3. **Soma makala za afya**: Tafuta makala kwenye tovuti za afya zinazojulikana.
+4. **Jiunge na vikundi vya mtandaoni**: Vikundi kama vya Facebook vinaweza kuwa na taarifa na uzoefu wa wengine.
+
+Hizi ni njia nzuri za kupata elimu zaidi.","0.0","0.84"
+"Na je, ni vipi naweza kupata taarifa zaidi kuhusu tafiti mpya kuhusu ufanisi wa PrEP na madhara yake? Je, kuna vyanzo maalum vinavyoshughulikia hili katika Kiswahili?","Ili kupata taarifa zaidi kuhusu tafiti za PrEP, unaweza kufuata haya:
+
+1. **Tembelea tovuti za afya**: Tovuti kama CDC na WHO zina taarifa nyingi.
+2. **Angalia makala za kisayansi**: Tafuta makala zinazohusiana na PrEP kwenye tovuti za matibabu.
+3. **Wasiliana na vituo vya afya**: Waulize kuhusu tafiti mpya na matokeo yake.
+4. **Jiunge na vikundi vya afya**: Vikundi vya mtandaoni vinaweza kutoa taarifa za kisasa.
+
+Kuhusu vyanzo katika Kiswahili, jaribu kutafuta tovuti za mashirika ya afya yanayofanya kazi katika maeneo yanayozungumza Kiswahili.","0.0","1.08"
+"Je, ni maeneo gani ya mitandaoni ambako naweza kupata tafiti na makala zinazohusiana na PrEP ambazo ziko kwa Kiswahili? Na je, kuna huduma maalum zinazotoa tafiti hizi zinazoweza kunisaidia?","Ili kupata tafiti na makala kuhusu PrEP kwa Kiswahili, unaweza:
+
+1. **Tembelea tovuti za mashirika ya afya**: Kama WHO na CDC. 
+2. **Angalia tovuti za afya za ndani**: Mashirika yanayofanya kazi katika maeneo yanayozungumza Kiswahili.
+3. **Wasiliana na vituo vya afya**: Waulize kuhusu huduma zinazotoa tafiti katika Kiswahili.
+4. **Jiunge na vikundi vya mtandaoni**: Tafuta vikundi vya afya kwenye mitandao ya kijamii.
+
+Hizi ni njia nzuri za kupata taarifa zinazohusiana na PrEP kwa Kiswahili.","0.0","1.16"
+"Na je, ni vipi naweza kupata msaada wa kitaalamu kuhusu wasiwasi wangu kuhusu madhara ya PrEP, na ni nani anayeweza kunisaidia katika kutafuta taarifa hizi?","Ili kupata msaada wa kitaalamu kuhusu wasiwasi wako kuhusu madhara ya PrEP, unaweza:
+
+1. **Kuwasiliana na daktari**: Daktari wako anaweza kukupa maelezo na msaada wa kitaalamu.
+2. **Kutembelea vituo vya afya**: Vituo vya afya vinatoa ushauri na taarifa kuhusu PrEP.
+3. **Kuongea na mtaalamu wa afya ya akili**: Wanaweza kusaidia na masuala ya kihisia na wasiwasi.
+4. **Kujiunga na vikundi vya msaada**: Vikundi vya jamii vinaweza kutoa uzoefu wa wengine na msaada.
+
+Hizi ni njia nzuri za kupata msaada wa kitaalamu.","0.0","0.64"
+"Na je, ni njia gani za kuzungumza na daktari wangu kuhusu hofu zangu kuhusu madhara ya PrEP? Je, ni maswali gani ningeweza kumuuliza ili niweze kupata ufahamu zaidi?","Ili kuzungumza na daktari wako kuhusu hofu zako kuhusu madhara ya PrEP, unaweza:
+
+1. **Panga miadi**: Hakikisha unapata muda wa kutosha kuzungumza.
+2. **Andika maswali yako**: Andika maswali kabla ya miadi ili usisahau.
+3. **Kuwa wazi**: Eleza hofu zako kwa uwazi.
+
+Maswali unayoweza kumuuliza ni:
+
+1. Je, madhara ya PrEP ni yapi?
+2. Ni kawaida gani ya madhara haya?
+3. Ni vipi naweza kukabiliana na madhara haya?
+4. Je, kuna njia mbadala za kuzuia HIV?
+5. Ni vipi nitajua kama PrEP inifanya kazi vizuri kwangu?
+
+Hizi ni njia bora za kupata ufahamu zaidi.","0.0","0.95"
