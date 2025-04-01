@@ -3,11 +3,8 @@ import csv
 from critiques import (
     get_gpt_overall_rating, 
     SELF_ASSESSMENT_PROMPT, 
-    SELF_PER_TURN_PROMPT, 
     USER_ASSESSMENT_PROMPT, 
-    USER_PER_TURN_PROMPT, 
     THIRD_PARTY_ASSESSMENT_PROMPT, 
-    THIRD_PARTY_PER_TURN_PROMPT
 )
 
 
