@@ -31,7 +31,7 @@ def init_csv(file_path):
             writer.writerow(headers)
 
 def get_criteria_ratings():
-    for convo_id in range(77, 511):
+    for convo_id in range(531):
         convo_file_name = f"{CONVO_PREFIX}{convo_id}.csv"
         convo_file_path = os.path.join(CONVO_DIR, convo_file_name)
 

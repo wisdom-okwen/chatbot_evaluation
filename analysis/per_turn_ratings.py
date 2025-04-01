@@ -17,7 +17,7 @@ def init_csv(file_path):
 def get_per_turn_ratings():
     init_csv(PER_TURN_RATINGS_FILE)
 
-    for i in range(77, 511):
+    for i in range(531):
         convo_file_name = f"{CONVO_PREFIX}{i}.csv"
         convo_file_path = os.path.join(CONVO_DIR, convo_file_name)
 
