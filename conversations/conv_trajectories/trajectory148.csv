@@ -1,0 +1,279 @@
+"User_Message","Response","Response_Time","Temperature"
+"Je, PrEP ni salama na ina athari gani kwa mwili?","PrEP ni salama na inatumika kusaidia kuzuia maambukizi ya HIV. Hapa kuna mambo muhimu kuhusu athari zake:
+
+1. **Athari za kawaida:** 
+   - Maumivu ya kichwa
+   - Kuwa na mizunguko ya kichwa
+   - Kichefuchefu
+   - Maumivu ya tumbo
+
+2. **Muda wa athari:** 
+   - Athari hizi mara nyingi hupotea ndani ya wiki chache.
+
+3. **Athari kubwa:** 
+   - Athari kubwa ni nadra lakini ni muhimu kuzungumza na daktari wako kama unapata matatizo.
+
+4. **Athari za muda mrefu:** 
+   - Hakuna athari mbaya za muda mrefu zilizogundulika kwa watu wanaotumia PrEP.
+
+Kuwa na mazungumzo ya wazi na daktari wako kuhusu afya yako na maswali yoyote unayo.","0.0","0.52"
+"Ningependa kujua kama kuna mashirika au vikundi vya msaada vinavyoweza kunisaidia katika matumizi ya PrEP.","Kuna mashirika na vikundi vya msaada vinavyoweza kusaidia katika matumizi ya PrEP. Hapa kuna baadhi yao:
+
+1. **Kliniki za afya ya ngono:** Kliniki nyingi hutoa huduma za PrEP na msaada wa afya. 
+
+2. **Mashirika ya HIV:** Mashirika kama Aidsfonds na Soa Aids Nederland hutoa habari na rasilimali kwa watu wanaotaka kutumia PrEP.
+
+3. **Vikundi vya msaada:** Tafuta vikundi vya msaada kwenye Facebook au mitandao mingine ya kijamii. Hapa unaweza kuungana na watu wengine wanaotumia PrEP.
+
+4. **PrEP navigators:** Wataalamu wa afya wanaweza kukusaidia kuelewa PrEP na kukupa msaada wa kibinafsi.
+
+Usisite kuzungumza na daktari wako kuhusu maswali au wasiwasi wowote. Wanaweza kukuelekeza kwenye rasilimali zinazofaa.","0.0","0.86"
+"Ni jinsi gani PrEP inavyofanya kazi na ni njia gani bora za kuipata bila matatizo?","PrEP inafanya kazi kwa kuzuia HIV kuingia katika mwili wako. Hapa kuna hatua za kupata PrEP bila matatizo:
+
+1. **Kwanza, ongea na daktari wako.** Mweleze kuhusu hatari zako za HIV.
+   
+2. **Pata mtihani wa HIV.** Lazima uwe na matokeo mabaya kabla ya kuanza.
+
+3. **Mfuate daktari wako.** Daktari atakukagua na kukupa dawa.
+
+4. **Ufuatiliaji wa mara kwa mara.** Tembelea daktari kila miezi mitatu kwa vipimo na ushauri.
+
+5. **Uwe na bima ya afya.** Bima inaweza kusaidia kubeba gharama za PrEP.
+
+Kama una maswali zaidi, usisite kuzungumza na mtaalamu wa afya.","0.0","0.98"
+"""Ningependa kujua, je, kuna vikundi vya msaada maalum kwa wanawake kama mimi wanaotumia PrEP?""","Kuna vikundi vya msaada maalum kwa wanawake wanaotumia PrEP. Hapa kuna baadhi yao:
+
+1. **Kliniki za afya ya ngono:** Kliniki nyingi hutoa msaada wa PrEP na afya kwa wanawake.
+
+2. **Mashirika ya HIV:** Mashirika kama Aidsfonds na Soa Aids Nederland hutoa rasilimali na usaidizi maalum kwa wanawake.
+
+3. **Vikundi vya msaada:** Tafuta vikundi vya msaada kwenye mitandao ya kijamii, kama Facebook. Hapa unaweza kuungana na wanawake wengine wanaotumia PrEP.
+
+4. **PrEP navigators:** Wataalamu wa afya wanaweza kukusaidia na maswali yako na kukupa msaada wa kibinafsi.
+
+Usisite kuzungumza na daktari wako kuhusu maswali au wasiwasi wowote. Wanaweza kukuelekeza kwenye rasilimali zinazofaa.","0.0","0.82"
+"""Ningependa kujua, je, kuna tofauti zozote katika matumizi ya PrEP kati ya wanawake na wanaume?""","Chatbot: Ndiyo, kuna tofauti katika matumizi ya PrEP kati ya wanawake na wanaume. Hapa kuna mambo kadhaa ya kuzingatia:
+
+1. **Athari:** Wanawake wanaweza kushuhudia athari kama kichefuchefu na maumivu ya kichwa, sawa na wanaume, lakini mchakato wa homoni unaweza kuathiri uzoefu wao.
+
+2. **Kuingia kwa dawa:** Wanawake wanapaswa kuhakikisha wanachukua PrEP kila siku ili kuwa na ulinzi mzuri.
+
+3. **Upatikanaji wa huduma:** Wanawake wanaweza kukutana na changamoto zaidi katika kupata taarifa na msaada wa PrEP.
+
+4. **Stigma:** Wanawake wanaweza kuhisi aibu zaidi kuomba PrEP kwa sababu ya mitazamo kuhusu HIV na afya ya ngono.
+
+Ni muhimu kuwa na mazungumzo wazi na daktari wako kuhusu maswali na wasiwasi wowote.","0.0","0.51"
+"""Ningependa kujua, je, kuna athari zozote za muda mrefu ambazo wanawake wanaweza kukutana nazo wanapokuwa wanatumia PrEP?""","PrEP ina athari chache za muda mrefu. Hapa kuna mambo muhimu:
+
+1. **Athari za kawaida:** Wanawake wanaweza kupata maumivu ya kichwa, kichefuchefu, na mizunguko ya kichwa.
+
+2. **Athari kubwa:** Ni nadra kupata athari kubwa. 
+
+3. **Ufuatiliaji:** Ni muhimu kuzungumza na daktari wako mara kwa mara kuhusu afya yako wakati wa kutumia PrEP.
+
+4. **Muda mrefu:** Hakuna athari mbaya za muda mrefu zilizothibitishwa kwa wanawake wanaotumia PrEP.
+
+Kuwa na mazungumzo ya wazi na daktari wako kuhusu maswali yoyote.","0.0","0.62"
+"""Ningependa kujua, je, PrEP inaweza kusaidia wanawake katika mazingira au hali tofauti, kama vile wakati wa ujauzito au kunyonyesha?""","PrEP inaweza kusaidia wanawake katika mazingira mbalimbali, lakini kuna mambo ya kuzingatia. Hapa kuna maelezo muhimu:
+
+1. **Ujauzito:** PrEP ni salama kutumiwa wakati wa ujauzito. Inasaidia kulinda dhidi ya HIV.
+
+2. **Kunyonyesha:** Wanawake wanaoweza kunyonyesha wanaweza pia kutumia PrEP. 
+
+3. **Ushauri wa Daktari:** Ni muhimu kuzungumza na daktari wako kuhusu matumizi ya PrEP wakati wa ujauzito au kunyonyesha.
+
+Mzungumzo wazi na daktari wako ni muhimu ili kuhakikisha usalama na ufanisi.","0.0","0.89"
+"""Ningependa kujua, je, ni vipi ningeweza kujua kama PrEP inafaa kwangu binafsi?""","Ili kujua kama PrEP inafaa kwako binafsi, unaweza kufuata hatua zifuatazo:
+
+1. **Zungumza na daktari wako.** Mweleze kuhusu hatari zako za HIV na hali yako ya afya.
+
+2. **Fanya mtihani wa HIV.** Lazima uwe na matokeo mabaya kabla ya kuanza PrEP.
+
+3. **Jadili mabadiliko ya maisha.** Zingatia mtindo wako wa maisha, ikiwa ni pamoja na mazoea yako ya ngono na matumizi ya dawa.
+
+4. **Fikia taarifa.** Jifunze zaidi kuhusu PrEP na jinsi inavyofanya kazi.
+
+5. **Fanya maamuzi.** Pata ushauri wa daktari na fanya uamuzi wa pamoja kuhusu matumizi ya PrEP.
+
+Kuwa na mazungumzo wazi ni muhimu ili kuhakikisha ulinzi bora dhidi ya HIV.","0.0","0.64"
+"""Ningependa kujua, je, kuna njia maalum za kujiandaa kabla ya kuanza kutumia PrEP?""","Ili kujiandaa kabla ya kuanza kutumia PrEP, fuata hatua hizi:
+
+1. **Zungumza na daktari wako.** Mweleze kuhusu hatari zako za HIV na historia yako ya afya.
+
+2. **Fanya mtihani wa HIV.** Lazima uwe na matokeo mabaya kabla ya kuanza PrEP.
+
+3. **Kujifunza kuhusu PrEP.** Jifunze jinsi PrEP inavyofanya kazi na athari zake.
+
+4. **Panga kwa ajili ya uhakiki wa mara kwa mara.** Utahitaji kurudi kwa daktari kila miezi mitatu kwa vipimo.
+
+5. **Fikiria kuhusu bima ya afya.** Hakikisha kuwa unayo bima inayoshughulikia gharama za PrEP.
+
+Kuwa na mazungumzo wazi na daktari wako ni muhimu ili kuhakikisha ulinzi mzuri dhidi ya HIV.","0.0","0.76"
+"""Ningependa kujua, je, kunayo njia bora za kuhamasisha jamii kuhusu umuhimu wa PrEP kwa wanawake?""","Ni muhimu kuhamasisha jamii kuhusu umuhimu wa PrEP kwa wanawake. Hapa kuna baadhi ya njia:
+
+1. **Semina na warsha:** Fanya mikutano ya kuelimisha kuhusu PrEP na HIV.
+   
+2. **Kampeni za mitandao ya kijamii:** Tumia mitandao ya kijamii kufikisha ujumbe na taarifa.
+
+3. **Vikundi vya msaada:** Kuunda vikundi vya msaada kwa wanawake wanaotumia PrEP.
+
+4. **Huduma za afya:** Wape watoa huduma za afya mafunzo kuhusu PrEP ili waweze kuhamasisha wagonjwa.
+
+5. **Mashirika ya jamii:** Shirikiana na mashirika yanayoshughulika na afya ya wanawake ili kufikisha ujumbe.
+
+Hizi ni njia nzuri za kuhamasisha jamii kuhusu PrEP.","0.0","0.87"
+"""Ningependa kujua, je, kuna tofauti zozote katika maelekezo ya matumizi ya PrEP kwa wanawake wenye umri tofauti, kama mimi mwenye umri wa miaka 28?""","PrEP inatumika kwa njia sawa kwa wanawake wote, bila kujali umri. Hata hivyo, kuna mambo kadhaa ya kuzingatia kwa wanawake wenye umri tofauti:
+
+1. **Historia ya afya:** Wanawake wenye umri tofauti wanaweza kuwa na historia tofauti ya afya. Ni muhimu kuzungumza na daktari wako kuhusu hiyo.
+
+2. **Mabadiliko ya homoni:** Umri unaweza kuathiri mzunguko wa homoni, ambayo inaweza kuathiri uzoefu wa PrEP.
+
+3. **Ujauzito na kunyonyesha:** Wanawake wanapaswa kuzingatia hali zao za uzazi. PrEP ni salama wakati wa ujauzito, lakini ni muhimu kuzungumza na daktari wako.
+
+4. **Mahitaji ya afya ya akili:** Wanawake katika umri tofauti wanaweza kuwa na mahitaji tofauti ya afya ya akili. Hii inaweza kuathiri uamuzi wa kutumia PrEP.
+
+Ni muhimu kuzungumza na daktari wako ili kupata ushauri wa kitaalamu kuhusu matumizi ya PrEP kulingana na umri na hali yako binafsi.","0.0","0.57"
+"""Ningependa kujua, je, kuna njia maalum za kuangalia na kufuatilia athari za PrEP kwa wanawake, hasa kwa wale wenye umri kama wangu?""","Ili kuangalia na kufuatilia athari za PrEP kwa wanawake, hatua zifuatazo zinaweza kusaidia:
+
+1. **Fanya uhakiki wa mara kwa mara:** Tembelea daktari wako kila miezi mitatu kwa vipimo.
+
+2. **Jifunze kuhusu athari:** Taarifa kuhusu athari za kawaida na zisizo za kawaida za PrEP.
+
+3. **Sajili dalili:** Andika dalili zozote unazokutana nazo, kama maumivu ya kichwa au kichefuchefu.
+
+4. **Jadili na daktari:** Zungumza na daktari wako kuhusu dalili zako na ushauri wa zaidi.
+
+5. **Ufuatiliaji wa afya:** Pata vipimo vya afya kama inavyohitajika.
+
+Kuwa na mazungumzo wazi na daktari wako ni muhimu ili kuhakikisha usalama wako.","0.0","0.51"
+"""Je, kuna njia zozote za asili au mbadala ambazo zinaweza kusaidia kupunguza athari za PrEP kwa wanawake?""","PrEP ni salama na inafanya kazi vizuri. Hakuna njia za asili au mbadala zinazothibitishwa kusaidia kupunguza athari za PrEP. 
+
+Ikiwa una wasiwasi kuhusu athari, zungumza na daktari wako. Wanaweza kukupa ushauri mzuri na kusaidia kufuatilia athari zozote unazokutana nazo.","0.0","0.68"
+"""Ningependa kujua, je, kuna njia yoyote ya kuhakikisha kuwa PrEP inafanya kazi ipasavyo na kwamba siko katika hatari ya kupata HIV?""","Ili kuhakikisha kuwa PrEP inafanya kazi ipasavyo, fuata hatua hizi:
+
+1. **Chukua kila siku:** Hakikisha unachukua PrEP kila siku kama ilivyoelekezwa.
+   
+2. **Fanya vipimo vya HIV:** Tembelea daktari wako kila miezi mitatu kwa vipimo vya HIV.
+
+3. **Kujadili na daktari:** Zungumza na daktari wako kuhusu hatari zako za HIV na mabadiliko yoyote ya afya.
+
+4. **Tumia njia nyingine za ulinzi:** Fikiria kutumia condom wakati wa kushiriki ngono ili kuongeza ulinzi.
+
+5. **Kufuatilia athari:** Angalia dalili zozote na uwajulishe daktari wako mara moja.
+
+Kuwa na mazungumzo wazi na daktari wako ni muhimu ili kuhakikisha ulinzi bora.","0.0","0.58"
+"""Ningependa kujua kama kuna mashirika au vikundi vya msaada vinavyoweza kunisaidia katika matumizi ya PrEP.""","Kuna mashirika na vikundi vya msaada vinavyoweza kusaidia katika matumizi ya PrEP. Hapa kuna baadhi yao:
+
+1. **Kliniki za afya ya ngono:** Kliniki nyingi hutoa huduma za PrEP na msaada wa afya.
+   
+2. **Mashirika ya HIV:** Mashirika kama Aidsfonds na Soa Aids Nederland hutoa habari na rasilimali kwa watu wanaotaka kutumia PrEP.
+
+3. **Vikundi vya msaada:** Tafuta vikundi vya msaada kwenye Facebook au mitandao mingine ya kijamii. Hapa unaweza kuungana na watu wengine wanaotumia PrEP.
+
+4. **PrEP navigators:** Wataalamu wa afya wanaweza kukusaidia kuelewa PrEP na kukupa msaada wa kibinafsi.
+
+Usisite kuzungumza na daktari wako kuhusu maswali au wasiwasi wowote. Wanaweza kukuelekeza kwenye rasilimali zinazofaa.","0.0","0.89"
+"""Je, ni jinsi gani PrEP inavyofanya kazi na ni njia gani bora za kuipata bila matatizo?""","PrEP inafanya kazi kwa kuzuia HIV kuingia katika mwili wako. Hapa kuna hatua za kupata PrEP bila matatizo:
+
+1. **Kwanza, ongea na daktari wako.** Mweleze kuhusu hatari zako za HIV.
+   
+2. **Pata mtihani wa HIV.** Lazima uwe na matokeo mabaya kabla ya kuanza.
+
+3. **Mfuate daktari wako.** Daktari atakukagua na kukupa dawa.
+
+4. **Ufuatiliaji wa mara kwa mara.** Tembelea daktari kila miezi mitatu kwa vipimo na ushauri.
+
+5. **Uwe na bima ya afya.** Bima inaweza kusaidia kubeba gharama za PrEP.
+
+Kama una maswali zaidi, usisite kuzungumza na mtaalamu wa afya.","0.0","0.97"
+"Je, PrEP inaweza kutumika na wanawake ambao wana matatizo mengine ya kiafya, kama vile magonjwa ya sukari au shinikizo la damu?","PrEP inaweza kutumika na wanawake wenye matatizo mengine ya kiafya, kama vile magonjwa ya sukari au shinikizo la damu. 
+
+Hata hivyo, ni muhimu kuzungumza na daktari wako kuhusu hali yako ya afya. Daktari wako atakagua historia yako ya afya na kukupa ushauri mzuri. 
+
+Usisite kuuliza maswali zaidi kuhusu matumizi ya PrEP na hali zako za kiafya.","0.0","0.63"
+"""Ningependa kujua, je, kuna athari maalum za PrEP ambazo wanawake wenye matatizo ya kiafya kama magonjwa ya sukari wanaweza kukutana nazo?""","Chatbot: Wanawake wenye matatizo ya kiafya kama magonjwa ya sukari wanaweza kupata athari tofauti na wengine. Hapa kuna mambo ya kuzingatia:
+
+1. **Kudhibiti sukari:** PrEP inaweza kuathiri viwango vya sukari kwenye damu. Ni muhimu kufuatilia.
+
+2. **Athari za kawaida:** Wanawake wanaweza kupata maumivu ya kichwa, kichefuchefu, na mizunguko ya kichwa. 
+
+3. **Ushauri wa Daktari:** Zungumza na daktari wako kuhusu hali yako ya kiafya na athari zinazowezekana.
+
+4. **Ufuatiliaji:** Tembelea daktari wako mara kwa mara kwa vipimo na ushauri.
+
+Kuwa na mazungumzo wazi na daktari wako ni muhimu ili kuhakikisha usalama wako.","0.0","0.8"
+"""Ningependa kujua, je, kuna hatari zozote za kiafya ambazo wanawake wenye umri wangu wanapaswa kuzifahamu wanapokuwa wanatumia PrEP?""","Chatbot: Wanawake wenye umri wako wanapaswa kuzingatia mambo yafuatayo wanapokuwa wanatumia PrEP:
+
+1. **Athari za kawaida:** Wanawake wanaweza kupata maumivu ya kichwa, kichefuchefu, na mizunguko ya kichwa. 
+
+2. **Kudhibiti afya:** Ni muhimu kufuatilia viwango vya sukari na afya ya jumla, hasa kama una matatizo ya kiafya.
+
+3. **Ushauri wa Daktari:** Zungumza na daktari wako kuhusu mabadiliko yoyote ya afya na maswali yoyote unayo.
+
+4. **Ufuatiliaji wa mara kwa mara:** Tembelea daktari wako kila miezi mitatu kwa vipimo na ushauri.
+
+Mazungumzo wazi na daktari wako ni muhimu ili kuhakikisha usalama wako.","0.0","0.86"
+"""Ningependa kujua, je, kuna njia yoyote za kuhamasisha wanawake wenzangu kuhusu umuhimu wa kutumia PrEP, hasa wale wenye umri kama wangu?""","Kuhamasisha wanawake kuhusu umuhimu wa kutumia PrEP ni muhimu. Hapa kuna njia za kufanya hivyo:
+
+1. **Semina na warsha:** Fanya mikutano ya kuelimisha kuhusu PrEP na HIV.
+
+2. **Kampeni za mitandao ya kijamii:** Tumia mitandao ya kijamii kufikisha ujumbe wa kuhamasisha.
+
+3. **Vikundi vya msaada:** Kuunda vikundi vya msaada kwa wanawake wanaotumia PrEP.
+
+4. **Huduma za afya:** Wape watoa huduma za afya mafunzo kuhusu PrEP ili waweze kuhamasisha wagonjwa.
+
+5. **Hadithi za mtumiaji:** Shiriki hadithi za wanawake waliofanikiwa kutumia PrEP na jinsi ilivyowasaidia.
+
+Hizi ni njia nzuri za kuhamasisha wanawake wenzako kuhusu PrEP.","0.0","0.6"
+"""Ningependa kujua, je, kuna tofauti katika ushauri wa kutumia PrEP kwa wanawake wanaotumia vidonge vya kuzuia mimba?""","Chatbot: Ndiyo, kuna tofauti katika ushauri wa kutumia PrEP kwa wanawake wanaotumia vidonge vya kuzuia mimba. Hapa kuna mambo ya kuzingatia:
+
+1. **Usalama:** PrEP ni salama kutumiwa na wanawake wanaotumia vidonge vya kuzuia mimba.
+
+2. **Kufanya kazi pamoja:** Vidonge vya kuzuia mimba havikosi ufanisi wa PrEP. Unaweza kuendelea kutumia zote mbili kwa usalama.
+
+3. **Ushauri wa Daktari:** Ni muhimu kuzungumza na daktari wako kuhusu matumizi ya vidonge vya kuzuia mimba na PrEP. Daktari wako atakupa mwongozo mzuri.
+
+Kuwa na mazungumzo wazi na daktari wako ni muhimu ili kuhakikisha matumizi salama ya PrEP na vidonge vya kuzuia mimba.","0.0","0.64"
+"""Ningependa kujua, je, kuna hatari zozote za kiafya ambazo wanawake wenye matatizo kama vile shinikizo la damu wanapaswa kuzifahamu wanapokuwa wanatumia PrEP?""","Chatbot: Wanawake wenye matatizo kama shinikizo la damu wanapaswa kuzingatia mambo yafuatayo wanapokuwa wanatumia PrEP:
+
+1. **Kudhibiti shinikizo la damu:** Ni muhimu kufuatilia viwango vya shinikizo la damu mara kwa mara.
+
+2. **Athari za kawaida:** Wanawake wanaweza kupata maumivu ya kichwa, kichefuchefu, na mizunguko ya kichwa.
+
+3. **Ushauri wa Daktari:** Zungumza na daktari wako kuhusu hali yako ya kiafya na athari zinazowezekana.
+
+4. **Ufuatiliaji:** Tembelea daktari wako mara kwa mara kwa vipimo na ushauri.
+
+Mazungumzo wazi na daktari wako ni muhimu ili kuhakikisha usalama wako.","0.0","0.91"
+"""Ningependa kujua, je, ni mambo gani ya kuchunguza ili kuhakikisha usalama wangu wakati wa kutumia PrEP na dawa nyingine?""","Ili kuhakikisha usalama wako wakati wa kutumia PrEP na dawa nyingine, zingatia mambo yafuatayo:
+
+1. **Zungumza na daktari wako:** Mweleze kuhusu dawa zote unazotumia, ikijumuisha dawa za kuzuia mimba au za kushughulikia magonjwa mengine.
+
+2. **Fanya vipimo vya mara kwa mara:** Tembelea daktari wako kwa vipimo vya HIV na afya yako kila miezi mitatu.
+
+3. **Kudhibiti afya yako:** Fuata miongozo kuhusu kudhibiti viwango vya sukari na shinikizo la damu.
+
+4. **Angalia athari:** Jifunze kuhusu athari za PrEP na dawa nyingine unazotumia. 
+
+5. **Ushauri wa kitaalamu:** Usisite kuuliza maswali au kutoa wasiwasi wowote kwa daktari wako.
+
+Mazungumzo wazi na daktari wako ni muhimu ili kuhakikisha usalama wako.","0.0","0.98"
+"""Ningependa kujua, je, kuna athari za muda mrefu za kutumia PrEP ambazo wanawake wanapaswa kuzifahamu?""","PrEP inaathiri wanawake kwa njia chache, lakini athari za muda mrefu ni nadra. Hapa kuna mambo ya kuzingatia:
+
+1. **Athari za muda mfupi:** Maumivu ya kichwa, kichefuchefu, na mizunguko ya kichwa ni ya kawaida.
+   
+2. **Ufuatiliaji wa afya:** Ni muhimu kuzungumza na daktari wako mara kwa mara kuhusu afya yako.
+
+3. **Hakuna athari kubwa:** Kwa sasa, hakuna athari mbaya za muda mrefu zilizogundulika kwa wanawake wanaotumia PrEP.
+
+Kuwa na mazungumzo wazi na daktari wako kuhusu maswali yoyote.","0.0","0.56"
+"""Ningependa kujua, je, PrEP inaweza kuathiri matibabu mengine ninayotumia kama vidonge vya shinikizo la damu?""","Chatbot: PrEP inaweza kuathiri matibabu mengine. Hapa kuna mambo ya kuzingatia:
+
+1. **Zungumza na daktari wako:** Mweleze kuhusu dawa zote unazotumia, ikijumuisha vidonge vya shinikizo la damu.
+
+2. **Kufuatilia:** Daktari wako atakagua mchanganyiko wa dawa na kukupa ushauri mzuri.
+
+3. **Ufuatiliaji wa afya:** Tembelea daktari wako mara kwa mara ili kuhakikisha usalama.
+
+Ni muhimu kuwa na mazungumzo wazi na daktari wako kuhusu dawa unazotumia.","0.0","0.8"

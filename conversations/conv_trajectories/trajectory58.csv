@@ -1,0 +1,232 @@
+"User_Message","Response","Response_Time","Temperature"
+"""Je! Vitu gani vinahitajika ili kuweza kupata PrEP?"" (What requirements are needed to access PrEP?)","Ili kupata PrEP, hapa kuna vigezo vya msingi ambavyo unahitaji kukidhi:
+
+- **Kuteleza kwa Daktari**: Unahitaji kutembelea daktari au mtaalamu wa afya aliyekubaliwa ili kupata risiti ya PrEP.
+  
+- **Kupima HIV**: Lazima ufanye kipimo cha HIV ili kuthibitisha kuwa wewe ni HIV-negative kabla ya kuanza kutumia PrEP.
+
+- **Mifano ya Afya**: Wakati wa ziara yako, daktari ataweza kuuliza kuhusu historia yako ya kiafya na hali zingine za kiafya.
+
+- **Uthibitisho wa Nje**: Katika baadhi ya maeneo, huenda ukahitaji kutolewa kwa taarifa za utambulisho, lakini sio lazima kuwa na nyaraka nyingi.
+
+Ikiwa una maswali zaidi au unahitaji msaada wa kutafuta daktari, nitakuwepo kusaidia!","0.0","1.11"
+"""Je! Ni lazima nimwone daktari kwanza?"" (Do I need to see a doctor first?)","Ndiyo, ili kupata PrEP, ni muhimu kumwona daktari kwanza. Daktari atafanya:
+
+- **Kipimo cha HIV**: Ili kuthibitisha kuwa wewe ni HIV-negative.
+- **Tathmini ya Afya**: Kuangalia hali zako za kiafya na kuamua kama PrEP ni sahihi kwako.
+
+Baada ya kupata risiti, utaweza kuanza kutumia PrEP. Ikiwa una maswali zaidi, nipo hapa kusaidia!","0.0","0.97"
+"""Naweza kupata usaidizi wa jinsi ya kupata daktari?"" (Can I get help on how to find a doctor?)  
+""Je! Kuna njia nyingine bila kukutana na daktari?"" (Are there other methods without meeting a doctor?)  
+""Naweza kuzungumza na daktari wa kike?"" (Can I speak to a female doctor?)  
+""Je! Kuna watu ambao wangeweza kunisaidia bila mimi kujifunza kuhusu PrEP?"" (Are","Sorry, I can only assist with questions related to HIV prevention and PrEP counseling. If you have more questions about those topics or need assistance, feel free to ask!","0.0","1.19"
+"""Je! Kuna madhara mabaya ya muda mrefu?"" (Are there bad long-term side effects?)  
+""Je! Imani yangu inaruhusu mimi kutumia PrEP?"" (Does my faith allow me to use PrEP?) 
+
+Naweza kuzungumza na mtaalamu wa afya kuhusu masuala yangu ya kidini kuhusu PrEP?","Chatbot: Ndiyo, ni muhimu kuzungumza na mtaalamu wa afya kuhusu masuala yako ya kidini na jinsi inavyohusiana na matumizi ya PrEP. Mtaalamu wa afya anaweza kutoa mwanga juu ya njia bora za kukabiliana na maswali yako, na pia kuelezea faida za kutumia PrEP katika kuzuia maambukizo ya HIV.
+
+Ikiwa unahitaji msaada zaidi au una maswali mengine, nipo hapa kusaidia!","0.0","1.16"
+"""Je! Kuna njia za kuzungumza na mtaalamu wa afya bila kuwa na wasiwasi kuhusu faragha yangu?"" (Are there ways to talk to a healthcare professional without worrying about my privacy?)  
+""Ni nini kingine ambacho naweza kufanya ili kujilinda kutokana na HIV?"" (What else can I do to protect myself from HIV?)","Ndiyo, kuna njia za kuzungumza na mtaalamu wa afya bila kuwa na wasiwasi kuhusu faragha yako. Hapa kuna vidokezo:
+
+- **Chagua Kliniki za Kuaminika**: Tafuta kliniki zinazojulikana kwa kuheshimu faragha ya wagonjwa.
+
+- **Uliza kuhusu Sera za Faragha**: Wakati wa kutafuta huduma, unaweza kuuliza mtoa huduma juu ya jinsi wanavyoshughulikia taarifa zako.
+
+- **Kutumia Mifumo ya Mtandao**: Wakati mwingine, mazungumzo ya mtandaoni yanaweza kutoa faragha zaidi.
+
+Kuhusu kujilinda kutokana na HIV, unaweza:
+
+- **Tumia kondomu kila wakati**.
+- **Fanya vipimo vya HIV mara kwa mara**.
+- **Jifunze zaidi kuhusu njia za kuzuia** kama PrEP.
+
+Ikiwa una maswali zaidi, nipo hapa kusaidia","0.0","0.62"
+"""Je! Naweza kupata maelezo zaidi kuhusu jinsi PrEP inavyofanya kazi?"" (Can I get more information about how PrEP works?)  
+""Ni mara ngapi ni bora kuchukua PrEP ili iwe na ufanisi?"" (How often should I take PrEP for it to be effective?)  
+""Je! Kuna tofauti kati ya PrEP na njia nyingine za kuzuia HIV?"" (Is there a difference between PrEP and other methods of HIV prevention?)","Ndiyo, naweza kusaidia na maelezo kuhusu PrEP na jinsi inavyofanya kazi. Hapa kuna maelezo muhimu:
+
+- **Jinsi PrEP Inavyofanya Kazi**: PrEP ni dawa inayotumiwa na watu walio na hatari ya kuambukizwa HIV ili kuzuia maambukizi. Inafanya kazi kwa kuzuia virusi vya HIV kuingia ndani ya seli za mwili.
+
+- **Mara Ngapi Unapaswa Kuchukua PrEP**: Ili iwe na ufanisi, PrEP inapaswa kuchukuliwa kila siku. Wakati wa matumizi sahihi, inatoa ulinzi wa hadi 99% dhidi ya HIV.
+
+- **Tofauti na Njia Nyingine za Kuzuia HIV**: PrEP ni njia ya kuzuia kabla ya maambukizi, ikilinganishwa na PEP ambayo inachukuliwa baada ya uwezekano wa kuamb","0.0","0.67"
+"""Je! Kuna vitu vingine ambavyo ni muhimu kujua kabla ya kuanza kutumia PrEP?"" (Are there other things that are important to know before starting to use PrEP?)  
+""Je! Kuna njia za kusaidia watu kama mimi ambao wana wasiwasi kuhusu HIV na PrEP?"" (Are there resources to help people like me who are worried about HIV and PrEP?)  
+""Ni vipi ambavyo jamii yangu inaweza kunisaidia katika kuchukua hatua za kujilinda","**Je! Kuna vitu vingine ambavyo ni muhimu kujua kabla ya kuanza kutumia PrEP?**  
+- Kabla ya kuanza PrEP, ni muhimu kufanyiwa kipimo cha HIV, tathmini ya afya, na kujua kuhusu matumizi sahihi ya dawa.
+
+**Je! Kuna njia za kusaidia watu kama mimi ambao wana wasiwasi kuhusu HIV na PrEP?**  
+- Ndio, kuna rasilimali kama kliniki za afya jamii, vikundi vya msaada, na kampeni za elimu ambazo hutoa taarifa sahihi na msaada.
+
+**Ni vipi ambavyo jamii yangu inaweza kunisaidia katika kuchukua hatua za kujilinda?**  
+- Jamii inaweza kusaidia kwa kutoa elimu, kuandaa matukio ya afya, na kuunga mkono upatikanaji wa huduma za afya, pamoja na PrEP.
+
+Ikiwa unahitaji maelezo zaidi, naweza kusaidia!","0.0","0.78"
+"Je! PrEP inapatikana katika makambi ya wakimbizi?  
+Naweza kuipata bila mtu yeyote kujua?","**Je! PrEP inapatikana katika makambi ya wakimbizi?**  
+- Ndiyo, PrEP inaweza kupatikana katika makambi ya wakimbizi kupitia huduma za afya zinazotolewa na mashirika ya msaada. Ni muhimu kuwasiliana na huduma za afya katika kambi hizo ili kujua kuhusu upatikanaji wa PrEP.
+
+**Naweza kuipata bila mtu yeyote kujua?**  
+- Ndio, matumizi ya PrEP ni siri. Taarifa kuhusu matumizi yako ya PrEP haitashirikiwa bila idhini yako. Ni vyema kuzungumza na mtoa huduma wa afya kuhusu sera zao za faragha ili uwe na uhakika. Ikiwa una maswali zaidi, niambie!","0.0","0.79"
+"Je! Kuna vikwazo vyovyote vya kupata PrEP katika makambi ya wakimbizi? (Are there any barriers to accessing PrEP in refugee camps?)  
+
+Je! Kuna njia rahisi za kufafanua mchakato wa kupata PrEP ili niweze kuelewa vizuri? (Are there simpler ways to explain the process of obtaining PrEP so I can understand better?)","**Je! Kuna vikwazo vyovyote vya kupata PrEP katika makambi ya wakimbizi?**  
+- Vikwazo vinaweza kujumuisha upungufu wa huduma za afya, ukosefu wa uelewa kuhusu PrEP, na hofu ya unyanyasaji au kuwapo kwa taarifa za kibinafsi. Ni muhimu kuwasiliana na wakala wa afya ili kuelewa ni rasilimali zipi zinapatikana.
+
+**Je! Kuna njia rahisi za kufafanua mchakato wa kupata PrEP ili niweze kuelewa vizuri?**  
+- Hapa kuna muhtasari rahisi:
+  - **Tembelea daktari**: Fanya miadi na mtoa huduma wa afya.
+  - **Kipimo cha HIV**: Lazima upime HIV kabla ya kuanza PrEP.
+  - **Pata risiti**: Daktari atakupa risiti ya PrEP.
+ ","0.0","1.16"
+"Je! Ni muda gani inachukua kupata PrEP baada ya kukutana na daktari? (How long does it take to get PrEP after meeting with a doctor?)  
+Je! Kuna njia za kujifunza zaidi kuhusu PrEP kupitia vikundi vya msaada au mazungumzo ya jamii? (Are there ways to learn more about PrEP through support groups or community discussions?)","**Je! Ni muda gani inachukua kupata PrEP baada ya kukutana na daktari?**  
+- Baada ya kukutana na daktari na kufanya kipimo cha HIV, unaweza kupata risiti ya PrEP mara moja matokeo yanapothibitishwa kuwa wewe ni HIV-negative. Mchakato huu unaweza kuchukua siku kadhaa kutegemea kliniki.
+
+**Je! Kuna njia za kujifunza zaidi kuhusu PrEP kupitia vikundi vya msaada au mazungumzo ya jamii?**  
+- Ndiyo, vikundi vya msaada na mazungumzo ya jamii ni njia nzuri za kujifunza zaidi kuhusu PrEP. Tafuta vikundi katika kliniki za afya, mashirika ya afya ya jamii, au kupitia matukio ya afya. Hizi zinatoa nafasi nzuri ya kushiriki uzoefu na kujifunza kutoka kwa wengine. 
+
+Ikiwa unahitaji maelezo zaidi, nipo hapa kusaidia!","0.0","0.53"
+"Je! Kuna programu za elimu kuhusu HIV na PrEP katika makambi ya wakimbizi? (Are there education programs about HIV and PrEP in refugee camps?)  
+Je! Ni rahisi kupata watu wa kuzungumza nao kuhusu masuala yangu ya afya na wasiwasi? (Is it easy to find people to talk to about my health concerns and worries?)","**Je! Kuna programu za elimu kuhusu HIV na PrEP katika makambi ya wakimbizi?**  
+- Ndiyo, mara nyingi kuna programu za elimu zinazotolewa na mashirika ya afya na NGOs katika makambi ya wakimbizi, zinazolenga kuelimisha watu kuhusu HIV na njia za kuzuia maambukizi, ikiwa ni pamoja na PrEP.
+
+**Je! Ni rahisi kupata watu wa kuzungumza nao kuhusu masuala yangu ya afya na wasiwasi?**  
+- Ndio, katika makambi ya wakimbizi, unaweza kupata msaada kutoka kwa wafanyakazi wa afya, wahudumu wa jamii, na vikundi vya msaada. Ni vyema kutafuta huduma za afya zinazotoa usaidizi wa kiakili na wa kijamii.
+
+Ikiwa unahitaji maelezo zaidi au msaada, nipo hapa kusaidia!","0.0","1.07"
+"Je! Kuna watu maalum katika makambi ya wakimbizi ambao wanaweza kunisaidia kuelewa zaidi kuhusu PrEP? (Are there specific people in refugee camps who can help me understand more about PrEP?)  
+Je! Kuna njia za kuwasiliana na mashirika ya afya kuhusu maswali yangu bila kuwa na wasiwasi kuhusu faragha yangu? (Are there ways to contact health organizations about my questions without worrying about my privacy?)","**Je! Kuna watu maalum katika makambi ya wakimbizi ambao wanaweza kunisaidia kuelewa zaidi kuhusu PrEP?**  
+- Ndio, mara nyingi kuna wafanyakazi wa afya na wahudumu wa jamii katika makambi ya wakimbizi ambao wanaweza kusaidia kuelewa PrEP. Wanaweza kutoa maelezo, rasilimali, na msaada wa kiakili.
+
+**Je! Kuna njia za kuwasiliana na mashirika ya afya kuhusu maswali yangu bila kuwa na wasiwasi kuhusu faragha yangu?**  
+- Ndio, unaweza kuwasiliana na mashirika ya afya kupitia barua pepe au simu. Ni vyema kutafuta mashirika yanayoheshimu faragha yako. Pia, unaweza kutumia mifumo ya online salama kwa mazungumzo ya faragha.
+
+Ikiwa unahitaji maelezo zaidi au msaada, nipo hapa kusaidia!","0.0","0.54"
+"Je! Kuna maelezo zaidi kuhusu mipango ya usaidizi wa afya katika makambi ya wakimbizi? (Is there more information about health support programs in refugee camps?)  
+Je! Ni hatua zipi zinazofuata baada ya kupata maelezo kuhusu PrEP? (What are the next steps after learning about PrEP?)","**Je! Kuna maelezo zaidi kuhusu mipango ya usaidizi wa afya katika makambi ya wakimbizi?**  
+- Ndiyo, mara nyingi kuna mipango ya usaidizi wa afya inayotolewa na mashirika ya afya na NGOs katika makambi ya wakimbizi. Hizi zinajumuisha huduma za afya, elimu kuhusu HIV na PrEP, na msaada wa kiakili.
+
+**Je! Ni hatua zipi zinazofuata baada ya kupata maelezo kuhusu PrEP?**  
+- Baada ya kupata maelezo, unaweza:
+  - **Kusoma zaidi**: Jifunze kuhusu jinsi PrEP inavyofanya kazi na manufaa yake.
+  - **Kujadili na mtoa huduma**: Fanya miadi na mtoa huduma wa afya ili kujadili kama PrEP ni sahihi kwako.
+  - **Kufanya vipimo**: Hakikisha upime HIV na ufuate hatua zinazoh","0.0","0.62"
+"**Je! Kuna maelezo zaidi kuhusu mipango ya usaidizi wa afya katika makambi ya wakimbizi?**  
+- Ndiyo, mara nyingi kuna mipango ya usaidizi wa afya inayotolewa na mashirika ya afya na NGOs katika makambi ya wakimbizi. Hizi zinajumuisha huduma za afya, elimu kuhusu HIV na PrEP, na msaada wa kiakili.
+
+**Je! Ni hatua zipi zinazofuata baada ya kupata maele","**Je! Kuna maelezo zaidi kuhusu mipango ya usaidizi wa afya katika makambi ya wakimbizi?**  
+- Ndiyo, mara nyingi kuna mipango ya usaidizi wa afya inayotolewa na mashirika ya afya na NGOs katika makambi ya wakimbizi. Hizi zinajumuisha huduma za afya, elimu kuhusu HIV na PrEP, na msaada wa kiakili.
+
+**Je! Ni hatua zipi zinazofuata baada ya kupata maelezo kuhusu PrEP?**  
+- Baada ya kupata maelezo, unaweza:
+  - **Kusoma zaidi**: Jifunze kuhusu jinsi PrEP inavyofanya kazi na manufaa yake.
+  - **Kujadili na mtoa huduma**: Fanya miadi na mtoa huduma wa afya ili kujadili kama PrEP ni sahihi kwako.
+  - **Kufanya vipimo**: Hakikisha upime HIV na ufuate hatua zinazoh","0.0","1.18"
+"**Je! Kuna maelezo zaidi kuhusu mipango ya usaidizi wa afya katika makambi ya wakimbizi?**  
+- Ndiyo, mara nyingi kuna mipango ya usaidizi wa afya inayotolewa na mashirika ya afya na NGOs katika makambi ya wakimbizi. Hizi zinajumuisha huduma za afya, elimu kuhusu HIV na PrEP, na msaada wa kiakili.
+
+**Je! Ni hatua zipi zinazofuata baada ya kupata maele","**Je! Kuna maelezo zaidi kuhusu mipango ya usaidizi wa afya katika makambi ya wakimbizi?**  
+- Ndiyo, mara nyingi kuna mipango ya usaidizi wa afya inayotolewa na mashirika ya afya na NGOs katika makambi ya wakimbizi. Hizi zinajumuisha huduma za afya, elimu kuhusu HIV na PrEP, na msaada wa kiakili.
+
+**Je! Ni hatua zipi zinazofuata baada ya kupata maelezo kuhusu PrEP?**  
+- Baada ya kupata maelezo, unaweza:
+  - **Kusoma zaidi**: Jifunze kuhusu jinsi PrEP inavyofanya kazi na manufaa yake.
+  - **Kujadili na mtoa huduma**: Fanya miadi na mtoa huduma wa afya ili kujadili kama PrEP ni sahihi kwako.
+  - **Kufanya vipimo**: Hakikisha upime HIV na ufuate hatua zinazoh","0.0","0.7"
+"Je! Kuna uwezekano wa kupata mafunzo au warsha kuhusu PrEP katika makambi ya wakimbizi? (Is there a chance to receive training or workshops about PrEP in refugee camps?)  
+Naweza kujua zaidi kuhusu matokeo ya watu wengine ambao wameanza kutumia PrEP katika mazingira kama haya? (Can I know more about the outcomes of others who have started using PrEP in similar environments?)","**Je! Kuna uwezekano wa kupata mafunzo au warsha kuhusu PrEP katika makambi ya wakimbizi?**  
+- Ndiyo, mara nyingi makambi ya wakimbizi hutoa mafunzo na warsha kuhusu HIV na PrEP kupitia mashirika ya afya na NGOs. Hizi zinajumuisha elimu juu ya matumizi sahihi ya PrEP na faida zake.
+
+**Naweza kujua zaidi kuhusu matokeo ya watu wengine ambao wameanza kutumia PrEP katika mazingira kama haya?**  
+- Ndiyo, tafiti nyingi zinaonyesha kuwa watu ambao wanaweza kupata elimu na msaada wa jamii wanaweza kuonyesha matokeo bora katika matumizi ya PrEP, ikiwemo ongezeko la uelewa na ufanisi wa matumizi. Hii inadhihirisha umuhimu wa rasilimali na usaidizi wa jamii.
+
+Ikiwa unahitaji maelezo zaidi au msaada, nipo hapa kusaidia!","0.0","1.19"
+"Je! Kuna vitu vipi vinavyoweza kusaidia kuongeza uelewa juu ya ناoresho la kutumia PrEP katika makambi ya wakimbizi? (What factors can help improve understanding about using PrEP in refugee camps?)  
+Je! Kuna programs za usaidizi wa kiuchumi kwa ajili ya watu wanaotaka kupata PrEP katika makambi ya wakimbizi? (Are there economic assistance programs for people looking to access PrEP in refugee camps?)","**Je! Kuna vitu vipi vinavyoweza kusaidia kuongeza uelewa juu ya matumizi ya PrEP katika makambi ya wakimbizi?**  
+- **Mafunzo ya jamii**: Kuandaa warsha na mafunzo ya elimu kuhusu PrEP na njia za kuzuia HIV.  
+- **Wahamasi wa wanajamii**: Kuajiri wahamasishaji wa jamii ambao wanaweza kuwasiliana na watu kuhusu faida za PrEP.  
+- **Jukwaa la mazungumzo**: Kuunda nafasi za wazi za mazungumzo kuhusu masuala ya afya na matumizi ya PrEP.  
+
+**Je! Kuna programu za usaidizi wa kiuchumi kwa ajili ya watu wanaotaka kupata PrEP katika makambi ya wakimbizi?**  
+- **Programu za msaada wa kifedha**: Baadhi ya mashirika yanatoa msaada wa kifedha kwa watu wanaoh","0.0","1.12"
+"**Je! Kuna programu za msaada wa kifedha ambazo zinaweza kusaidia watu kupata PrEP katika makambi ya wakimbizi?**  
+- Ndio, mashirika kadhaa yanaweza kutoa msaada wa kifedha ili kusaidia watu ambao wanaweza kuwa na ugumu wa kifedha kupata PrEP. Ni vyema kuwasiliana na mashirika ya afya hapa kambi ili kujua kuhusu rasilimali hizi.
+
+**Ni vipi ambavyo mawasiliano","**Je! Kuna vitu vipi vinavyoweza kusaidia kuongeza uelewa juu ya matumizi ya PrEP katika makambi ya wakimbizi?**  
+- **Mafunzo ya jamii**: Kuandaa warsha na mafunzo ya elimu kuhusu PrEP na njia za kuzuia HIV.  
+- **Wahamasi wa wanajamii**: Kuajiri wahamasishaji wa jamii ambao wanaweza kuwasiliana na watu kuhusu faida za PrEP.  
+- **Jukwaa la mazungumzo**: Kuunda nafasi za wazi za mazungumzo kuhusu masuala ya afya na matumizi ya PrEP.  
+
+**Je! Kuna programu za usaidizi wa kiuchumi kwa ajili ya watu wanaotaka kupata PrEP katika makambi ya wakimbizi?**  
+- **Programu za msaada wa kifedha**: Mashirika kadhaa yanaweza kutoa msaada wa kifedha kusaidia watu kupata","0.0","1.09"
+"**Je! Kuna programu za msaada wa kifedha ambazo zinaweza kusaidia watu kupata PrEP katika makambi ya wakimbizi?**  
+- Ndio, mashirika kadhaa yanaweza kutoa msaada wa kifedha ili kusaidia watu ambao wanaweza kuwa na ugumu wa kifedha kupata PrEP. Ni vyema kuwasiliana na mashirika ya afya hapa kambi ili kujua kuhusu rasilimali hizi.
+
+**Ni vipi ambavyo mawasiliano","**Je! Kuna vitu vipi vinavyoweza kusaidia kuongeza uelewa juu ya matumizi ya PrEP katika makambi ya wakimbizi?**
+- **Mafunzo ya jamii**: Kuandaa warsha na mafunzo ya elimu kuhusu PrEP na njia za kuzuia HIV.  
+- **Wahamasi wa wanajamii**: Kuajiri wahamasishaji wa jamii ambao wanaweza kuwasiliana na watu kuhusu faida za PrEP.  
+- **Jukwaa la mazungumzo**: Kuunda nafasi za wazi za mazungumzo kuhusu masuala ya afya na matumizi ya PrEP.  
+
+**Je! Kuna programu za usaidizi wa kiuchumi kwa ajili ya watu wanaotaka kupata PrEP katika makambi ya wakimbizi?**
+- **Programu za msaada wa kifedha**: Mashirika kadhaa yanaweza kutoa msaada wa kifedha kusaidia watu ambao wanaweza","0.0","0.54"
+"**Je! Kuna maeneo maalum katika makambi ya wakimbizi ambapo naweza kupata maelezo zaidi kuhusu PrEP?** (Are there specific places in refugee camps where I can get more information about PrEP?)  
+**Je! Kuna makundi ya kujitolea yanayojihusisha na masuala ya HIV na PrEP katika makambi ya wakimbizi?** (Are there volunteer groups involved with HIV and PrEP issues in refugee camps?)","**Je! Kuna maeneo maalum katika makambi ya wakimbizi ambapo naweza kupata maelezo zaidi kuhusu PrEP?**  
+- Ndio, mara nyingi kuna vituo vya afya na mashirika ya msaada ndani ya makambi ambayo yanaweza kutoa maelezo kuhusu PrEP.
+
+**Je! Kuna makundi ya kujitolea yanayojihusisha na masuala ya HIV na PrEP katika makambi ya wakimbizi?**  
+- Ndio, baadhi ya mashirika yasiyo ya kiserikali na vikundi vya kujitolea hutoa elimu na rasilimali kuhusu HIV na PrEP, wakishirikiana na jamii za wakimbizi. 
+
+Kama unahitaji maelezo zaidi au msaada wa kutafuta rasilimali hizo, nipo hapa kusaidia!","0.0","0.79"
+"**Je! Kuna maeneo maalum katika makambi ya wakimbizi ambapo naweza kupata maelezo zaidi kuhusu PrEP?**  
+- Ndio, mara nyingi kuna vituo vya afya na mashirika ya msaada ndani ya makambi ambayo yanaweza kutoa maelezo kuhusu PrEP.
+
+**Je! Kuna makundi ya kujitolea yanayojihusisha na masuala ya HIV na PrEP katika makambi ya wakimbizi?**  
+- Ndio, baadhi","**Je! Kuna maeneo maalum katika makambi ya wakimbizi ambapo naweza kupata maelezo zaidi kuhusu PrEP?**  
+- Ndio, mara nyingi kuna vituo vya afya na mashirika ya msaada ndani ya makambi ambayo yanaweza kutoa maelezo kuhusu PrEP.
+
+**Je! Kuna makundi ya kujitolea yanayojihusisha na masuala ya HIV na PrEP katika makambi ya wakimbizi?**  
+- Ndio, baadhi ya mashirika yasiyo ya kiserikali na vikundi vya kujitolea hutoa elimu na rasilimali kuhusu HIV na PrEP, wakishirikiana na jamii za wakimbizi.
+
+Ikiwa unahitaji maelezo zaidi au msaada wa kutafuta rasilimali hizo, nipo hapa kusaidia!","0.0","0.66"
+"**Je! Kuna programu za elimu zinazotolewa na mashirika ya afya kuhusu PrEP katika makambi ya wakimbizi?** (Are there educational programs provided by health organizations about PrEP in refugee camps?)  
+**Je! Ni vipi ninavyoweza kujihusisha na shughuli za kijamii zinazohusiana na kuzuia HIV na PrEP?** (How can I get involved in community activities related to HIV prevention and PrEP?)","**Je! Kuna programu za elimu zinazotolewa na mashirika ya afya kuhusu PrEP katika makambi ya wakimbizi?**  
+- Ndio, mara nyingi kuna programu za elimu zinazotolewa na mashirika ya afya na NGOs katika makambi ya wakimbizi, zinazolenga kuelimisha watu kuhusu HIV na njia za kuzuia maambukizi, ikiwa ni pamoja na PrEP.
+
+**Je! Ni vipi ninavyoweza kujihusisha na shughuli za kijamii zinazohusiana na kuzuia HIV na PrEP?**  
+- Unaweza kujihusisha kwa:
+  - Kujiunga na vikundi vya msaada au mashirika ya afya ya jamii.
+  - Kushiriki katika matukio ya elimu kuhusu HIV na PrEP.
+  - Kuwa mwakilishi wa elimu katika jamii yako kwa kushiriki maarifa kuhusu PrEP.
+
+Ikiwa unahitaji maelezo zaidi au msaada katika kutafuta rasilimali","0.0","0.9"
+"**Je! Kuna programu za elimu zinazotolewa na mashirika ya afya kuhusu PrEP katika makambi ya wakimbizi?**  
+- Ndio, mara nyingi kuna programu za elimu zinazotolewa na mashirika ya afya na NGOs katika makambi ya wakimbizi, zinazolenga kuelimisha watu kuhusu HIV na njia za kuzuia maambukizi, ikiwa ni pamoja na PrEP.
+
+**Je! Ni vipi ninavyoweza kujihusisha na shughuli za","**Je! Kuna programu za elimu zinazotolewa na mashirika ya afya kuhusu PrEP katika makambi ya wakimbizi?**  
+- Ndio, mara nyingi kuna programu za elimu zinazotolewa na mashirika ya afya na NGOs katika makambi ya wakimbizi, zinazolenga kuelimisha watu kuhusu HIV na njia za kuzuia maambukizi, ikiwa ni pamoja na PrEP.
+
+**Je! Ni vipi ninavyoweza kujihusisha na shughuli za kijamii zinazohusiana na kuzuia HIV na PrEP?**  
+- Unaweza kujihusisha kwa:
+  - Kujiunga na vikundi vya msaada au mashirika ya afya ya jamii.
+  - Kushiriki katika matukio ya elimu kuhusu HIV na PrEP.
+  - Kuwa mwakilishi wa elimu katika jamii yako kwa kushiriki maarifa kuhusu PrEP.
+
+Ikiwa unahitaji maelezo zaidi au msaada katika kutafuta rasilimali","0.0","0.91"
+"**Je! Kuna njia za kuhamasisha jamii yangu kuhusu umuhimu wa kutumia PrEP?** (Are there ways to encourage my community about the importance of using PrEP?)  
+**Je! Kuna matukio ya afya yanayofanyika katika makambi ya wakimbizi ambayo yanaweza kunisaidia kujifunza zaidi kuhusu PrEP?** (Are there health events happening in refugee camps that can help me learn more about PrEP?)","**Je! Kuna njia za kuhamasisha jamii yangu kuhusu umuhimu wa kutumia PrEP?**  
+- **Kuandaa warsha**: Panga matukio ya elimu kuhusu umuhimu wa PrEP na jinsi inavyosaidia katika kuzuia HIV.
+- **Kushiriki katika matukio ya jamii**: Jiunge na matukio ya afya katika jamii yako ili kuwasiliana na watu zaidi kuhusu PrEP.
+- **Kuwasiliana na wahamasishaji wa jamii**: Wajulishe wahamasishaji wa afya ili waelekeze juu ya matumizi ya PrEP.
+
+**Je! Kuna matukio ya afya yanayofanyika katika makambi ya wakimbizi ambayo yanaweza kunisaidia kujifunza zaidi kuhusu PrEP?**  
+- Ndio, mara nyingi makambi ya wakimbizi huandaa matukio ya afya, kama vile feri za afya, ambapo unaweza kupata taarifa zaidi kuhusu PrEP na","0.0","0.54"
+"**Je! Kuna matukio ya afya yanayofanyika katika makambi ya wakimbizi ambayo yanaweza kunisaidia kujifunza zaidi kuhusu PrEP?**  
+- Ndio, mara nyingi makambi ya wakimbizi huandaa matukio ya afya, kama vile feri za afya, ambapo unaweza kupata taarifa zaidi kuhusu PrEP na njia za kuzuia HIV. Hizi ni fursa nzuri za kujifunza na kuzungumza na wataalamu wa afya.","**Je! Kuna matukio ya afya yanayofanyika katika makambi ya wakimbizi ambayo yanaweza kunisaidia kujifunza zaidi kuhusu PrEP?**  
+- Ndio, mara nyingi makambi ya wakimbizi huandaa matukio ya afya, kama vile feri za afya, ambapo unaweza kupata taarifa zaidi kuhusu PrEP na njia za kuzuia HIV. Hizi ni fursa nzuri za kujifunza na kuzungumza na wataalamu wa afya.
+
+**Je! Kuna njia za kuhamasisha jamii yangu kuhusu umuhimu wa kutumia PrEP?**  
+- **Kuandaa warsha**: Panga matukio ya elimu kuhusu umuhimu wa PrEP.
+- **Kushiriki katika matukio ya jamii**: Jiunge na matukio ya afya ili kuwasiliana na watu zaidi kuhusu PrEP.
+- **Kuwasiliana na wahamasishaji wa jamii**: Wajulishe wahamasishaji wa","0.0","0.56"

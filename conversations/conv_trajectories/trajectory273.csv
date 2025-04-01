@@ -1,0 +1,228 @@
+"User_Message","Response","Response_Time","Temperature"
+"""Ni dawa ya PrEP ni salama kwa kutumia muda mrefu?""","PrEP (Truvada) ni salama kwa matumizi ya muda mrefu. Utafiti umeonyesha kuwa wanawake wanaotumia PrEP kwa muda mrefu hawakutana na madhara makubwa. Hata hivyo, ni muhimu:
+
+- **Kufanya uchunguzi wa mara kwa mara**: Ikiwemo vipimo vya HIV na kazi ya figo kila miezi 3.
+- **Kuhakikisha unafuata ratiba**: Tumia dawa kila siku kama ilivyoagizwa.
+- **Kujadili masuala yoyote**: Wasiliana na daktari wako kuhusu madhara yoyote au mabadiliko ya afya.
+
+Ikiwa unahitaji maelezo zaidi au msaada, niko hapa kusaidia!","0.0","1.17"
+"""Nafikiri kuna habari nyingi kuhusu athari za upande wa PrEP. Je, unaweza kuniambia zaidi kuhusu hizo?""","Claro! As principais **efeitos colaterais** do PrEP (Truvada) incluem:
+
+- **Náusea**
+- **Dor de cabeça**
+- **Dores abdominais**
+- **Fadiga**
+- **Tontura**
+
+Esses efeitos costumam ser leves e tendem a desaparecer após algumas semanas. É importante monitorar sua saúde e relatar qualquer sintoma persistente ao seu médico. 
+
+O PrEP é altamente eficaz, cerca de 99% na prevenção do HIV, quando tomado diariamente. Se você sentir efeitos colaterais preocupantes ou tiver dúvidas, consulte seu profissional de saúde para discutir suas preocupações e obter orientações personalizadas.  Se precisar de mais informações, estou aqui para ajudar!","0.0","1.03"
+"""Ningependa kujua jinsi PrEP inavyofanya kazi hasa. Ni muhimu sana na inagharimu kiasi gani?""","PrEP (Pre-exposure Prophylaxis) inafanya kazi kwa kuzuia HIV kuingia katika seli za mwili. Ikiwa mtu anatumia PrEP kila siku kama ilivyoagizwa, inaweza kupunguza hatari ya kupata HIV kwa zaidi ya 99% wakati wa kufanya ngono isiyo salama na mtu aliye na virusi.
+
+Kuhusu gharama, nchini Marekani, PrEP inaweza kuwa na gharama tofauti. Watu wengi hupata bima ya afya inayofidia gharama za PrEP, lakini kama huna bima, kuna mipango ya msaada wa kifedha inayoweza kusaidia. Ni bora kuzungumza na daktari wako au mtaalamu wa afya ili kupata maelezo ya kina kuhusu gharama na mipango ya msaada. Ikiwa unahitaji maelezo zaidi, niko hapa kusaidia!","0.0","1.07"
+"""Nikijua jinsi PrEP inavyofanya kazi, je, ni lazima kufanya vipimo vyovyote kabla ya kuanza kutumia dawa hii?""","Kabla ya kuanza kutumia PrEP, ni muhimu kufanya vipimo vifuatavyo:
+
+- **Testi ya HIV**: Ili kuthibitisha kuwa wewe ni HIV-negatif.
+- **Testi ya kazi za figo**: Ili kuthibitisha afya yako ya figo, kwa sababu PrEP inaweza kuathiri figo.
+- **Testi za magonjwa ya zinaa (ISTs)**: Ili kupima uwepo wa magonjwa ya zinaa kama sifilis na gonorrhea.
+- **Tathmini ya afya**: Kuangalia historia yako ya magonjwa na hali za kiafya.
+
+Kuhakikisha kwamba unafanya vipimo hivi ni hatua muhimu ili kupata matokeo bora na salama kutoka kwa PrEP. Ikiwa unahitaji maelezo zaidi, niko hapa kusaidia!","0.0","0.89"
+"""Ningependa kujua ni mara ngapi ni vizuri kufanya vipimo vya afya wakati wa kutumia PrEP?""","Wakati wa kutumia PrEP, ni muhimu kufanya vipimo vya afya kama ifuatavyo:
+
+- **Testi ya HIV**: Kila miezi 3 ili kuhakikisha kuwa bado uko HIV-negatif.
+- **Testi za kazi za figo**: Kila miezi 3 ili kufuatilia afya ya figo.
+- **Testi za magonjwa ya zinaa (ISTs)**: Mara kwa mara, kulingana na hatari yako, kwa mfano kila miezi 3-6.
+
+Hizi ni hatua muhimu za kuhakikisha matumizi salama na yenye ufanisi wa PrEP. Ikiwa unahitaji maelezo zaidi, niko hapa kusaidia!","0.0","0.59"
+"""Ningependa kujua ni aina gani ya msaada wa kifedha inayopatikana kwa watu wanaotaka kutumia PrEP?""","Kwa watu wanaotaka kutumia PrEP, kuna masuala kadhaa ya msaada wa kifedha yanayopatikana:
+
+- **Mipango ya Msaada wa Dawa**: 
+  - **Ready, Set, PrEP**: Inatoa PrEP bure kwa watu walio na agizo la daktari.
+  - **Gilead Advancing Access**: Inatoa msaada wa kifedha kwa gharama za PrEP na vipimo vya HIV.
+
+- **Bima ya Afya**: 
+  - Medicaid na wengi wa waajiri wa kibinafsi wanatoa bima ambayo inafidia gharama za PrEP, pamoja na vipimo na ziara za kliniki.
+
+- **Kliniki za Afya za Umma**: 
+  - Mara nyingi hutoa huduma za afya za bure au za gharama nafuu, ikiwa ni pamoja na PrEP.
+
+Ni muhimu kuzungumza na daktari wako au mtaalamu","0.0","0.56"
+"""Ningependa kujua, je, kuna tofauti kati ya PrEP na PEP? Na ni lini ni bora kutumia kila moja?""","PrEP (Profilaxia Pré-Exposição) na PEP (Profilaxia Pós-Exposição) ni mbinu mbili za kuzuia HIV, lakini zina matumizi tofauti:
+
+### PrEP
+- **Tuziele**: Inachukuliwa kabla ya kuwa na hatari ya kuambukizwa HIV.
+- **Wakati wa Matumizi**: Inahitajika kuchukuliwa kila siku ili kutoa ulinzi.
+- **Lengo**: Kuzuia maambukizi kabla ya kutokea, inafaa kwa watu walio na hatari kubwa ya kuambukizwa HIV.
+
+### PEP
+- **Tuziele**: Inachukuliwa baada ya uwezekano wa kuambukizwa HIV (kama vile unprotected sex, kushiriki sindano).
+- **Wakati wa Matumizi**: Inapaswa kuanza ndani ya masaa 72 baada ya kutokea kwa tukio la hatari na inachuk","0.0","0.78"
+"""Ni vizuri kujua tofauti kati ya PrEP na PEP. Je, unaweza kuniambia zaidi kuhusu mchakato wa kupata PrEP nchini Afrika Kusini? Kuna hatua zozote maalum za kufuata?""","PrEP nchini Afrika Kusini inapatikana kwa urahisi kupitia mfumo wa afya wa umma na binafsi. Hapa kuna hatua za kufuata ili kupata PrEP:
+
+1. **Kujitambulisha kwa Mtaalamu wa Afya**: Tembelea kituo cha afya au kliniki ya HIV. Unaweza pia kupata daktari binafsi ambaye anatoa huduma za PrEP.
+
+2. **Vipimo vya Awali**: Fanya vipimo vya HIV, kazi za figo, na vipimo vya magonjwa ya zinaa (ISTs) ili kuthibitisha kuwa wewe ni HIV-negativa.
+
+3. **Malizia Mchakato wa Kupata Dawa**: Ikiwa umethibitishwa kuwa na afya njema, daktari atakupa agizo la PrEP. 
+
+4. **Kuhakikisha Mfuatano**: Fuata ratiba ya kuchukua dawa kila siku kama ilivyoagizwa. 
+
+5.","0.0","1.06"
+"""Ningependa kujua ni vipi PrEP inapatikana katika vituo vya afya vya umma na binafsi nchini Afrika Kusini? Je, kuna tofauti yoyote katika upatikanaji wa dawa hizi?""","PrEP inapatikana katika vituo vya afya vya umma na binafsi nchini Afrika Kusini. Hapa kuna maelezo kuhusu upatikanaji:
+
+1. **Vituo vya Afya vya Umma**: 
+   - Mara nyingi hutoa PrEP bure. 
+   - Unahitaji kutembelea kituo cha afya, kufanya vipimo vya HIV, na kupata agizo la daktari.
+
+2. **Vituo vya Afya Binafsi**: 
+   - Unaweza kupata PrEP kupitia daktari binafsi. 
+   - Gharama inaweza kutofautiana kulingana na bima yako ya afya.
+
+Hakuna tofauti kubwa katika ufanisi wa dawa hizi; zote zinatoa ulinzi wa hali ya juu dhidi ya HIV. Ni muhimu kuzungumza na daktari wako kuhusu chaguo bora kwako. Ikiwa unahitaji maelezo zaidi, niko hapa kusaidia!","0.0","0.62"
+"""Ningependa kujua ni madhara gani ya muda mrefu ambayo yanaweza kutokea kutokana na matumizi ya PrEP?""","PrEP (Truvada) ni salama kwa matumizi ya muda mrefu, lakini kuna baadhi ya madhara ambayo wanawake wanapaswa kuzingatia:
+
+- **Madhara kwenye Afya ya Figo**: Utafiti umeonyesha kwamba PrEP inaweza kuathiri kazi ya figo, hivyo ni muhimu kufanya vipimo vya figo mara kwa mara.
+
+- **Mabadiliko ya Mzito**: Baadhi ya wanawake wanaweza kufikia mabadiliko madogo ya uzito, lakini haya yanaweza kutofautiana.
+
+- **Madhara kwenye Afya ya Mifupa**: Utafiti unaonyesha kuwa matumizi ya muda mrefu ya PrEP yanaweza kuathiri wiani wa mifupa, ingawa athari hizi si kubwa kwa wanawake wengi.
+
+- **Madhara ya Kihisia**: Baadhi ya wanawake wanaweza kujiweka kwenye hali ya wasiwasi au wasiwasi kuhusu matumizi ya dawa.
+
+Ni muhimu kuk","0.0","0.73"
+"""Ningependa kujua ni vipi PrEP inavyoweza kuathiri afya yangu kwa ujumla, hasa kuhusu masuala ya uzito na afya ya mifupa?""","PrEP (Truvada) ni salama kwa matumizi ya muda mrefu, lakini kuna baadhi ya athari ambazo wanawake wanapaswa kuzingatia:
+
+- **Madhara kwenye Afya ya Mifupa**: Utafiti umeonyesha kwamba matumizi ya muda mrefu yanaweza kuathiri wiani wa mifupa, lakini athari hizi ni ndogo kwa wanawake wengi.
+
+- **Mabadiliko ya Uzito**: Baadhi ya wanawake wanaweza kuona mabadiliko madogo ya uzito. Hata hivyo, mabadiliko haya yanaweza kutofautiana kati ya watu.
+
+- **Kazi ya Figo**: Ni muhimu kufuatilia afya ya figo kwa kufanya vipimo mara kwa mara, kwani PrEP inaweza kuathiri kazi za figo.
+
+Ni muhimu kujadili masuala haya na daktari wako ili kutoa mwongozo wa kibinafsi. Ikiwa unahitaji maelezo zaidi, niko hapa kusaidia!","0.0","0.7"
+"""Ningependa kujua, je, kama kuna aina mbalimbali za dawa za PrEP zinapatikana na kama kuna tofauti kwenye matumizi yao?""","PrEP (Pre-exposure Prophylaxis) inapatikana katika aina kadhaa, lakini mbili za kawaida ni:
+
+- **Truvada**: Dawa ya kinywa inayochukuliwa kila siku. 
+- **Descovy**: Dawa nyingine ya kinywa, lakini ni ya matumizi kwa wanaume na wanawake walio na hatari ya kuambukizwa HIV.
+
+### Tofauti katika Matumizi:
+- **Truvada**: Inatumika kwa watu wote, na inahitaji kipimo cha kila siku.
+- **Descovy**: Inafaa kwa wanawake walio na hatari, lakini siyo wote wanaweza kuitumia (mahitaji maalum yanahitajika).
+
+Ni muhimu kujadili na daktari wako ni dawa ipi inayofaa kwako kulingana na hali yako ya kiafya. Ikiwa unahitaji maelezo zaidi, niko hapa kusaidia!","0.0","1.02"
+"""Ningependa kujua, je, kuna mambo yoyote ya kuzingatia wakati wa kuanza kutumia PrEP, kama vile mabadiliko katika mtindo wa maisha?""","Chatbot: Kabla ya kuanza kutumia PrEP, fikiria mambo yafuatayo:
+
+- **Adesheni ya Dawa**: Kumbuka kuchukua PrEP kila siku ili kuhakikisha ufanisi wa juu.
+
+- **Mabadiliko ya Mtindo wa Maisha**: Jenga tabia nzuri za kiafya kama kula chakula bora, kufanya mazoezi, na kuzingatia usingizi mzuri.
+
+- **Ushirikiano wa Kijamii**: Jenga mazingira ya msaada kutoka kwa marafiki, familia, na wenzi wa kimapenzi.
+
+- **Ufuatiliaji wa Afya**: Jiandae kwa vipimo vya HIV na kazi za figo kila miezi 3.
+
+- **Uelewa kuhusu Eneo la Hatari**: Fahamu hatari zako binafsi na jinsi PrEP inaweza kusaidia.
+
+Kujadili haya na daktari wako kunaweza kusaidia kuboresha uzoefu wako","0.0","0.9"
+"""Ningependa kujua ni kwa kiasi gani PrEP inaweza kuwa na ufanisi katika kuzuia maambukizi ya HIV, hasa kwa watu wanaohisiwa kuwa na hatari kubwa?""","PrEP (Pre-exposure Prophylaxis) inaweza kuwa na ufanisi wa hadi 99% katika kuzuia maambukizi ya HIV, hasa kwa watu wanaohisiwa kuwa na hatari kubwa, kama vile:
+
+- **Watu walio na wapenzi wengi**: Kila mpenzi wa HIV + au ambaye hadhihirishi hali yake.
+- **Watu wanaoshiriki sindano**: Kama vile watumiaji wa dawa za kulevya.
+- **Watu wenye historia ya magonjwa ya zinaa (ISTs)**: Hii inaongeza hatari ya kupata HIV.
+
+Ili kuwa na ufanisi, ni muhimu kuchukua PrEP kila siku kama ilivyoagizwa, pamoja na kufanya vipimo vya kawaida vya HIV na afya. Ikiwa unahitaji maelezo zaidi, niko hapa kusaidia!","0.0","1.05"
+"""Ningependa kujua ni muda gani inachukua PrEP kuanza kufanya kazi baada ya kuanza kuitumia?""","PrEP (Pre-exposure Prophylaxis) inahitaji muda wa kuchukua ili kuanza kufanya kazi kwa ufanisi. 
+
+- **Vaginal Sex**: Inahitaji takriban siku 21 za matumizi ya kila siku ili kutoa ulinzi bora dhidi ya maambukizi ya HIV.
+  
+- **Receptive Anal Sex (Kama ""bottoming"")**: Inahitaji takriban siku 7 za matumizi ya kila siku ili kutoa ulinzi bora.
+
+Ni muhimu kuendelea kuchukua PrEP kama ilivyoagizwa na kufanya vipimo vya kawaida vya HIV. Ikiwa una maswali zaidi, niko hapa kusaidia!","0.0","0.62"
+"""Ningependa kujua huwezi kutumia PrEP ikiwa uko na mimba au unanyonyesha? Je, kuna hatari yoyote inahusiana na hali hiyo?""","PrEP (Truvada) ni salama kwa wanawake walio na mimba na wale wanaonyonyesha. Utafiti umeonyesha kuwa PrEP haitoi madhara kwa mtoto aliyezaliwa na mama anayechukua dawa hii. Hata hivyo, ni muhimu:
+
+- **Kujadili na Daktari**: Kila wakati, ni bora kuzungumza na mtaalamu wa afya kabla ya kuanza au kuendelea kutumia PrEP wakati wa ujauzito au kunyonyesha.
+
+- **Kufuatilia Afya**: Fanya vipimo vya kawaida na ufuatiliaji wa afya.
+
+Kuhakikisha kuwa unapata mwongozo kutoka kwa daktari wako kutasaidia katika kufanya maamuzi sahihi. Ikiwa unahitaji maelezo zaidi, niko hapa kusaidia!","0.0","1.05"
+"""Ni dawa ya PrEP ni salama kwa kutumia muda mrefu?""","PrEP (Truvada) ni salama kwa matumizi ya muda mrefu. Utafiti umeonyesha kwamba wanawake wanaotumia PrEP kwa muda mrefu hawakutana na madhara makubwa. Hata hivyo, ni muhimu:
+
+- **Kufanya uchunguzi wa mara kwa mara**: Ikiwemo vipimo vya HIV na kazi ya figo kila miezi 3.
+- **Kuhakikisha unafuata ratiba**: Tumia dawa kila siku kama ilivyoagizwa.
+- **Kujadili masuala yoyote**: Wasiliana na daktari wako kuhusu madhara yoyote au mabadiliko ya afya.
+
+Ikiwa unahitaji maelezo zaidi au msaada, niko hapa kusaidia!","0.0","1.01"
+"""Nafikiri kuna habari nyingi kuhusu athari za upande wa PrEP. Je, unaweza kuniambia zaidi kuhusu hizo?""","Claro! Os principais **efeitos colaterais** do PrEP (Truvada) incluem:
+
+- **Náusea**
+- **Dor de cabeça**
+- **Dores abdominais**
+- **Fadiga**
+- **Tontura**
+
+Esses efeitos costumam ser leves e tendem a desaparecer após algumas semanas. É importante monitorar sua saúde e relatar qualquer sintoma persistente ao seu médico.
+
+O PrEP é altamente eficaz, cerca de 99% na prevenção do HIV, quando tomado diariamente. Se você tiver dúvidas ou preocupações, consulte seu profissional de saúde para obter orientações personalizadas. Se precisar de mais informações, estou aqui para ajudar!","0.0","1.11"
+"""Ningependa kujua jinsi PrEP inavyofanya kazi hasa. Ni muhimu sana na inagharimu kiasi gani?""","PrEP (Pre-exposure Prophylaxis) inafanya kazi kwa kuzuia HIV kuingia katika seli za mwili. Ikiwa mtu anatumia PrEP kila siku kama ilivyoagizwa, inaweza kupunguza hatari ya kupata HIV kwa zaidi ya 99% wakati wa kufanya ngono isiyo salama na mtu aliye na virusi.
+
+Kuhusu gharama, nchini Marekani, PrEP inaweza kuwa na gharama tofauti. Watu wengi hupata bima ya afya inayofidia gharama za PrEP, lakini kama huna bima, kuna mipango ya msaada wa kifedha inayoweza kusaidia. Ni bora kuzungumza na daktari wako au mtaalamu wa afya ili kupata maelezo ya kina kuhusu gharama na mipango ya msaada. Ikiwa unahitaji maelezo zaidi, niko hapa kusaidia!","0.0","0.59"
+"""Ningependa kujua, je, PrEP inapatikana wapi nchini Afrika Kusini na ni mchakato gani wa kupata dawa hii?""","PrEP inapatikana nchini Afrika Kusini katika vituo vya afya vya umma na binafsi. Hapa kuna mchakato wa kupata PrEP:
+
+1. **Kujitambulisha kwa Mtaalamu wa Afya**: Tembelea kituo cha afya au kliniki ya HIV, au daktari binafsi.
+   
+2. **Vipimo vya Awali**: Fanya vipimo vya HIV, kazi za figo, na magonjwa ya zinaa (ISTs) ili kuthibitisha kuwa HIV-negatif.
+
+3. **Agizo la Dawa**: Ikiwa umechukuliwa kuwa na afya njema, daktari atatoa agizo la PrEP.
+
+4. **Aksesi**: PrEP inaweza kupatikana bure katika vituo vya afya vya umma na kwa malipo katika kliniki binafsi.
+
+5. **Ufuatiliaji**: Mtembelea daktari kila miezi 3 kwa","0.0","0.94"
+"""Ningependa kujua, je, kuna vipindi maalum ambavyo PrEP inashauriwa kutumiwa?""","PrEP (Pre-exposure Prophylaxis) inashauriwa kutumiwa kwa watu walio katika hatari kubwa ya kuambukizwa HIV. Hapa kuna vipindi maalum ambavyo PrEP inashauriwa:
+
+1. **Wakati wa Kuwa na Wapenzi Wengi**: Ikiwa unashiriki ngono na watu wengi, PrEP inashauriwa.
+   
+2. **Wakati wa Kuwa na Mpenzi Aliye na HIV**: Ikiwa mpenzi wako ana HIV na hajachukua matibabu, ni muhimu kutumia PrEP.
+
+3. **Kushiriki Sindano**: Kwa watu wanaotumia dawa za kulevya na kushiriki sindano, PrEP inashauriwa.
+
+4. **Wakati wa Kusafiri**: Ikiwa unakutana na watu wapya wakati wa kusafiri katika maeneo yenye viwango vya juu vya HIV.
+
+Ni muhimu kuzungumza na daktari wako","0.0","1.05"
+"""Ningependa kujua, je, kuna tofauti yoyote katika ushawishi wa PrEP kwa wanawake na wanaume? Je, kuna tafiti zozote zinazothibitisha hili?""","PrEP inafanya kazi kwa njia sawa kwa wanawake na wanaume, ikizuia HIV kuingia katika seli za mwili. Hata hivyo, kuna tofauti chache katika ushawishi na matumizi:
+
+- **Ufanisi**: Ufanisi wa PrEP unategemea sana adherence (kuchukua dawa kila siku). Tafiti zinaonyesha kuwa wanawake wanaweza kuwa na viwango vya juu vya maambukizi kutokana na sababu za kiafya na kijamii, lakini PrEP bado hutoa ulinzi mzuri.
+
+- **Madhara**: Wanawake wanaweza kutarajia madhara sawa kama wanaume, lakini huenda wakapata mabadiliko tofauti katika afya ya uzazi au homoni. 
+
+- **Tafiti**: Tafiti nyingi zinaendelea kufanywa ili kuelewa tofauti hizi na kuboresha njia za matumizi ya PrEP kwa wanawake.
+
+Ni muhimu kujadili na daktari wako kuhusu masuala haya ili kuhakikisha kuwa Pr","0.0","0.51"
+"""Ningependa kujua, je, ni ukweli kwamba PrEP inaweza kusaidia katika kuboresha afya ya uzazi kwa wanawake? Je, kuna mitazamo kuhusu matumizi yake zaidi ya kuzuia maambukizi ya HIV?""","PrEP inaweza kusaidia kuboresha afya ya uzazi kwa wanawake kwa njia kadhaa:
+
+- **Kuzuia Maambukizi ya HIV**: Kwa kuzuia HIV, PrEP inalinda wanawake na kusaidia katika kudumisha afya ya uzazi.
+
+- **Mabadiliko Chanya ya Afya**: Wanawake wanaotumia PrEP mara nyingi wanajihusisha na huduma za afya mara kwa mara, hivyo wanaweza kupata huduma zingine za afya, ikiwa ni pamoja na uchunguzi wa magonjwa ya zinaa.
+
+- **Ushirikiano wa Kijamii**: Matumizi ya PrEP yanaweza kuboresha mazungumzo kuhusu afya ya kijinsia, kusaidia wanawake kujihusisha na uamuzi wa afya zao.
+
+Hata hivyo, ni muhimu kujadili na daktari wako kuhusu matumizi ya PrEP na afya ya uzazi ili kuhakikisha inafaa kwako. Ikiwa unahitaji maelezo zaidi,","0.0","1.18"
+"""Ningependa kujua ni vigezo gani vinatumika kuamua kama mtu anapaswa kuanza kutumia PrEP? Je, kuna wanachama wa jamii fulani ambao wanashauriwa zaidi?""","PrEP inashauriwa kwa watu walio katika hatari kubwa ya kuambukizwa HIV. Vigezo vinavyotumika kuamua kama mtu anapaswa kuanza kutumia PrEP ni pamoja na:
+
+- **Kuwa na wapenzi wengi**: Kila mpenzi wa HIV + au ambaye hadhihirishi hali yake.
+- **Kuwa na mpenzi ambaye ana HIV na hajachukua matibabu**: Hii inaongeza hatari ya kuambukizwa.
+- **Kushiriki sindano**: Kwa watu wanaotumia dawa za kulevya na kushiriki sindano.
+- **Kuwa na historia ya magonjwa ya zinaa (ISTs)**: Hii inaongeza hatari ya kupata HIV.
+
+Wanachama wa jamii fulani, kama wanawake ambao wanashiriki ngono na wanaume, wanaweza kunufaika zaidi kutokana na matumizi ya PrEP. Ni muhimu kujadili hali yako na daktari","0.0","1.06"
+"""Ningependa kujua, je, kuna masharti yoyote maalum ya kiafya ambayo mtu anapaswa kuzingatia kabla ya kuanza kutumia PrEP?""","Kabla ya kuanza kutumia PrEP, mtu anapaswa kuzingatia masharti yafuatayo ya kiafya:
+
+- **HIV Negatif**: Lazima kuhakikisha kuwa mtu ni HIV-negatif kupitia vipimo vya hivi karibuni.
+  
+- **Afya ya Figo**: Kufanya vipimo vya kazi ya figo, kwani PrEP inaweza kuathiri afya ya figo.
+  
+- **Historia ya Magonjwa ya Zinaa (ISTs)**: Kuwa na historia ya magonjwa ya zinaa inahitaji uangalifu zaidi na vipimo vya mara kwa mara.
+
+- **Matarajio ya Matibabu**: Kujadili kuhusu madhara ambayo yanaweza kutokea na jinsi ya kuyashughulikia.
+
+- **Usalama wa Uzazi**: Ikiwa unajaribu kupata mimba au uko katika kipindi cha ujauzito, ni muhimu kujadili na daktari.
+
+Ni vyema kujadili hali yako na mta","0.0","0.97"
