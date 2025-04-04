@@ -1,0 +1,29 @@
+1. Where do ratings deviate from the average?
+
+    Are there specific conversations or turns that are rated much lower or higher than average?
+
+    Which criteria tend to have the most variation?
+
+2. Are there differences between the perspectives?
+
+    Does the chatbot rate itself differently than users or observers rate it?
+
+    Are there criteria where the chatbot’s self-assessment is consistently higher or lower than external assessments?
+
+3. Do criteria ratings correlate with overall ratings?
+
+    Which criteria have the strongest influence on the overall rating?
+
+    Are there criteria that are less correlated with the overall rating?
+
+4. Temporal Trends:
+
+    Do ratings change over time or improve as the chatbot is fine-tuned?
+
+    Are there trends in specific criteria over time?
+
+5. Distribution and Spread:
+
+    Even if most ratings are around 9.0, what does the distribution look like?
+
+    Are there specific criteria that have more spread (variance) than others?

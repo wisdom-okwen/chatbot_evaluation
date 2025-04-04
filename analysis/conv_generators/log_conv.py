@@ -2,7 +2,7 @@ import os
 import random
 import csv
 from datetime import datetime
-from .utility.gpt_seeker import seeker
+from ...utility.gpt_seeker import seeker
 from shesprepared.gpt1 import get_gpt_response
 
 # Directories and prefixes
