@@ -58,7 +58,7 @@ def log_language():
                 print(f"GPT experienced an internal error for conversation {i}: {str(e)}")
                 continue
 
-        df.to_csv(overall_ratings_file, index=False)
+        df.to_csv(df_file, index=False)
         print("Logged for ", persona)
     print("Language logging completed successfully.")
 
