@@ -1,53 +1,54 @@
+import os
 from openai import OpenAI
-from server_info import model_dict
-# from sample import sample_interaction
-
-# Setup open source llama 3.1 8B Instruct
-MODEL = "llama" # select among "llama 3.1 8B" model
-model_name, model_port = model_dict[MODEL]
-
-if model_port == -1:
-    print("** Model not deployed **")
-    exit()
-
-openai_api_key = "EMPTY"
-url = f"http://localhost:{model_port}/v1"
-
-client = OpenAI(
-    api_key=openai_api_key,
-    base_url=url,
+from huggingface_hub import login
+from dotenv import load_dotenv
+import torch
+from transformers import (
+    pipeline,
+    AutoModelForCausalLM,
+    AutoTokenizer
 )
 
-def get_llama_response(user_input):
-    """ Function to get GPT's response based on user input, using detailed prompts """
 
-    messages = [
-        {"role": "system", 
-         "content": "You are ShesPrEPared, a friendly assistant focused on HIV prevention and PrEP counseling for women.\n\n"
-        },
-        {"role": "user", "content": user_input}
-    ]
+load_dotenv()
+HF_API_KEY = os.getenv('HUGGINGFACE_TOKEN_ID')
 
 
-    try:
-        chat_response = client.chat.completions.create(
-            model=model_name,
-            messages=messages,
-            max_tokens=500,
-            temperature=0.5,
-            # stream=True
-        )
+login(HF_API_KEY)
 
-        response_message = chat_response.choices[0].message.content
+def get_llama_32_response(messages):
+    """Generate response from downloaded model."""
+    model_id = "meta-llama/Llama-3.2-3B-Instruct"
+    
+    # Load model and tokenizer
+    model = AutoModelForCausalLM.from_pretrained(
+        model_id,
+        torch_dtype=torch.bfloat16,
+        device_map="auto",
+    )
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
 
-        # Post-generation checks
-        return response_message
-    except Exception as e:
-        return f"Llama experienced an internal error: {str(e)}"
+    # Create pipeline
+    pipe = pipeline(
+        "text-generation",
+        model=model,
+        tokenizer=tokenizer,
+        torch_dtype=torch.bfloat16,
+        device_map="auto",
+    )
 
+    # Generate text
+    outputs = pipe(
+        messages,
+        max_new_tokens=256,
+        do_sample=True,
+        temperature=0.75,
+    )
+    
+    return outputs[0]["generated_text"]
     
 if __name__ == '__main__':
     print("Enter your input: \n")
-    user_input = input()
-    print(get_llama_response(user_input))
-    print('\n\n')
+    messages = "What are some strategies for managing anxiety?"
+    response = get_llama_32_response(messages)
+    print(response)
