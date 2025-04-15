@@ -24,16 +24,20 @@ client = OpenAI(
 )
 
 def get_llama_overall_rating():
-    chat_response = client.chat.completions.create(
-            model=model_name,
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": "Introduce yourself concisely"},
-                ]
-            )
+    try:
+        chat_response = client.chat.completions.create(
+                model=model_name,
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant."},
+                    {"role": "user", "content": "Introduce yourself concisely"},
+                    ]
+                )
+        text = chat_response.choices[0].message.content
+        print(text)
+    except:
+        print("Error connecting llama")
 
-    text = chat_response.choices[0].message.content
-    print(text)
+    
 
 if __name__ == '__main__':
     get_llama_overall_rating()
