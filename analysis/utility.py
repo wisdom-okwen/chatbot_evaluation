@@ -167,7 +167,7 @@ def get_low_criteria_rating_ids(percentile=0.04):
     return result
 
 
-def get_low_overall_rating_conversation_ids():
+def get_low_overall_rating_ids():
     df = pd.read_csv(OVERALL_RATINGS)
     """Return list of conversation IDs where any rating is below the 5th percentile."""
     user_thresh = df['User_Rating'].quantile(0.05)
@@ -181,3 +181,31 @@ def get_low_overall_rating_conversation_ids():
     ]['Convsation_Id'].tolist()
     return res
 
+import pandas as pd
+
+def get_low_per_turn_rating_ids(percentile=0.05):
+    """
+    Returns a dictionary of {Conversation_ID: [Turn_x, Turn_y, ...]} 
+    where one or more turns are below the global percentile threshold.
+    """
+    df = pd.read_csv(PER_TURN_RATINGS)
+
+    # Get only the turn columns
+    turn_cols = [col for col in df.columns if col.startswith("Turn_")]
+
+    # Compute the global threshold across all turn values
+    all_turn_values = df[turn_cols].values.flatten()
+    threshold = pd.Series(all_turn_values).quantile(percentile)
+
+    # Result dictionary
+    result = {}
+
+    for _, row in df.iterrows():
+        low_turns = [col for col in turn_cols if row[col] < threshold]
+        if low_turns:
+            result[int(row['Conversation_ID'])] = low_turns
+
+    return result
+
+
+print(get_low_per_turn_rating_ids())
