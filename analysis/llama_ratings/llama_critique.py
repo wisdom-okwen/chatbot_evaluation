@@ -75,7 +75,7 @@ def generate_overall_ratings():
         if write_headers:
             writer.writerow(overall_headers)
 
-        for i in range(8):
+        for i in range(531):
             convo_file_name = f"{CONVO_PREFIX}{i}.csv"
             convo_file_path = os.path.join(CONVO_DIR, convo_file_name)
 
@@ -94,7 +94,6 @@ def generate_overall_ratings():
             formatted_convo = "\n".join([f"User: {q}\nChatbot: {a}" for q, a in conversation])
 
             user_rating = get_llama_overall_rating(USER_ASSESSMENT_PROMPT, formatted_convo)
-            print("User rating: ", user_rating)
             observer_rating = get_llama_overall_rating(THIRD_PARTY_ASSESSMENT_PROMPT, formatted_convo)
             self_rating = get_llama_overall_rating(SELF_ASSESSMENT_PROMPT, formatted_convo)
 
@@ -121,7 +120,7 @@ def init_csv(file_path):
             writer.writerow(criteria_headers)
 
 def get_criteria_ratings():
-    for convo_id in range(3):
+    for convo_id in range(531):
         convo_file_name = f"{CONVO_PREFIX}{convo_id}.csv"
         convo_file_path = os.path.join(CONVO_DIR, convo_file_name)
 
@@ -158,7 +157,7 @@ turns = ["Conversation_ID"] + [f"Turn_{i}" for i in range(1, 26)]
 def get_per_turn_ratings():
     init_csv(PER_TURN_RATINGS_FILE)
 
-    for i in range(355, 531):
+    for i in range(531):
         convo_file_name = f"{CONVO_PREFIX}{i}.csv"
         convo_file_path = os.path.join(CONVO_DIR, convo_file_name)
 
