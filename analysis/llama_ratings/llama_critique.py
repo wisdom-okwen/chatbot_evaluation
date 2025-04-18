@@ -1,17 +1,41 @@
+import os
+import csv
 from sys import exit
 from openai import OpenAI
+from critiques import (
+    SELF_ASSESSMENT_PROMPT,
+    USER_ASSESSMENT_PROMPT,
+    THIRD_PARTY_ASSESSMENT_PROMPT,
+    SELF_PER_TURN_PROMPT,
+    self_criteria_prompt,
+    user_criteria_prompt,
+)
 
 
+# Files and directories setup
+OVER_ALL_RATINGS_FILE = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/llama_ratings/data/overall_ratings.csv"
+PER_TURN_RATINGS_FILE = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/llama_ratings/data/per_turn_ratings.csv"
+USER_CRITERIA_RATINGS_FILE = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/llama_ratings/data/criteria_ratings/user.csv"
+OBSERVER_CRITERIA_RATINGS_FILE = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/llama_ratings/data/criteria_ratings/observer.csv"
+SELF_CRITERIA_RATINGS_FILE = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/llama_ratings/data/criteria_ratings/self.csv"
+
+CONVO_DIR = "/playpen-ssd/wokwen/projects/chatbot_eval/conversations/conv_trajectories"
+CONVO_PREFIX = "trajectory"
+
+# models
 model_dict = {
     "llama": ("meta-llama/Meta-Llama-3.1-8B-Instruct", 7471),
     "mistral": ("mistralai/Mistral-7B-Instruct-v0.3", 7472),
     "phi": ("microsoft/Phi-3-small-8k-instruct", 7473)
 }
 
+
+overall_headers = ["Convsation_Id", "User_Rating", "Observer_Rating", "Self_Rating"]
+
 MODEL = "llama"
 model_name, model_port = model_dict[MODEL]
 
-if model_port == -1:
+if not model_port:
     print("** Model not deployed **")
     exit()
 
@@ -23,21 +47,58 @@ client = OpenAI(
     base_url=url,
 )
 
-def get_llama_overall_rating():
+def get_llama_overall_rating(prompt, conversation):
+    """Llama prompt setup."""
     try:
+        messages = [
+            {"role": "system", "content": prompt},
+            {"role": "user", "content": f"Here is the full conversation:\n\n{conversation}\n\nPlease give your rating."}
+        ]
         chat_response = client.chat.completions.create(
                 model=model_name,
-                messages=[
-                    {"role": "system", "content": "You are a helpful assistant."},
-                    {"role": "user", "content": "Introduce yourself concisely"},
-                    ]
-                )
+                messages=messages
+            )
         text = chat_response.choices[0].message.content
-        print(text)
-    except:
-        print("Error connecting llama")
+        return text
+    except Exception as e:
+        print("❌ Error connecting llama:", str(e))
 
-    
+
+def generate_overall_ratings():
+    """Generate overall ratings using Llama model."""
+    write_headers = not os.path.exists(OVER_ALL_RATINGS_FILE) or os.stat(OVER_ALL_RATINGS_FILE).st_size == 0
+    with open(OVER_ALL_RATINGS_FILE, mode="a", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file)
+        if write_headers:
+            writer.writerow(overall_headers)
+
+        for i in range(8):
+            convo_file_name = f"{CONVO_PREFIX}{i}.csv"
+            convo_file_path = os.path.join(CONVO_DIR, convo_file_name)
+
+            if not os.path.exists(convo_file_path):
+                print(f"Missing: {convo_file_path}")
+                continue
+
+            with open(convo_file_path, mode="r", encoding="utf-8") as csv_file:
+                reader = csv.DictReader(csv_file)
+                conversation = []
+                for row in reader:
+                    user_msg = (row.get("User_Message") or "").strip()
+                    bot_resp = (row.get("Response") or "").strip()
+                    conversation.append((user_msg, bot_resp))
+
+            formatted_convo = "\n".join([f"User: {q}\nChatbot: {a}" for q, a in conversation])
+
+            user_rating = get_llama_overall_rating(USER_ASSESSMENT_PROMPT, formatted_convo)
+            print("User rating: ", user_rating)
+            observer_rating = get_llama_overall_rating(THIRD_PARTY_ASSESSMENT_PROMPT, formatted_convo)
+            self_rating = get_llama_overall_rating(SELF_ASSESSMENT_PROMPT, formatted_convo)
+
+            writer.writerow([i, user_rating, observer_rating, self_rating])
+            print(f"Rated convo {i}: User={user_rating}, Observer={observer_rating}, Self={self_rating}")
+
+
 
 if __name__ == '__main__':
-    get_llama_overall_rating()
+    generate_overall_ratings()
