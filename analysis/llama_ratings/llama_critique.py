@@ -187,4 +187,6 @@ def get_per_turn_ratings():
 
 
 if __name__ == '__main__':
+    generate_overall_ratings()
+    get_criteria_ratings()
     get_per_turn_ratings()
