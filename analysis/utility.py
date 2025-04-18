@@ -5,6 +5,10 @@ import seaborn as sns
 
 
 OVERALL_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/overall_ratings.csv"
+USER_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/criteria_ratings/user.csv"
+SELF_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/criteria_ratings/self.csv"
+OBSERVER_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/criteria_ratings/observer.csv"
+PER_TURN_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/per_turn_ratings.csv"
 
 def visualize_overall_ratings_summary(df):
     """Display basic statistics for overall ratings (excluding language)."""
@@ -51,19 +55,6 @@ def plot_user_vs_self_scatter(df):
     plt.ylabel("Self Rating")
     plt.show()
 
-def get_low_rating_conversation_ids():
-    df = pd.read_csv(OVERALL_RATINGS)
-    """Return list of conversation IDs where any rating is below the 5th percentile."""
-    user_thresh = df['User_Rating'].quantile(0.05)
-    self_thresh = df['Self_Rating'].quantile(0.05)
-    observer_thresh = df['Observer_Rating'].quantile(0.05)
-
-    res = df[
-        (df['User_Rating'] < user_thresh) |
-        (df['Self_Rating'] < self_thresh) |
-        (df['Observer_Rating'] < observer_thresh)
-    ]['Convsation_Id'].tolist()
-    return res
 
 def plot_low_ratings_by_language(df):
     """Bar plot of number of low ratings per language."""
@@ -109,6 +100,9 @@ def plot_low_rating_type_breakdown(df):
         (df['Observer_Rating'] < observer_thresh)
     ].copy()
 
+
+
+
     low_df['Low_Rating_Type'] = low_df.apply(get_low_rating_type, axis=1)
     breakdown = low_df.groupby(['Language', 'Low_Rating_Type']).size().unstack(fill_value=0)
 
@@ -136,4 +130,54 @@ def plot_user_criteria_distributions(df_CR_User):
         plt.xlabel('Rating')
         plt.ylabel('Frequency')
         plt.show()
+
+import pandas as pd
+
+def get_low_criteria_rating_ids(percentile=0.04):
+    """
+    Returns a dictionary of dictionaries: {persona: {criterion: [conversation_ids]}}.
+    """
+
+    df_user = pd.read_csv(USER_RATINGS)
+    df_observer = pd.read_csv(OBSERVER_RATINGS)
+    df_self = pd.read_csv(SELF_RATINGS)
+    persona_dfs = {
+        "User": df_user,
+        "Self": df_self,
+        "Observer": df_observer
+    }
+
+    criteria = [
+        'Clarity_and_Simplicity',
+        'Relevance_and_Accuracy',
+        'Tone_and_Supportiveness',
+        'Adaptability',
+        'Consistency_and_Flow'
+    ]
+
+    result = {}
+
+    for persona, df in persona_dfs.items():
+        result[persona] = {}
+        for crit in criteria:
+            threshold = df[crit].quantile(percentile)
+            low_ids = df[df[crit] < threshold]['Conversation_Id'].tolist()
+            result[persona][crit] = low_ids
+
+    return result
+
+
+def get_low_overall_rating_conversation_ids():
+    df = pd.read_csv(OVERALL_RATINGS)
+    """Return list of conversation IDs where any rating is below the 5th percentile."""
+    user_thresh = df['User_Rating'].quantile(0.05)
+    self_thresh = df['Self_Rating'].quantile(0.05)
+    observer_thresh = df['Observer_Rating'].quantile(0.05)
+
+    res = df[
+        (df['User_Rating'] < user_thresh) |
+        (df['Self_Rating'] < self_thresh) |
+        (df['Observer_Rating'] < observer_thresh)
+    ]['Convsation_Id'].tolist()
+    return res
 
