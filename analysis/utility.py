@@ -3,6 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
+OVERALL_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/overall_ratings.csv"
+
 def visualize_overall_ratings_summary(df):
     """Display basic statistics for overall ratings (excluding language)."""
     df_no_lang = df.drop(columns=["Language"])
@@ -48,17 +51,19 @@ def plot_user_vs_self_scatter(df):
     plt.ylabel("Self Rating")
     plt.show()
 
-def get_low_rating_conversation_ids(df):
+def get_low_rating_conversation_ids():
+    df = pd.read_csv(OVERALL_RATINGS)
     """Return list of conversation IDs where any rating is below the 5th percentile."""
     user_thresh = df['User_Rating'].quantile(0.05)
     self_thresh = df['Self_Rating'].quantile(0.05)
     observer_thresh = df['Observer_Rating'].quantile(0.05)
 
-    return df[
+    res = df[
         (df['User_Rating'] < user_thresh) |
         (df['Self_Rating'] < self_thresh) |
         (df['Observer_Rating'] < observer_thresh)
     ]['Convsation_Id'].tolist()
+    return res
 
 def plot_low_ratings_by_language(df):
     """Bar plot of number of low ratings per language."""
@@ -131,3 +136,4 @@ def plot_user_criteria_distributions(df_CR_User):
         plt.xlabel('Rating')
         plt.ylabel('Frequency')
         plt.show()
+
