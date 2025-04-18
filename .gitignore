@@ -5,3 +5,4 @@ prompt_history.txt
 utility/__pycache__
 analysis/__pycache__/
 pretrained_models
+*__init__.py
