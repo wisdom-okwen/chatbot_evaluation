@@ -6,7 +6,7 @@ from critiques import (
     SELF_ASSESSMENT_PROMPT,
     USER_ASSESSMENT_PROMPT,
     THIRD_PARTY_ASSESSMENT_PROMPT,
-    SELF_PER_TURN_PROMPT,
+    THIRD_PARTY_PER_TURN_PROMPT,
     self_criteria_prompt,
     user_criteria_prompt,
     third_party_criteria_prompt
@@ -30,11 +30,6 @@ model_dict = {
     "phi": ("microsoft/Phi-3-small-8k-instruct", 7473)
 }
 
-
-overall_headers = ["Convsation_Id", "User_Rating", "Observer_Rating", "Self_Rating"]
-criteria = ["Clarity and Simplicity", "Relevance and Accuracy", "Tone and Supportiveness", "Adaptability", "Consistency and Flow"]
-criteria_headers = ["Conversation_Id"] + [c.replace(" ", "_") for c in criteria]
-
 MODEL = "llama"
 model_name, model_port = model_dict[MODEL]
 
@@ -49,6 +44,11 @@ client = OpenAI(
     api_key=openai_api_key,
     base_url=url,
 )
+
+
+# ----------------------------------------------------- Overall Ratings ----------------------------------------------------------
+
+overall_headers = ["Convsation_Id", "User_Rating", "Observer_Rating", "Self_Rating"]
 
 def get_llama_overall_rating(prompt, conversation):
     """Llama prompt setup."""
@@ -102,6 +102,12 @@ def generate_overall_ratings():
             print(f"Rated convo {i}: User={user_rating}, Observer={observer_rating}, Self={self_rating}")
 
 
+
+# ----------------------------------------------------- Criteria Ratings ----------------------------------------------------------
+
+criteria = ["Clarity and Simplicity", "Relevance and Accuracy", "Tone and Supportiveness", "Adaptability", "Consistency and Flow"]
+criteria_headers = ["Conversation_Id"] + [c.replace(" ", "_") for c in criteria]
+
 persona_configs = [
     (USER_CRITERIA_RATINGS_FILE, user_criteria_prompt),
     (OBSERVER_CRITERIA_RATINGS_FILE, third_party_criteria_prompt),
@@ -146,5 +152,39 @@ def get_criteria_ratings():
             print(f"Logged {prompt_func.__name__.split('_')[0]} ratings for convo {convo_id}")
 
 
+# ----------------------------------------------------- Per Turn Ratings ----------------------------------------------------------
+turns = ["Conversation_ID"] + [f"Turn_{i}" for i in range(1, 26)]
+
+def get_per_turn_ratings():
+    init_csv(PER_TURN_RATINGS_FILE)
+
+    for i in range(355, 531):
+        convo_file_name = f"{CONVO_PREFIX}{i}.csv"
+        convo_file_path = os.path.join(CONVO_DIR, convo_file_name)
+
+        if not os.path.exists(convo_file_path):
+            print(f"Missing: {convo_file_path}")
+            continue
+
+        with open(convo_file_path, mode="r", encoding="utf-8") as csv_file:
+            reader = csv.DictReader(csv_file)
+            conversation = [
+                (row["User_Message"].strip(), row["Response"].strip())
+                for row in reader
+                if row["User_Message"] and row["Response"]
+            ]
+
+        ratings = [i]
+        for idx, (user_msg, bot_resp) in enumerate(conversation[:25]):
+            turn_text = f"User: {user_msg}\nChatbot: {bot_resp}"
+            rating = get_llama_overall_rating(THIRD_PARTY_PER_TURN_PROMPT, turn_text)
+            ratings.append(rating)
+
+        with open(PER_TURN_RATINGS_FILE, mode="a", newline="", encoding="utf-8") as file:
+            writer = csv.writer(file)
+            writer.writerow(ratings)
+        print(f"Rated all turns for conversation {i}")
+
+
 if __name__ == '__main__':
-    get_criteria_ratings()
+    get_per_turn_ratings()
