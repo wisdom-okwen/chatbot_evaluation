@@ -206,6 +206,3 @@ def get_low_per_turn_rating_ids(percentile=0.05):
             result[int(row['Conversation_ID'])] = low_turns
 
     return result
-
-
-print(get_low_per_turn_rating_ids())
