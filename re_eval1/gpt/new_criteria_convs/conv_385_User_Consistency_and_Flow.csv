@@ -1,0 +1,189 @@
+"User_Message","Response","Response_Time","Temperature"
+"""Je, kuna njia nyingine za kuweza kupata taarifa zaidi kuhusu PrEP na huduma zinazohusiana nchini Kenya?""","Ndio, kuna njia kadhaa za kupata taarifa zaidi kuhusu PrEP na huduma zinazohusiana nchini Kenya:
+
+1. Tovuti ya Mamlaka ya Taifa ya Kudhibiti Magonjwa (NASCOP): Hutoa taarifa za HIV na PrEP.
+2. Kituo cha Afya cha Mitaa: Tembelea ili kuzungumza na wauguzi au madaktari.
+3. Mashirika ya HIV: Kama The Kenya AIDS NGOs Consortium (KANCO) yanaweza kusaidia.
+4. Tovuti za afya za ndani: Kutoa taarifa na rasilimali za PrEP.
+
+Ni muhimu kuzungumza na mtaalamu wa afya kwa ushauri wa kibinafsi.","4.96","0.59"
+"""Je, ni faida gani nyingine za kutumia PrEP ambazo ni muhimu kujua?""","Kuna faida kadhaa muhimu za kutumia PrEP:
+
+1. Inapunguza uwezekano wa kupata HIV kwa 99% ikiwa inachukuliwa kila siku.
+2. Inatoa kinga wakati wa ngono na wakati wa kutumia madawa ya kulevya.
+3. Ni chaguo la faragha; mwenzako haahitaji kujua unatumia PrEP.
+4. Huwa na programu za msaada wa kifedha kwa wale wasio na uwezo wa kulipia.
+5. Inaweza kukusaidia kujisikia salama zaidi unaposhiriki ngono.
+
+Kumbuka kuzungumza na daktari wako ili kujua zaidi kuhusu faida na jinsi ya kutumia PrEP.","4.32","0.95"
+"""Ni vipi naweza kufuatilia afya yangu wakati wa kutumia PrEP ili kuhakikisha nipo salama?""","Ili kufuatilia afya yako wakati wa kutumia PrEP, unaweza kufanya yafuatayo:
+
+1. Tembelea daktari kila miezi mitatu kwa vipimo vya HIV.
+2. Fanya vipimo vya kazi za figo kuangalia usalama wa matumizi ya PrEP.
+3. Zungumza na daktari kuhusu dalili zozote unazopata.
+4. Ufuatilie mabadiliko yoyote katika afya yako au hisia zako.
+
+Ni muhimu kuwa na mawasiliano ya karibu na mtaalamu wa afya. Hii itakusaidia kuhakikisha uko salama wakati wa kutumia PrEP.","3.92","0.78"
+"Je, kuna tafiti au ripoti za hivi karibuni kuhusu ufanisi wa PrEP nchini Kenya ambazo zinaweza kunihamasisha zaidi juu ya matumizi yake?","Ndio, kuna tafiti kadhaa za hivi karibuni kuhusu ufanisi wa PrEP nchini Kenya. Hapa kuna mambo muhimu ya kuzingatia:
+
+1. Ufanisi wa PrEP umeonyeshwa kuwa mkubwa, ukipunguza uwezekano wa kupata HIV kwa zaidi ya 90% ikiwa inachukuliwa kila siku.
+2. Tafiti zinaonyesha kuwa PrEP inafanya kazi vizuri kwa wanawake na wanaume, hasa katika maeneo yenye viwango vya juu vya HIV.
+3. Ripoti zinaonyesha kuwa matumizi ya PrEP yanaongezeka, na watu wengi wanapata msaada wa kifedha kwa huduma.
+
+Ili kupata taarifa zaidi, unaweza kutembelea tovuti za mashirika kama NASCOP au afya ya umma nchini Kenya. Zungumza pia na mtaalamu wa afya ili kupata maelezo zaidi.","5.92","1.0"
+"""Je, kuna tafiti au ripoti mpya zinazopatikana kuhusu madhara ya muda mrefu ya PrEP ambazo zinaweza kunisaidia kuelewa zaidi kuhusu hatari zinazoweza kutokea?""","Sina taarifa za hivi karibuni kuhusu madhara ya muda mrefu ya PrEP. Hata hivyo, tafiti nyingi zinaonyesha kuwa PrEP ina madhara madogo na ya muda mfupi kwa watu wengi. Madhara haya yanaweza kujumuisha kichefuchefu, kichwa cha maumivu, na uchovu. 
+
+Ili kupata taarifa zaidi, unaweza kuzungumza na daktari wako au kutembelea tovuti za mashirika kama NASCOP. Hii itakusaidia kupata maelezo ya kina na sahihi.","3.9","0.7"
+"""Je, ni vipi naweza kufuatilia afya yangu wakati wa matumizi ya PrEP ili kuhakikisha nipo salama?""","Ili kufuatilia afya yako wakati wa kutumia PrEP, unaweza kufanya yafuatayo:
+
+1. Tembelea daktari kila miezi mitatu kwa vipimo vya HIV.
+2. Fanya vipimo vya kazi za figo kuangalia usalama wa matumizi ya PrEP.
+3. Zungumza na daktari kuhusu dalili zozote unazopata.
+4. Ufuatilie mabadiliko yoyote katika afya yako au hisia zako.
+
+Ni muhimu kuwa na mawasiliano ya karibu na mtaalamu wa afya. Hii itakusaidia kuhakikisha uko salama wakati wa kutumia PrEP.","3.91","0.7"
+"""Je, kuna tafiti au ripoti mpya zinazopatikana kuhusu madhara ya muda mrefu ya PrEP ambazo zinaweza kunisaidia kuelewa zaidi kuhusu hatari zinazoweza kutokea?""","Sina taarifa za hivi karibuni kuhusu madhara ya muda mrefu ya PrEP. Tafiti nyingi zinaonyesha kuwa PrEP ina madhara madogo na ya muda mfupi kwa watu wengi. Madhara haya yanaweza kujumuisha kichefuchefu, kichwa cha maumivu, na uchovu. 
+
+Ili kupata taarifa zaidi, unaweza kuzungumza na daktari wako au kutembelea tovuti za mashirika kama NASCOP. Hii itakusaidia kupata maelezo ya kina na sahihi.","3.45","0.91"
+"""Je, kuna tafiti au ripoti za hivi karibuni kuhusu ufanisi wa PrEP nchini Kenya ambazo zinaweza kunihamasisha zaidi juu ya matumizi yake?""","Ndio, kuna tafiti kadhaa kuhusu ufanisi wa PrEP nchini Kenya. Hapa kuna mambo muhimu:
+
+1. PrEP inapunguza uwezekano wa kupata HIV kwa zaidi ya 90% ikiwa inachukuliwa kila siku.
+2. Tafiti zinaonyesha inafanya kazi vizuri kwa wanawake na wanaume katika maeneo yenye viwango vya juu vya HIV.
+3. Matumizi ya PrEP yanaongezeka na msaada wa kifedha unapatikana kwa huduma.
+
+Tembelea tovuti za NASCOP au afya ya umma nchini Kenya kwa maelezo zaidi.","5.32","0.73"
+"Je, ni vigezo gani vingine ambavyo nitatakiwa kukidhi ili kupata PrEP?","Ili kupata PrEP, unahitaji kukidhi vigezo vifuatavyo:
+
+1. Kuwa na umri wa angalau miaka 13.
+2. Kuwa na HIV hasi katika kipimo cha damu.
+3. Kuwa na kazi za figo zenye afya.
+4. Kuwa na daktari au mtaalamu wa afya ambaye anaweza kukupatia PrEP.
+5. Kufanya vipimo vya kawaida vya HIV kila miezi mitatu wakati wa matumizi ya PrEP.
+
+Zungumza na daktari wako ili kupata maelezo zaidi na kusaidia katika mchakato.","3.82","0.87"
+"""Je, kuna tafiti au ripoti zilizofanywa na mashirika ya afya ya umma nchini Kenya kuhusiana na matumizi ya PrEP na ufanisi wake?""","Ndio, kuna tafiti kadhaa nchini Kenya kuhusu matumizi na ufanisi wa PrEP. Hapa kuna mambo muhimu:
+
+1. PrEP inapunguza uwezekano wa kupata HIV kwa zaidi ya 90% ikiwa inachukuliwa kila siku.
+2. Tafiti zinaonyesha kuwa inafanya kazi vizuri kwa wanawake na wanaume katika maeneo yenye viwango vya juu vya HIV.
+3. Matumizi ya PrEP yanaongezeka na msaada wa kifedha unapatikana.
+
+Tembelea tovuti za mashirika ya afya ya umma nchini Kenya kwa maelezo zaidi.","5.04","0.86"
+"""Je, ni aina gani za msaada au ushauri wa kihisia zinazopatikana kwa watu wanaotumia PrEP nchini Kenya?""","Ni muhimu kupata msaada wa kihisia wakati wa kutumia PrEP. Hapa kuna aina za msaada zinazopatikana nchini Kenya:
+
+1. Kituo cha afya: Wengi wanatoa ushauri wa kihisia na msaada kwa watu wanaotumia PrEP.
+2. Mashirika yasiyo ya kiserikali: Wanaweza kusaidia kwa ushauri wa afya ya akili na msaada wa kijamii.
+3. Makaribu wa jamii: Kundi la msaada linaweza kutoa nafasi ya kuzungumza na wengine kuhusu changamoto zako.
+
+Tafuteni huduma hizi ili kupata msaada wa kihisia unaohitajika.","4.15","0.65"
+"""Je, ni aina gani za msaada au ushauri wa kihisia zinazopatikana kwa watu wanaotumia PrEP nchini Kenya?""","Ni muhimu kupata msaada wa kihisia wakati wa kutumia PrEP. Hapa kuna aina za msaada zinazopatikana nchini Kenya:
+
+1. Kituo cha afya: Wengi wanatoa ushauri wa kihisia na msaada kwa watu wanaotumia PrEP.
+2. Mashirika yasiyo ya kiserikali: Wanaweza kusaidia kwa ushauri wa afya ya akili na msaada wa kijamii.
+3. Makaribu wa jamii: Kundi la msaada linaweza kutoa nafasi ya kuzungumza na wengine kuhusu changamoto zako.
+
+Tafuteni huduma hizi ili kupata msaada wa kihisia unaohitajika.","3.89","0.83"
+"""Je, kuna njia nyingine za kuweza kupata taarifa zaidi kuhusu PrEP na huduma zinazohusiana nchini Kenya?""","Ndio, kuna njia nyingi za kupata taarifa zaidi kuhusu PrEP na huduma zinazohusiana nchini Kenya:
+
+1. Tembelea tovuti za mashirika ya afya ya umma kama Wizara ya Afya ya Kenya.
+2. Wasiliana na vituo vya afya vya karibu ili kupata maelezo na huduma.
+3. Ungana na mashirika yasiyo ya kiserikali yanayotoa elimu na msaada wa PrEP.
+4. Tafuta makundi ya msaada au jumuiya zinazohusiana na afya ya uzazi.
+
+Hizi ni njia nzuri za kupata taarifa na msaada.","3.9","0.63"
+"""Je, kuna tafiti au ripoti mpya zinazopatikana kuhusu madhara ya muda mrefu ya PrEP ambazo zinaweza kunisaidia kuelewa zaidi kuhusu hatari zinazoweza kutokea?""","Ndio, tafiti nyingi zinaendelea kufanywa kuhusu madhara ya PrEP. Hapa kuna mambo muhimu:
+
+1. PrEP inaonekana kuwa salama kwa muda mrefu kwa watu wengi.
+2. Madhara makubwa ya muda mrefu ni nadra.
+3. Watu wengine wanaweza kupata madhara madogo kama vile kichefuchefu au maumivu ya kichwa.
+
+Ni vyema kuzungumza na daktari wako kuhusu maswali yoyote na kupata taarifa zaidi. Wanaweza kutoa maelezo ya hivi karibuni na kusaidia kuelewa hatari zinazoweza kutokea.","5.11","0.81"
+"""Je, ni vipi naweza kufuatilia afya yangu wakati wa matumizi ya PrEP ili kuhakikisha nipo salama?""","Ili kufuatilia afya yako wakati wa matumizi ya PrEP, unaweza:
+
+1. Tembelea daktari wako kila baada ya miezi mitatu kwa vipimo vya HIV na kazi za figo.
+2. Fanya mazungumzo na daktari kuhusu madhara yeyote unayoweza kuwa nayo.
+3. Fuata mpango wa matumizi ya PrEP kama ulivyoelekezwa.
+4. Jiwekee malengo ya matibabu na ufuate maendeleo yako.
+
+Hii itakusaidia kuhakikisha unatumia PrEP kwa usalama na ufanisi.","4.42","0.81"
+"""Je, kuna tafiti au ripoti za hivi karibuni kuhusu ufanisi wa PrEP nchini Kenya ambazo zinaweza kunihamasisha zaidi juu ya matumizi yake?""","Ndio, kuna tafiti kadhaa za hivi karibuni kuhusu ufanisi wa PrEP nchini Kenya. Hapa kuna mambo muhimu:
+
+1. PrEP inaonyesha ufanisi mkubwa katika kupunguza maambukizi ya HIV.
+2. Watu wengi wanaotumia PrEP mara kwa mara wanafanya vizuri katika kudumisha afya zao.
+3. Tafiti zinaonyesha kuwa PrEP inasaidia kuimarisha usalama wa wanawake katika mazingira tofauti.
+
+Ni vyema kuzungumza na mtaalamu wa afya ili kupata maelezo zaidi na ripoti za hivi karibuni.","4.05","0.64"
+"""Je, kuna tafiti au ripoti mpya zinazopatikana kuhusu madhara ya muda mrefu ya PrEP ambazo zinaweza kunisaidia kuelewa zaidi kuhusu hatari zinazoweza kutokea?""","Ndio, tafiti nyingi zinaendelea kufanywa kuhusu madhara ya PrEP. Hapa kuna mambo muhimu:
+
+1. PrEP inaonekana kuwa salama kwa muda mrefu kwa watu wengi.
+2. Madhara makubwa ya muda mrefu ni nadra.
+3. Watu wengine wanaweza kupata madhara madogo kama vile kichefuchefu au maumivu ya kichwa.
+
+Ni vyema kuzungumza na daktari wako kuhusu maswali yoyote ili kupata taarifa zaidi.","3.91","0.52"
+"""Je, ni vipi naweza kupata ripoti za hivi karibuni kuhusu ufanisi wa PrEP nchini Kenya? Kuna tovuti maalum au vyanzo vya habari ambavyo vinaweza kusaidia?""","Ili kupata ripoti za hivi karibuni kuhusu ufanisi wa PrEP nchini Kenya, unaweza:
+
+1. Kutembelea tovuti za Shirika la Afya Duniani (WHO).
+2. Kuangalia tovuti za mamlaka ya afya ya Kenya.
+3. Kusoma ripoti kwenye tovuti za mashirika yasiyo ya kiserikali yanayoshughulika na HIV.
+4. Kutafuta makala za kisayansi kwenye Google Scholar.
+
+Hizi ni njia nzuri za kupata habari sahihi na za hivi karibuni kuhusu PrEP.","4.74","0.55"
+"""Je, ni vigezo gani vingine ambavyo nitatakiwa kukidhi ili kupata PrEP?""","Ili kupata PrEP, unahitaji:
+
+1. Kuwa na matokeo mazuri ya kipimo cha HIV.
+2. Kutokuwa na maambukizi ya HIV.
+3. Kuwa na afya nzuri ya figo.
+4. Kuwa na uwezo wa kufika hospitalini kwa vipimo kila baada ya miezi mitatu.
+5. Kuwa na mazungumzo na daktari kuhusu matumizi ya PrEP na madhara yake.
+
+Ni vyema kuzungumza na daktari wako ili kujua zaidi.","4.26","0.66"
+"""Je, kuna tafiti au ripoti zilizofanywa na mashirika ya afya ya umma nchini Kenya kuhusiana na matumizi ya PrEP na ufanisi wake?""","Ndio, kuna tafiti na ripoti kutoka mashirika ya afya ya umma nchini Kenya kuhusu PrEP. Hapa kuna njia za kupata taarifa hizo:
+
+1. Tembelea tovuti ya Wizara ya Afya ya Kenya.
+2. Angalia ripoti za Shirika la Afya Duniani (WHO).
+3. Tafuta makala za kisayansi kwenye Google Scholar.
+4. Pata taarifa kutoka mashirika yasiyo ya kiserikali yanayoshughulika na HIV.
+
+Hizi ni njia nzuri za kupata habari sahihi kuhusu PrEP nchini Kenya.","3.53","0.88"
+"""Je, ni vigezo gani vingine ambavyo nitatakiwa kukidhi ili kupata PrEP?""","Ili kupata PrEP, unahitaji:
+
+1. Kuwa na matokeo mazuri ya kipimo cha HIV.
+2. Kutokuwa na maambukizi ya HIV.
+3. Kuwa na afya nzuri ya figo.
+4. Kuwa na uwezo wa kufika hospitalini kwa vipimo kila baada ya miezi mitatu.
+5. Kuwa na mazungumzo na daktari kuhusu matumizi ya PrEP na madhara yake.
+
+Ni vyema kuzungumza na daktari wako ili kujua zaidi.","3.11","0.7"
+"Je, kuna tafiti au ripoti zilizofanywa na mashirika ya afya ya umma nchini Kenya kuhusiana na madhara ya muda mrefu ya PrEP na ufanisi wake?","Ndio, kuna tafiti na ripoti kutoka mashirika ya afya ya umma nchini Kenya kuhusu madhara na ufanisi wa PrEP. Hapa kuna njia za kupata taarifa hizo:
+
+1. Tembelea tovuti ya Wizara ya Afya ya Kenya.
+2. Angalia ripoti za Shirika la Afya Duniani (WHO).
+3. Tafuta makala za kisayansi kwenye Google Scholar.
+4. Pata taarifa kutoka mashirika yasiyo ya kiserikali yanayoshughulika na HIV.
+
+Hizi ni njia nzuri za kupata habari sahihi kuhusu PrEP nchini Kenya.","4.02","0.84"
+"""Je, ni vipi naweza kupata ripoti za hivi karibuni kuhusu madhara ya muda mrefu ya PrEP nchini Kenya? Kuna vyanzo maalum ambavyo vinaweza kusaidia?""","Ili kupata ripoti za hivi karibuni kuhusu madhara ya muda mrefu ya PrEP nchini Kenya, unaweza:
+
+1. Tembelea tovuti ya Wizara ya Afya ya Kenya.
+2. Angalia ripoti za Shirika la Afya Duniani (WHO).
+3. Tafuta makala za kisayansi kwenye Google Scholar.
+4. Pata taarifa kutoka mashirika yasiyo ya kiserikali yanayoshughulika na HIV.
+
+Hizi ni njia nzuri za kupata habari sahihi kuhusu madhara ya PrEP nchini Kenya.","4.77","0.67"
+"Je, kuna njia nyingine za kuweza kupata taarifa zaidi kuhusu PrEP na huduma zinazohusiana nchini Kenya?","Ndio, kuna njia nyingine za kupata taarifa zaidi kuhusu PrEP nchini Kenya:
+
+1. Tembelea tovuti ya Wizara ya Afya ya Kenya.
+2. Angalia ripoti za Shirika la Afya Duniani (WHO).
+3. Tafuta makala za kisayansi kwenye Google Scholar.
+4. Pata taarifa kutoka mashirika yasiyo ya kiserikali yanayoshughulika na HIV.
+5. Tembelea vituo vya afya au kliniki zinazotoa huduma za PrEP na ushauri.
+
+Hizi ni njia bora za kupata habari sahihi kuhusu PrEP nchini Kenya.","3.53","0.74"
+"""Je, kuna hatua ambazo naweza kuchukua ili kuhamasisha wengine kuhusu umuhimu wa kutumia PrEP, hasa katika jamii yangu?""","Ili kuhamasisha wengine kuhusu umuhimu wa kutumia PrEP katika jamii yako, unaweza:
+
+1. Kuandaa mikutano ya elimu kuhusu PrEP.
+2. Kushiriki taarifa sahihi kwenye mitandao ya kijamii.
+3. Kutengeneza vipeperushi au mabango yenye taarifa muhimu.
+4. Kualika wataalamu wa afya kuzungumza katika matukio ya jamii.
+5. Kuanzisha vikundi vya kujadili masuala ya afya ya uzazi.
+
+Hizi ni njia nzuri za kuhamasisha jamii yako kuhusu PrEP.","4.86","0.9"

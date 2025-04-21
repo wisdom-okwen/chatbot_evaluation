@@ -1,0 +1,159 @@
+"User_Message","Response","Response_Time","Temperature"
+"PrEP ni nini?","PrEP ni dawa inayotumiwa kusaidia kuzuia maambukizi ya HIV. Inachukuliwa na watu ambao hawana HIV lakini wanaweza kuwa na uwezekano wa kuambukizwa. Kuna aina mbili za PrEP:
+
+1. **Vidonge vya kila siku**: Hii ni dawa unayoichukua kila siku kama Truvada au Descovy. Inasaidia kupunguza uwezekano wa kupata HIV kwa karibu 99% kama inachukuliwa kila siku.
+2. **Sindano ya kila miezi miwili**: Hii ni sindano unayopatiwa kila baada ya miezi miwili kama Apretude. Hii pia inatoa ulinzi mzuri dhidi ya HIV.
+
+Ni muhimu kuzungumza na daktari kabla ya kuanza kutumia PrEP.","5.03","0.71"
+"Je, ni salama?","Ndio, PrEP ni salama kwa wanawake. Inaweza kutumika wakati wa ujauzito. Watu wengi hawapati madhara makubwa. Lakini, ni muhimu kuzungumza na daktari wako kabla ya kuanza kutumia PrEP.","2.82","0.68"
+"Itanifanya niwe mgonjwa? (Will it make me sick?)","PrEP in general is safe for most people. Watu wengi hawapati madhara makubwa. Wengine wanaweza kupata madhara madogo kama kichwa kuuma au kutapika, lakini haya huwa yanapita baada ya wiki chache. Ni muhimu kuzungumza na daktari wako kuhusu wasiwasi wowote.","3.1","0.64"
+"Watu wanasema PrEP inasababisha matatizo—ni kweli? (People say PrEP causes problems—is that true?)","PrEP ni salama kwa watu wengi. Watu wengine wanaweza kupata madhara madogo kama kichwa kuuma, kutapika, au maumivu ya tumbo. Madhara haya huwa yanapita baada ya wiki chache. Ni muhimu kuzungumza na daktari wako kuhusu wasiwasi wowote.","3.06","0.75"
+"Mwana, nafurahi kuzungumza na wewe kuhusu PrEP. 
+
+**Je, ninapaswa kumwambia mjukuu wangu juu ya PrEP?** (Should I tell my grandchild about PrEP?)","Ni jambo zuri kuzungumza na familia kuhusu afya. Ikiwa unadhani mjukuu wako anaweza kufaidika na kujua zaidi kuhusu PrEP na kujikinga na HIV, basi unaweza kumwambia. Kutoa elimu inaweza kusaidia katika kufanya maamuzi bora kuhusu afya.","2.9","0.91"
+"Ndio, ni vizuri kumwambia mjukuu wako kuhusu PrEP. Hapa kuna sababu kadhaa:
+
+### Kwa Nini Ni Vyema Kumwambia Mjukuu Wako:
+- **Uelewa wa Afya:** Mjukuu wako ataelewa jinsi ya kujikinga na HIV na madhara mengine ya afya.
+- **Kujikinga:** Maelezo ya PrEP yanaweza kusaidia kumkinga mjukuu wako kutokana na maambukizo","Ni jambo zuri kumwambia mjukuu wako kuhusu PrEP. Hapa kuna sababu:
+
+1. Uelewa wa Afya: Mjukuu wako ataelewa jinsi ya kujikinga na HIV.
+2. Kujikinga: Maelezo ya PrEP yanaweza kusaidia kumkinga mjukuu wako kutokana na maambukizo.
+3. Kujenga Ujasiri: Kujua njia za kujilinda kunaweza kumsaidia kujiamini.
+
+Kutoa elimu ni muhimu kwa afya yake.","3.73","0.89"
+"PrEP ni muhimu, lakini najiuliza, **itanifanya niwe mgonjwa?** (Will it make me sick?)","PrEP ni salama kwa watu wengi. Watu wengi hawapati madhara makubwa. Wengine wanaweza kupata madhara madogo kama kichwa kuuma au kutapika. Madhara haya huwa yanapita baada ya wiki chache. Ni muhimu kuzungumza na daktari wako kuhusu wasiwasi wowote.","3.44","0.67"
+"PrEP ni dawa nzuri, lakini najiuliza, **watu wanasema PrEP inasababisha matatizo—ni kweli?** (People say PrEP causes problems—is that true?)","PrEP ni salama kwa watu wengi. Watu wengine wanaweza kupata madhara madogo kama:
+
+1. Kichwa kuuma
+2. Kutapika
+3. Maumivu ya tumbo
+
+Madhara haya huwa yanapita baada ya wiki chache. Ni muhimu kuzungumza na daktari wako kuhusu wasiwasi wowote.","3.55","0.67"
+"PrEP ni muhimu sana, lakini najiuliza, **je, ninapaswa kumwambia mjukuu wangu kuhusu PrEP?** (Should I tell my grandchild about PrEP?)","Ni vizuri kumwambia mjukuu wako kuhusu PrEP. Hapa kuna sababu:
+
+1. Uelewa wa Afya: Mjukuu wako ataelewa jinsi ya kujikinga na HIV.
+2. Kujikinga: Maelezo ya PrEP yanaweza kumsaidia kumkinga mjukuu wako kutokana na maambukizo.
+3. Kujenga Ujasiri: Kujua njia za kujilinda kunaweza kumsaidia kujiamini.
+
+Kutoa elimu ni muhimu kwa afya yake.","3.49","0.5"
+"PrEP ni muhimu, lakini najiuliza, **itanifanya niwe mgonjwa?** (Will it make me sick?)","PrEP ni salama kwa watu wengi. Watu wengi hawapati madhara makubwa. Wengine wanaweza kupata madhara madogo kama:
+
+1. Kichwa kuuma
+2. Kutapika
+3. Maumivu ya tumbo
+
+Madhara haya huwa yanapita baada ya wiki chache. Ni muhimu kuzungumza na daktari wako kuhusu wasiwasi wowote.","3.28","0.78"
+"Samahani, najiuliza, **je, kuna njia nzuri za kumsaidia mjukuu wangu anapokuwa kwenye PrEP?** (Are there better ways to support my grandchild while they are taking PrEP?)","Ni vizuri kusaidia mjukuu wako anapokuwa kwenye PrEP. Hapa kuna njia za kumsaidia:
+
+1. Msaada wa Kihisia: Mpe nafasi ya kuzungumza kuhusu hisia zake.
+2. Elimu: Mweleze kuhusu PrEP na jinsi inavyomsaidia.
+3. Kuhakikisha Ufuatiliaji: Msimamie apige simu kwa daktari wake kwa vipimo na ushauri.
+4. Njia za Kujikinga: Mweleze kuhusu njia nyingine za kujikinga na HIV.
+5. Kuwa Mfano: Onyesha mfano mzuri wa afya na tabia za kujikinga.
+
+Kusaidia ni muhimu kwa afya yake.","4.44","0.73"
+"PrEP ni muhimu, na ni vizuri kusaidia mjukuu wako anapokuwa kwenye dawa hii. Je, kuna maswali mengine unayotaka kujifunza kuhusu PrEP au jinsi ya kumsaidia mjukuu wako?","Ni vizuri kuuliza maswali zaidi. Unaweza kutaka kujifunza kuhusu:
+
+1. Madhara ya PrEP.
+2. Jinsi ya kuchukua PrEP kwa usahihi.
+3. Njia nyingine za kujikinga na HIV.
+4. Mchango wa daktari katika matumizi ya PrEP.
+
+Niko hapa kusaidia!","3.06","0.77"
+"PrEP ni muhimu sana, na ni vizuri kusaidia mjukuu wako anapokuwa kwenye dawa hii. Je, kuna njia nyingine ambazo unaweza kufikiria kumsaidia ili aweze kutumia PrEP kwa usahihi? (Are there other ways you might consider helping them take PrEP correctly?)","Hapa kuna njia za kumsaidia mjukuu wako kutumia PrEP kwa usahihi:
+
+1. Msaada wa Kihisia: Mpe nafasi ya kuzungumza kuhusu hisia zake kuhusu PrEP.
+2. Elimu: Mweleze jinsi PrEP inavyofanya kazi na umuhimu wa kuichukua kila siku.
+3. Kuhakikisha Ufuatiliaji: Msimamie apige simu kwa daktari wake kwa vipimo na ushauri.
+4. Kuanzisha Kumbukumbu: Msaidie kuanzisha kumbukumbu za kila siku ili akumbuke kuchukua dawa.
+5. Kutoa Msaada wa Vitendo: Msaidie kwa kutafuta mahali pa kupata dawa na mipango ya matibabu.
+
+Kusaidia ni muhimu kwa afya yake.","6.52","0.68"
+"PrEP ni nini? (What is PrEP?)","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au sindano inayofanyika kila baada ya miezi miwili. 
+
+Vidonge maarufu ni Truvada na Descovy. Sindano inaitwa Apretude. 
+
+PrEP ni muhimu kwa watu ambao wana uwezekano wa kupata HIV. Inaweza kusaidia kupunguza uwezekano wa kuambukizwa ukitumiwa ipasavyo.","4.68","0.65"
+"**PrEP ni nini?** (What is PrEP?) 
+
+PrEP ni dawa inayotumika kusaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au sindano inayofanyika kila baada ya miezi miwili. Vidonge maarufu ni Truvada na Descovy, na sindano inaitwa Apretude. 
+
+Ni muhimu kwa watu ambao wana uwezekano wa kupata HIV. Ikiwa inatumika vizuri,","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kwa njia mbili:
+
+1. Vidonge vya kila siku.
+2. Sindano inayofanyika kila baada ya miezi miwili.
+
+Vidonge maarufu ni Truvada na Descovy. Sindano inaitwa Apretude. PrEP inasaidia watu ambao wana uwezekano wa kupata HIV. Ikiwa inatumika ipasavyo, inaweza kusaidia kupunguza uwezekano wa kuambukizwa.","3.9","0.55"
+"PrEP ni nini?","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kwa njia mbili:
+
+1. Vidonge vya kila siku.
+2. Sindano inayofanyika kila baada ya miezi miwili.
+
+Vidonge maarufu ni Truvada na Descovy. Sindano inaitwa Apretude. PrEP inasaidia watu ambao wana uwezekano wa kupata HIV. Ikiwa inatumika ipasavyo, inaweza kusaidia kupunguza uwezekano wa kuambukizwa.","3.49","0.61"
+"Samahani, inaonekana tunaendelea kujadili PrEP. Nilikuwa na maswali mengine. Je, kuna watu walio kwenye hatari zaidi ya wengine wa kuhitaji PrEP? (Are there certain people at higher risk of needing PrEP?)","Ndio, kuna watu ambao wana uwezekano wa kuhitaji PrEP zaidi. Hapa kuna baadhi yao:
+
+1. Watu wanaofanya ngono bila kondomu na washirika ambao hawajapima HIV.
+2. Watu ambao wana washirika wengi wa ngono.
+3. Watu ambao wanashiriki vifaa vya sindano au dawa.
+4. Watu ambao washirika wao wana HIV na hawachukui dawa vizuri.
+5. Watu ambao wamekuwa na magonjwa ya kuambukizwa kingono hivi karibuni.
+
+Kila mtu anapaswa kuthamini afya yao. Kuwa na mazungumzo na daktari wako kuhusu PrEP inaweza kusaidia.","3.98","0.89"
+"PrEP ni nini?","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kwa njia mbili:
+
+1. Vidonge vya kila siku.
+2. Sindano inayofanyika kila baada ya miezi miwili.
+
+Vidonge maarufu ni Truvada na Descovy. Sindano inaitwa Apretude. PrEP inasaidia watu ambao wana uwezekano wa kupata HIV. Ikiwa inatumika ipasavyo, inaweza kusaidia kupunguza uwezekano wa kuambukizwa.","3.78","0.67"
+"PrEP ni nini?","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kwa njia mbili:
+
+1. Vidonge vya kila siku.
+2. Sindano inayofanyika kila baada ya miezi miwili.
+
+Vidonge maarufu ni Truvada na Descovy. Sindano inaitwa Apretude. PrEP inasaidia watu ambao wana uwezekano wa kupata HIV. Ikiwa inatumika ipasavyo, inaweza kusaidia kupunguza uwezekano wa kuambukizwa.","3.12","0.52"
+"PrEP ni nini?","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kwa njia mbili:
+
+1. Vidonge vya kila siku.
+2. Sindano inayofanyika kila baada ya miezi miwili.
+
+Vidonge maarufu ni Truvada na Descovy. Sindano inaitwa Apretude. PrEP inasaidia watu ambao wana uwezekano wa kupata HIV. Ikiwa inatumika ipasavyo, inaweza kusaidia kupunguza uwezekano wa kuambukizwa.","3.49","0.83"
+"PrEP ni nini?","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kwa njia mbili:
+
+1. Vidonge vya kila siku.
+2. Sindano inayofanyika kila baada ya miezi miwili.
+
+Vidonge maarufu ni Truvada na Descovy. Sindano inaitwa Apretude. PrEP inasaidia watu ambao wana uwezekano wa kupata HIV. Ikiwa inatumika ipasavyo, inaweza kusaidia kupunguza uwezekano wa kuambukizwa.","6.09","0.58"
+"Samahani, naona tumeshaongea juu ya PrEP mara kadhaa. Je, kuna jambo jingine unalotaka kujua kuhusu PrEP au jinsi ya kumsaidia mjukuu wako? Niko hapa kusaidia!","Ningependa kujua zaidi kuhusu faida na hasara za kutumia PrEP. Ni vizuri kujua jinsi inavyofanya kazi. Je, unaweza kuniambia zaidi?","2.42","0.97"
+"PrEP ina faida nyingi, lakini pia kuna mambo ya kuzingatia. Hapa kuna maelezo rahisi kuhusu faida na hasara za kutumia PrEP:
+
+### Faida za PrEP:
+1. **Kuzuia HIV:** PrEP inasaidia kuzuia maambukizi ya HIV kwa watu ambao wako katika hatari kubwa.
+2. **Ufanisi:** Ikiwa inatumika vizuri, inaweza kupunguza hatari ya kuambukizwa HIV kwa karibu","Ni kweli, PrEP ina faida nyingi. Hapa kuna faida na hasara za kutumia PrEP:
+
+### Faida za PrEP:
+1. Kuzuia HIV: PrEP inasaidia kuzuia maambukizi ya HIV.
+2. Ufanisi: Ikiwa inatumika kila siku, inashughulikia uwezekano wa kuambukizwa HIV kwa karibu 99%.
+
+### Hasara za PrEP:
+1. **Madhara madogo:** Watu wengine wanaweza kupata maumivu ya tumbo, kichwa, au kichefuchefu.
+2. **Mahitaji ya kila siku:** Inahitaji kuchukuliwa kila siku ili iweze kufanya kazi vizuri.
+3. **Uthibitisho wa dawa:** Inahitaji agizo la daktari na kupimwa mara kwa mara.
+
+Ni muhimu kuzungumza na mtoa huduma wa afya ili kujua zaidi.","4.94","0.78"
+"PrEP ni nini? (What is PrEP?)","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kwa njia mbili:
+
+1. Vidonge vya kila siku, kama Truvada na Descovy.
+2. Sindano inayofanyika kila baada ya miezi miwili, inaitwa Apretude.
+
+PrEP inafaa kwa watu ambao wako katika hatari kubwa ya kupata HIV. Ikiwa inatumika ipasavyo, inaweza kusaidia kupunguza uwezekano wa kuambukizwa.","3.29","0.59"
+"**PrEP ni nini?** (What is PrEP?)  
+PrEP ni dawa inayotumiwa kusaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au sindano inayofanyika kila baada ya miezi miwili. Dawa maarufu ni Truvada na Descovy.
+
+**Je, ni salama?** (Is it safe?)  
+Ndiyo, PrEP ni salama kwa watu wengi ambao ni HIV-negative na wana hat","PrEP ni dawa inayotumiwa kusaidia kuzuia maambukizi ya HIV. Inapatikana kwa njia mbili:
+
+1. Vidonge vya kila siku, kama Truvada na Descovy.
+2. Sindano inayofanyika kila baada ya miezi miwili, inaitwa Apretude.
+
+PrEP ni salama kwa watu wengi walio na HIV-negative. Lakini ni vyema kuzungumza na daktari wako kuhusu hali yako na afya.","4.36","0.69"

@@ -1,0 +1,226 @@
+"User_Message","Response","Response_Time","Temperature"
+"PrEP ni nini?","PrEP ni dawa inayotumiwa kusaidia kuzuia maambukizi ya virusi vya UKIMWI. Inapatikana kama vidonge vya kila siku au sindano za kila miezi miwili. 
+
+Vidonge vya PrEP vinajulikana kama Truvada au Descovy. Sindano inayojulikana kama Apretude. 
+
+Kuchukua PrEP kunaweza kusaidia wale wasio na HIV kujilinda wakati wa kufanya ngono au kutumia dawa za kulevya. Ni muhimu kuzungumza na daktari wako ili kujua njia bora kwako.","5.21","0.94"
+"""Je, ni salama?"" (Is it safe?)","Ndiyo, PrEP ni salama. Inatumika na watu wengi bila matatizo makubwa. Watu wengine wanaweza kupata madhara madogo kama kichwa kuuma au kuhisi kichefuchefu, lakini haya yanapungua baada ya wiki chache. Ni muhimu kuzungumza na daktari wako kuhusu maswali yoyote.","4.85","0.92"
+"""Itanifanya niwe mgonjwa?"" (Will it make me sick?)","PrEP ni salama kwa watu wengi. Wengine wanaweza kupata madhara madogo kama kichwa kuuma au kuhisi kichefuchefu. Haya madhara mara nyingi yanapungua baada ya wiki chache. Ikiwa una maswali, ni vizuri kuzungumza na daktari wako.","3.69","0.92"
+"""Ni vizuri kujua kuwa PrEP inaweza kuwa na madhara madogo kama kichwa kuuma au kichefuchefu. Lakini, kuna watu wengi ambao hawawezi kupata matatizo yoyote. 
+
+Vipi, kuna habari zinazosema PrEP inasababisha matatizo—ni kweli?""","PrEP ni salama kwa watu wengi. Madhara yake mara nyingi ni madogo na yanaweza kujumuisha kichwa kuuma au kichefuchefu. Watu wengi hawapati matatizo makubwa. Ingawa kuna ripoti za matatizo, ni muhimu kuzungumza na daktari wako kuhusu maswali yoyote unayo. Daktari anaweza kukupa habari sahihi zaidi.","3.71","0.98"
+"""Je, ninapaswa kumwambia mjukuu wangu juu ya PrEP?"" (Should I tell my grandchild about PrEP?)","Ni wazo zuri kumwambia mjukuu wako kuhusu PrEP. Kujua kuhusu PrEP kunaweza kumsaidia kuelewa jinsi ya kujilinda dhidi ya maambukizi ya HIV. Unaweza kuzungumza na mjukuu wako kwa njia rahisi na ya kirafiki. Hii itasaidia kuleta uelewa bora na kujadili masuala ya afya.","2.96","0.5"
+"""Ni vizuri kujua kuwa PrEP inaweza kusaidia wakati wa kujilinda. Sasa, je, kuna njia nyingine za kumsaidia mjukuu wangu anapokuwa kwenye PrEP?""","Ni vizuri kumsaidia mjukuu wako anapokuwa kwenye PrEP. Hapa kuna baadhi ya njia za kumsaidia:
+
+1. Msaada wa kisaikolojia: Mzungumze naye kuhusu hisia zake kuhusu PrEP.
+2. Kukumbusha: Msaidie kukumbuka kuchukua dawa kila siku.
+3. Kuwa na mazungumzo: Zungumza naye kuhusu umuhimu wa kujilinda dhidi ya HIV.
+4. Kutoa taarifa: Mpe habari kuhusu njia nyingine za kujilinda kama kondomu.
+5. Kuwa na daktari: Hakikisha anatembelea daktari mara kwa mara kwa uchunguzi.
+
+Hizi ni njia nzuri za kumsaidia.","5.05","0.92"
+"PrEP ni dawa nzuri kwa ajili ya kujilinda na HIV. Lakini, kuna maswali mengine unayotaka kujua kuhusu PrEP? Je, kuna jambo lolote unataka niseme kuhusu jinsi ya kumsaidia mjukuu wako zaidi?","Ni nzuri kujua unajali kuhusu kumsaidia mjukuu wako. Hapa kuna mambo unaweza kufanya:
+
+1. Msaada wa kisaikolojia: Mzungumze naye kuhusu hisia zake kuhusu PrEP.
+2. Kukumbusha: Msaidie kukumbuka kuchukua dawa kila siku.
+3. Kuwa na mazungumzo: Zungumza naye kuhusu umuhimu wa kujilinda dhidi ya HIV.
+4. Kutoa taarifa: Mpe habari kuhusu njia nyingine za kujilinda kama kondomu.
+5. Kuwa na daktari: Hakikisha anatembelea daktari mara kwa mara kwa uchunguzi.
+
+Hizi ni njia nzuri za kumsaidia.","5.7","0.54"
+"PrEP ni nzuri kwa ajili ya kujilinda, lakini naweza kuuliza, ni vipi unaweza kusaidia mjukuu wako aelewe umuhimu wa kuchukua dawa hii kila siku? (How can you help your grandchild understand the importance of taking this medicine every day?)","Ni muhimu kumsaidia mjukuu wako kuelewa umuhimu wa kuchukua PrEP kila siku. Hapa kuna baadhi ya njia:
+
+1. Eleza faida: Mweleze jinsi PrEP inavyomsaidia kujilinda dhidi ya HIV.
+2. Weka ratiba: Msaidie kuweka ratiba ya kuchukua dawa kila siku.
+3. Kukumbusha: Tumieni alama au programu za kukumbusha kuchukua dawa.
+4. Zungumza: Fanya mazungumzo kuhusu hisia zake kuhusu kutumia dawa.
+5. Mpe msaada: Msaidie kujifunza kuhusu njia nyingine za kujilinda pia.
+
+Hizi ni njia nzuri za kumsaidia.","5.63","0.8"
+"""PrEP ni nini?"" (What is PrEP?)  
+""Je, ni salama?"" (Is it safe?)  
+""Itanifanya niwe mgonjwa?"" (Will it make me sick?)  
+""Watu wanasema PrEP inasababisha matatizo—ni kweli?"" (People say PrEP causes problems—is that true?)  
+""Je, ninapaswa kumwambia mjukuu wangu juu ya PrEP?"" (Should I tell my grandchild about PrEP?)","PrEP ni dawa inayotumiwa kusaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au risasi za kila miezi miwili. 
+
+PrEP ni salama kwa watu wengi. Watu wengi wanaweza kuitumia bila matatizo makubwa. 
+
+Baadhi ya watu wanaweza kupata madhara madogo kama vile kichefuchefu, maumivu ya kichwa, au uchovu. Madhara haya mara nyingi hupita baada ya wiki chache. 
+
+Kuhusu matatizo, ni kweli baadhi ya watu wanaweza kuwa na madhara, lakini mengi ni madogo na yanapita. 
+
+Ni wazo nzuri kumwambia mjukuu wako kuhusu PrEP. Hii inaweza kumsaidia kuelewa jinsi ya kujilinda dhidi ya HIV.","6.94","0.77"
+"PrEP ni dawa nzuri, lakini ni muhimu kuelewa kila kitu kuhusu hiyo. 
+
+### Kwa hivyo, unafikiria kuna maswali yoyote mengine unataka kuzungumza? Je, ni vipi unaweza kusaidia mjukuu wako aelewe vizuri jinsi ya kutumia PrEP?","Ni muhimu kumsaidia mjukuu wako kuelewa jinsi ya kutumia PrEP. Hapa kuna baadhi ya njia:
+
+1. Eleza faida: Mweleze jinsi PrEP inavyomsaidia kujilinda dhidi ya HIV.
+2. Weka ratiba: Msaidie kuweka ratiba ya kuchukua dawa kila siku.
+3. Kukumbusha: Tumieni alama au programu za kukumbusha kuchukua dawa.
+4. Zungumza: Fanya mazungumzo kuhusu hisia zake kuhusu kutumia dawa.
+5. Mpe msaada: Msaidie kujifunza kuhusu njia nyingine za kujilinda pia.
+
+Hizi ni njia nzuri za kumsaidia.","4.63","0.85"
+"PrEP ni dawa muhimu kwa kulinda afya, lakini ni vizuri kujua jinsi ya kumsaidia mjukuu wako kutumia dawa hii kwa usahihi. 
+
+### Mambo ya Kuzingatia:
+1. **Uelewa wa Dawa:** Mweleze mjukuu wako ni kwa nini PrEP ni muhimu na jinsi inavyofanya kazi katika kuzuia HIV.
+2. **Kukumbusha:** Msaidie kukumbuka kuchukua dawa kila siku. Unaweza","1. **Kuweka Ratiba:** Msaidie kuunda ratiba ya kuchukua dawa kila siku.
+2. **Programu za Kukumbusha:** Tumieni programu za kukumbusha kwenye simu.
+3. **Mazungumzo:** Zungumza naye mara kwa mara kuhusu jinsi anavyohisi kuhusu kutumia dawa.
+4. **Msaada wa Kisaikolojia:** Mpe msaada wa kisaikolojia na faraja akijisikia wasiwasi.
+5. **Kujifunza Zaidi:** Msaidie kujifunza kuhusu njia nyingine za kujilinda dhidi ya HIV.
+
+Hizi ni njia bora za kumsaidia mjukuu wako kutumia PrEP kwa usahihi.","4.73","0.74"
+"PrEP ni dawa muhimu kwa ajili ya kujilinda na HIV. Ni vizuri kujua jinsi ya kumsaidia mjukuu wako kutumia dawa hii kwa usahihi. 
+
+### Mambo ya Kuzingatia:
+1. **Uelewa wa Dawa:** Mweleze mjukuu wako ni kwa nini PrEP ni muhimu na jinsi inavyofanya kazi katika kuzuia HIV.
+2. **Kukumbusha:** Msaidie kukumbuka kuchukua dawa kila siku","Ni muhimu kumsaidia mjukuu wako kutumia PrEP kwa usahihi. Hapa kuna mambo ya kuzingatia:
+
+1. **Uelewa wa Dawa:** Mweleze umuhimu wa PrEP na jinsi inavyosaidia kuzuia HIV.
+2. **Kukumbusha:** Msaidie kukumbuka kuchukua dawa kila siku.
+3. **Ratiba:** Msaidie kuunda ratiba rahisi ya kuchukua dawa.
+4. **Mazungumzo:** Zungumza naye mara kwa mara kuhusu hisia zake kuhusu dawa.
+5. **Msaada:** Mpe msaada wa kisaikolojia kama anahitaji. 
+
+Hizi ni njia bora za kumsaidia.","4.24","0.64"
+"PrEP ni nini? (What is PrEP?)  
+Je, ni salama? (Is it safe?)  
+Itanifanya niwe mgonjwa? (Will it make me sick?)  
+Watu wanasema PrEP inasababisha matatizo—ni kweli? (People say PrEP causes problems—is that true?)  
+Je, ninapaswa kumwambia mjukuu wangu juu ya PrEP? (Should I tell my grandchild about PrEP?)  
+
+Ningep","PrEP ni dawa inayotumiwa kusaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au risasi za kila miezi miwili.
+
+PrEP ni salama kwa watu wengi. Watu wengi wanaweza kuitumia bila matatizo makubwa.
+
+Baadhi ya watu wanaweza kupata madhara madogo kama vile kichefuchefu, maumivu ya kichwa, au uchovu. Madhara haya mara nyingi hupita baada ya wiki chache.
+
+Ni kweli kwamba baadhi ya watu wanaweza kuwa na matatizo, lakini mengi ni madogo na yanapita.
+
+Ni wazo nzuri kumwambia mjukuu wako kuhusu PrEP. Hii inaweza kumsaidia kuelewa jinsi ya kujilinda dhidi ya HIV.","5.07","0.55"
+"PrEP ni nini? (What is PrEP?)  
+Je, ni salama? (Is it safe?)  
+Itanifanya niwe mgonjwa? (Will it make me sick?)  
+Watu wanasema PrEP inasababisha matatizo—ni kweli? (People say PrEP causes problems—is that true?)  
+Je, ninapaswa kumwambia mjukuu wangu juu ya PrEP? (Should I tell my grandchild about PrEP?)  
+
+Ningep","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au risasi za kila miezi miwili.
+
+PrEP ni salama kwa watu wengi. Watu wengi wanaweza kuitumia bila matatizo makubwa.
+
+Baadhi ya watu wanaweza kupata madhara madogo kama vile kichefuchefu, maumivu ya kichwa, au uchovu. Madhara haya mara nyingi hupita baada ya wiki chache.
+
+Ni kweli kwamba baadhi ya watu wanaweza kuwa na matatizo, lakini mengi ni madogo na yanapita.
+
+Ni wazo nzuri kumwambia mjukuu wako kuhusu PrEP. Hii inaweza kumsaidia kuelewa jinsi ya kujilinda dhidi ya HIV.","4.74","0.61"
+"PrEP ni nini? (What is PrEP?)  
+Je, ni salama? (Is it safe?)  
+Itanifanya niwe mgonjwa? (Will it make me sick?)  
+Watu wanasema PrEP inasababisha matatizo—ni kweli? (People say PrEP causes problems—is that true?)  
+Je, ninapaswa kumwambia mjukuu wangu juu ya PrEP? (Should I tell my grandchild about PrEP?)  
+
+Ningep","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au risasi za kila miezi miwili.
+
+PrEP ni salama kwa watu wengi. Watu wengi wanaweza kuitumia bila matatizo makubwa.
+
+Baadhi ya watu wanaweza kupata madhara madogo kama vile kichefuchefu, maumivu ya kichwa, au uchovu. Madhara haya mara nyingi hupita baada ya wiki chache.
+
+Ni kweli kwamba baadhi ya watu wanaweza kuwa na matatizo, lakini mengi ni madogo na yanapita.
+
+Ni wazo nzuri kumwambia mjukuu wako kuhusu PrEP. Hii inaweza kumsaidia kuelewa jinsi ya kujilinda dhidi ya HIV.","6.6","0.56"
+"Samahani, naona umekuja na maswali mengine. Nataka kujua, je, unafikiri kuna njia bora zaidi za kumsaidia mjukuu wako aelewe jinsi PrEP inavyofanya kazi? (Are there better ways to help your grandchild understand how PrEP works?)","Ni muhimu kumsaidia mjukuu wako kuelewa PrEP vizuri. Hapa kuna njia kadhaa:
+
+1. **Mazungumzo ya wazi:** Zungumza naye kwa uwazi kuhusu PrEP na umuhimu wake.
+2. **Mifano rahisi:** Tumia mifano ya kila siku ili kuelezea jinsi PrEP inavyofanya kazi.
+3. **Tafuta taarifa:** Pata vitabu au rasilimali mtandaoni zinazofafanua PrEP kwa urahisi.
+4. **Kujifunza pamoja:** Msaidie kujifunza zaidi kwa kuangalia video au makala za kuelezea PrEP.
+5. **Kuwasihi wataalamu:** Mwalike daktari au muuguzi wa afya kuzungumza naye kuhusu PrEP.
+
+Hizi ni njia nzuri za kumsaidia kuelewa vizuri.","6.26","0.77"
+"PrEP ni nini? (What is PrEP?)  
+Je, ni salama? (Is it safe?)  
+Itanifanya niwe mgonjwa? (Will it make me sick?)  
+Watu wanasema PrEP inasababisha matatizo—ni kweli? (People say PrEP causes problems—is that true?)  
+Je, ninapaswa kumwambia mjukuu wangu juu ya PrEP? (Should I tell my grandchild about PrEP?)  
+
+Sasa,","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au risasi za kila miezi miwili.
+
+PrEP ni salama kwa watu wengi. Watu wengi wanaweza kuitumia bila matatizo makubwa.
+
+Baadhi ya watu wanaweza kupata madhara madogo kama vile kichefuchefu, maumivu ya kichwa, au uchovu. Madhara haya mara nyingi hupita baada ya wiki chache.
+
+Ni kweli kwamba baadhi ya watu wanaweza kuwa na matatizo, lakini mengi ni madogo na yanapita.
+
+Ni wazo nzuri kumwambia mjukuu wako kuhusu PrEP. Hii inaweza kumsaidia kuelewa jinsi ya kujilinda dhidi ya HIV.","4.03","0.85"
+"Samahani, naona umekuja na maswali mengine. 
+
+### Kwa hivyo, unafikiri kuna njia bora zaidi za kumsaidia mjukuu wako aelewe jinsi PrEP inavyofanya kazi? (Are there better ways to help your grandchild understand how PrEP works?)","Ni muhimu kumsaidia mjukuu wako kuelewa PrEP vizuri. Hapa kuna njia kadhaa:
+
+1. **Mazungumzo ya wazi:** Zungumza naye kwa uwazi kuhusu PrEP na umuhimu wake.
+2. **Mifano rahisi:** Tumia mifano ya kila siku ili kuelezea jinsi PrEP inavyofanya kazi.
+3. **Tafuta taarifa:** Pata vitabu au rasilimali mtandaoni zinazofafanua PrEP kwa urahisi.
+4. **Kujifunza pamoja:** Msaidie kujifunza zaidi kwa kuangalia video au makala za kuelezea PrEP.
+5. **Kuwasihi wataalamu:** Mwalike daktari au muuguzi wa afya kuzungumza naye kuhusu PrEP. 
+
+Hizi ni njia nzuri za kumsaidia kuelewa vizuri.","4.27","0.79"
+"Samahani, naona umepitia maswali mengi. Naomba nijue, je, unafikiri kuna maswali mengine unataka kujua kuhusu PrEP au jinsi ya kumsaidia mjukuu wako katika kutumia dawa hii?","Ni muhimu kumsaidia mjukuu wako kuelewa PrEP vizuri. Unaweza kumwuliza maswali kama:
+
+1. Je, unajua jinsi PrEP inavyofanya kazi?
+2. Je, una maswali kuhusu madhara ya PrEP?
+3. Je, unajua ni wapi unaweza kupata PrEP?
+4. Je, unajua jinsi ya kutumia PrEP kila siku?
+5. Je, unataka kujua kuhusu njia nyingine za kujilinda dhidi ya HIV?
+
+Hizi ni maswali mazuri ya kuzungumza naye.","3.4","0.88"
+"PrEP ni nini? (What is PrEP?)  
+Je, ni salama? (Is it safe?)  
+Itanifanya niwe mgonjwa? (Will it make me sick?)  
+Watu wanasema PrEP inasababisha matatizo—ni kweli? (People say PrEP causes problems—is that true?)  
+Je, ninapaswa kumwambia mjukuu wangu juu ya PrEP? (Should I tell my grandchild about PrEP?)  
+
+Ningep","PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au risasi za kila miezi miwili.
+
+PrEP ni salama kwa watu wengi. Watu wengi wanaweza kuitumia bila matatizo makubwa.
+
+Baadhi ya watu wanaweza kupata madhara madogo kama vile kichefuchefu, maumivu ya kichwa, au uchovu. Madhara haya mara nyingi hupita baada ya wiki chache.
+
+Ni kweli kwamba baadhi ya watu wanaweza kuwa na matatizo, lakini mengi ni madogo na yanapita.
+
+Ni wazo nzuri kumwambia mjukuu wako kuhusu PrEP. Hii inaweza kumsaidia kuelewa jinsi ya kujilinda dhidi ya HIV.","3.79","0.6"
+"Samahani, lakini nimesikia maswali mengi yanarudiwa. Naomba nijue, je, unafikiri kuna maelezo mengine ambayo ungependa kujua kuhusu jinsi PrEP inavyofanya kazi au jinsi ya kumsaidia mjukuu wako?","Ninafurahi umenijulisha. Ikiwa unahitaji maelezo zaidi kuhusu PrEP, unaweza kuuliza maswali haya:
+
+1. Je, unajua jinsi PrEP inavyosaidia kuzuia HIV?
+2. Je, unataka kujua ni wapi unaweza kupata PrEP?
+3. Je, una maswali kuhusu madhara ya PrEP?
+4. Je, unataka kujua jinsi ya kutumia PrEP kila siku?
+5. Je, unajua kuhusu njia nyingine za kujilinda dhidi ya HIV?
+
+Hizi ni maswali mazuri ya kujadili.","4.19","0.77"
+"PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Unaweza kufikiria kwamba inafanya kazi kama ngao, ikilinda watu ambao wana hatari ya kupata virusi vya HIV.
+
+Je, unafikiri ni salama kwa watu wengi kutumia PrEP?","Ndio, PrEP ni salama kwa watu wengi. Watu wengi wanaweza kuitumia bila matatizo makubwa. Hata hivyo, baadhi ya watu wanaweza kupata madhara madogo kama vile kichefuchefu au maumivu ya kichwa. Madhara haya mara nyingi hupita baada ya wiki chache. Ni wazo nzuri kuzungumza na daktari kabla ya kuanza kutumia PrEP.","2.92","0.91"
+"Itanifanya niwe mgonjwa? (Will it make me sick?)","PrEP is safe for many people. Some may have mild side effects. These can include headaches, nausea, or fatigue. These side effects often go away in a few weeks. Serious problems are rare. Always talk to your doctor if you have concerns.","4.32","0.85"
+"Ndio, PrEP ni salama kwa watu wengi. Watu wengi wanaweza kuitumia bila matatizo makubwa. Lakini, ni muhimu kujua kwamba baadhi ya watu wanaweza kupata madhara madogo kama vile kichefuchefu, maumivu ya kichwa, au uchovu. Madhara haya mara nyingi hupita baada ya wiki chache. 
+
+Ni vizuri kuzungumza na daktari wako kuhusu maswali yako. Je, unafikiri kuna maswali","Ni sawa kabisa kuzungumza na daktari wako kuhusu maswali yako. Ikiwa unahitaji kujua zaidi kuhusu PrEP, hapa kuna maswali ya kufikiria:
+
+1. Je, unajua jinsi PrEP inavyosaidia kuzuia HIV?
+2. Je, unataka kujua ni wapi unaweza kupata PrEP?
+3. Je, una maswali kuhusu madhara ya PrEP?
+4. Je, unataka kujua jinsi ya kutumia PrEP kila siku?
+5. Je, unajua kuhusu njia nyingine za kujilinda dhidi ya HIV? 
+
+Haya ni maswali mazuri ya kujadili.","4.83","0.65"
+"PrEP ni dawa inayosaidia kuzuia maambukizi ya HIV. Inapatikana kama vidonge vya kila siku au risasi za kila miezi miwili. 
+
+Sasa, naweza kujua, je, unafikiri kuna njia bora za kumsaidia mjukuu wako aelewe jinsi PrEP inavyofanya kazi?","Ni sawa kabisa kusaidia mjukuu wako kuelewa PrEP. Hapa kuna njia chache za kumsaidia:
+
+1. Fafanua kwa urahisi jinsi PrEP inavyofanya kazi. Ni kama kinga dhidi ya HIV.
+2. Tumia mifano rahisi. Eleza tofauti kati ya vidonge na risasi.
+3. Onyesha jinsi ya kutumia vidonge kila siku au jinsi ya kupata risasi.
+4. Zungumzia madhara madogo na jinsi ya kuyashughulikia.
+5. Mhimiza ajue kuwa anaweza kuuliza maswali wakati wowote.
+
+Hizi ni njia nzuri za kumsaidia kuelewa PrEP.","6.38","0.52"

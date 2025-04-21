@@ -1,0 +1,251 @@
+"User_Message","Response","Response_Time","Temperature"
+"""Ningependa kujua, je, kuna mabadiliko yoyote ya kiutafiti kuhusu PrEP kwa wanawake wa kijana kama mimi, na taarifa gani zingine ni muhimu kuelewa kabla ya kuanza matumizi?""","Samahani, sina taarifa za hivi karibuni kuhusu utafiti wa PrEP kwa wanawake vijana. 
+
+Hata hivyo, mambo muhimu ya kuelewa kabla ya kuanza matumizi ya PrEP ni:
+
+1. PrEP inapaswa kutumika na watu ambao ni HIV-negative.
+2. Ni muhimu kuchukua PrEP kila siku au kulingana na ratiba ya sindano.
+3. Unapaswa kuonana na daktari kila miezi mitatu kwa vipimo.
+4. PrEP haina ulinzi dhidi ya magonjwa mengine ya kuambukizwa kwa njia ya zinaa.
+
+Zungumza na daktari au mtaalamu wa afya kwa maelezo zaidi.","5.12","0.91"
+"""Ningependa kujua, je, kuna taarifa au tafiti mpya zinazohusu matumizi ya PrEP kwa wanawake wenye umri kama wangu, hasa kuhusu ufanisi wake na madhara yanayoweza kutokea?""","Samahani, sina taarifa za hivi karibuni kuhusu tafiti za PrEP kwa wanawake. 
+
+Hata hivyo, mambo muhimu ya kuelewa ni:
+
+1. PrEP inafanya kazi vizuri ikiwa inachukuliwa kila siku.
+2. Madhara ya kawaida yanaweza kuwa kama vile kichwa kuuma, kichefuchefu, na kuharisha.
+3. Madhara haya mara nyingi hupungua baada ya wiki chache.
+
+Zungumza na daktari wako kwa maelezo zaidi.","4.25","0.68"
+"""Ningependa kujua, je, kuna taarifa au makundi ya msaada ambayo yanaweza kusaidia wanawake kama mimi kupata taarifa zaidi kuhusu utafiti wa hivi karibuni kuhusu PrEP?""","Hapa kuna makundi na rasilimali ambazo zinaweza kusaidia wanawake kupata taarifa zaidi kuhusu PrEP:
+
+1. Mashirika ya afya ya jamii katika eneo lako.
+2. Kituo cha afya cha ndani kinachotoa huduma za HIV na PrEP.
+3. Tovuti za kitaifa kama CDC au WHO zenye taarifa za hivi karibuni.
+4. Vikundi vya msaada wa wanawake kwenye mitandao ya kijamii.
+
+Zungumza na daktari wako kwa maelezo zaidi.","5.29","0.69"
+"""Ningependa kujua, je, kuna majaribio yoyote yanayotolewa ili kuhakikisha kwamba wanawake kama mimi wanaweza kutumia PrEP kwa usahihi na kwa ufanisi, na ni vigezo gani vinavyobainishwa katika majaribio haya?""","Samahani, sina taarifa za hivi karibuni kuhusu majaribio ya PrEP kwa wanawake. 
+
+Hata hivyo, ni muhimu kuelewa mambo yafuatayo:
+
+1. PrEP inapaswa kutumika na watu ambao ni HIV-negative.
+2. Ufanisi wake unategemea matumizi ya kila siku au sindano.
+3. Vigezo vya majaribio vinajumuisha afya ya jumla na hali ya HIV.
+
+Zungumza na daktari wako kwa maelezo zaidi.","3.63","0.98"
+"""Ningependa kujua, je, ni vipi naweza kupata taarifa zaidi kuhusu utafiti wa hivi karibuni juu ya PrEP, hasa kuhusu wanawake wa umri wangu, na ni vyanzo gani vinavyotambulika katika jamii?""","Hapa kuna njia za kupata taarifa zaidi kuhusu utafiti wa hivi karibuni juu ya PrEP kwa wanawake:
+
+1. Tembelea tovuti za mashirika ya afya kama CDC au WHO.
+2. Zungumza na daktari wako au mtaalamu wa afya.
+3. Tembelea vituo vya afya vya ndani vinavyotoa huduma za HIV na PrEP.
+4. Jiunge na vikundi vya msaada wa wanawake kwenye mitandao ya kijamii.
+
+Hizi ni njia nzuri za kupata taarifa za kuaminika na za kisasa.","3.59","0.71"
+"""Ningependa kujua, je, kuna matukio yoyote ya hivi karibuni ya majaribio au tafiti zinazohusiana na matumizi ya PrEP kwa wanawake vijana, na ni wapi naweza kupata taarifa hizi?""","Samahani, sina taarifa za hivi karibuni kuhusu majaribio ya PrEP kwa wanawake vijana. 
+
+Hata hivyo, unaweza kupata taarifa zaidi kupitia:
+
+1. Tovuti za mashirika ya afya kama CDC au WHO.
+2. Kituo cha afya cha ndani kinachotoa huduma za HIV na PrEP.
+3. Zungumza na daktari wako au mtaalamu wa afya.
+4. Jiunge na vikundi vya msaada wa wanawake kwenye mitandao ya kijamii.
+
+Hizi ni njia nzuri za kupata taarifa za kuaminika.","3.87","0.87"
+"""Ningependa kujua, je, kuna makundi maalum ya wanawake ambao wanatumia PrEP ambayo yanaweza kunisaidia kuelewa uzoefu wao na jinsi wanavyokabiliana na madhara yoyote yanayoweza kutokea?""","Hapa kuna makundi maalum ya wanawake wanaotumia PrEP:
+
+1. Vikundi vya msaada wa wanawake katika mitandao ya kijamii.
+2. Mashirika ya afya ya jamii yanayotoa huduma za PrEP.
+3. Kituo cha afya cha ndani kinachotoa usaidizi kwa wanawake.
+4. Matukio au semina zinazohusu PrEP kwa wanawake.
+
+Zungumza na daktari wako kwa maelezo zaidi.","3.5","0.51"
+"""Ningependa kujua, je, kuna mifano ya mafanikio kutoka kwa wanawake ambao wamekuwa wakitumia PrEP, na vipi wanaweza kushiriki uzoefu wao?""","Hapa kuna njia za kupata mifano ya mafanikio kutoka kwa wanawake wanaotumia PrEP:
+
+1. Jiunge na vikundi vya msaada wa wanawake kwenye mitandao ya kijamii.
+2. Tembelea tovuti za mashirika ya afya kama CDC au WHO kwa hadithi za mafanikio.
+3. Zungumza na daktari wako au mtaalamu wa afya kuhusu uzoefu wa wengine.
+4. Tembelea vituo vya afya vinavyotoa huduma za HIV na PrEP.
+
+Hizi ni njia nzuri za kujifunza kutoka kwa wengine.","4.87","0.86"
+"""Ningependa kujua, je, kuna njia zozote za kujiandaa kabla ya kuanza kutumia PrEP, hasa kuhusu majaribio ya lazima na ushauri wa kiafya?""","Hapa kuna njia za kujiandaa kabla ya kuanza kutumia PrEP:
+
+1. Tembelea daktari kwa uchunguzi wa HIV.
+2. Fanya vipimo vya kazi za figo.
+3. Zungumza na daktari kuhusu historia yako ya afya.
+4. Pata ushauri kuhusu matumizi ya PrEP na njia nyingine za kuzuia HIV.
+5. Panga kukutana na daktari kila baada ya miezi mitatu kwa ufuatiliaji.
+
+Hizi ni hatua muhimu kwa kuanza PrEP.","4.69","0.76"
+"""Ningependa kujua, je, kuna tofauti katika changamoto ambazo wanawake wanakutana nazo wakati wa kutumia PrEP, ukilinganisha na wanaume, na vipi hizi zinaweza kushughulikiwa?""","Hapa kuna tofauti katika changamoto ambazo wanawake wanakutana nazo wakati wa kutumia PrEP:
+
+1. Wanawake wanaweza kukutana na unyanyasaji wa kijinsia au ukosefu wa ushawishi katika mahusiano.
+2. Wanahitaji kujificha zaidi kuhusu matumizi ya PrEP kuliko wanaume.
+3. Wanawake wanaweza kuwa na changamoto za kupata daktari wa kuandika dawa.
+4. Wanahitaji ushawishi zaidi katika maamuzi ya afya ya ngono.
+
+Hizi zinaweza kushughulikiwa kwa:
+
+1. Kutoa elimu juu ya PrEP kwa wanawake.
+2. Kuunda vikundi vya msaada na ushirikiano.
+3. Kuweka mipango ya afya ya jamii kwa wanawake.
+4. Kutoa rasilimali na usaidizi wa kisaikolojia.
+
+Ni muhimu kuzungumza na daktari kuhusu changamoto hizi.","5.0","0.84"
+"""Ningependa kujua, je, kuna njia zozote za kujiandaa kiakili kabla ya kuanza kutumia PrEP, hasa kuhusu kuelewa madhara yanayoweza kutokea na jinsi ya kuyakabili?""","Hapa kuna njia za kujiandaa kiakili kabla ya kuanza kutumia PrEP:
+
+1. Jifunze kuhusu madhara ya kawaida ya PrEP kama kichwa kuuma, kichefuchefu, na uchovu.
+2. Zungumza na daktari wako kuhusu madhara haya na jinsi ya kuyakabili.
+3. Pata msaada kutoka kwa marafiki au familia wanaofahamu kuhusu PrEP.
+4. Jiunge na vikundi vya msaada ili usikose uzoefu wa wengine.
+5. Fanya mazoezi ya kujitunza kama kupumzika na kunywa maji ya kutosha.
+
+Hizi zitakusaidia kuwa tayari.","4.26","0.63"
+"""Ningependa kujua, je, kuna njia maalum za kupata ushauri wa kifamasia kuhusu matumizi ya PrEP, na ni vigezo gani vya msingi vinavyohitajika kabla ya kuanza?""","Hapa kuna njia za kupata ushauri wa kifamasia kuhusu matumizi ya PrEP:
+
+1. Tembelea daktari wa afya ya ngono au mtaalamu wa HIV.
+2. Zungumza na muuguzi katika kituo cha afya chako.
+3. Pata ushauri katika vituo vya huduma za HIV na PrEP.
+
+Vigezo vya msingi vinavyohitajika kabla ya kuanza ni:
+
+1. Uchunguzi wa HIV.
+2. Vipimo vya kazi za figo.
+3. Historia ya afya yako.
+
+Hizi ni hatua muhimu kabla ya kuanza kutumia PrEP.","3.68","0.88"
+"""Ningependa kujua, je, kuna mipango yoyote ya elimu au kampeni zinazotolewa kwa wanawake kuhusu matumizi ya PrEP, na ni vipi wanawake wanaweza kushiriki katika mipango hii ili kuongeza uelewa na usaidizi?""","Mipango ya elimu kuhusu PrEP kwa wanawake inapatikana katika maeneo mengi. Hapa kuna baadhi ya njia za kushiriki:
+
+1. Tembelea vituo vya afya ya ngono au kliniki za HIV.
+2. Jiunge na vikundi vya msaada ya wanawake kuhusu PrEP.
+3. Shiriki katika semina au mafunzo yanayohusiana na PrEP.
+4. Fuata kampeni za elimu mtandaoni kuhusu PrEP na afya ya wanawake.
+5. Zungumza na marafiki na familia kuhusu umuhimu wa PrEP.
+
+Hizi ni njia nzuri za kuongeza uelewa na usaidizi wa matumizi ya PrEP.","4.72","1.0"
+"""Ningependa kujua, je, ni vigezo gani vinavyohitajika ili niweze kutathmini ufanisi wa PrEP kwangu, na ni namna gani napaswa kujiandaa kabla ya kutathmini vigezo hivyo?""","Ili kutathmini ufanisi wa PrEP kwako, vigezo vifuatavyo vinahitajika:
+
+1. Uchunguzi wa HIV.
+2. Vipimo vya kazi za figo.
+3. Historia ya afya yako.
+4. Ufuatiliaji wa matumizi ya PrEP kila mwezi.
+
+Kujitayarisha kabla ya kutathmini vigezo hivi, unaweza kufanya yafuatayo:
+
+1. Zungumza na daktari wako kuhusu maswali yako.
+2. Andaa orodha ya dawa unazotumia.
+3. Pata taarifa kuhusu madhara ya PrEP.
+4. Jifunze kuhusu umuhimu wa kupima HIV mara kwa mara.
+
+Hizi zitakusaidia kuwa tayari kwa tathmini yako.","4.59","0.91"
+"""Ningependa kujua, je, ni vigezo gani vya msingi vinavyoweza kutathmini ufanisi wa PrEP katika kupunguza hatari ya HIV kwa wanawake, na ni jinsi gani matokeo yanaweza kubadilishwa kwa kuzingatia mabadiliko katika maisha yako?""","Ili kutathmini ufanisi wa PrEP katika kupunguza hatari ya HIV kwa wanawake, vigezo vifuatavyo vinahitajika:
+
+1. Uchunguzi wa HIV uliofanywa kabla ya kuanza PrEP.
+2. Vipimo vya kazi za figo.
+3. Historia ya afya yako, ikiwa ni pamoja na magonjwa mengine.
+4. Ufuatiliaji wa matumizi ya PrEP kila mwezi.
+
+Matokeo yanaweza kubadilishwa kutokana na mabadiliko katika maisha yako kama vile:
+
+1. Kuongeza au kupunguza wapenzi.
+2. Kuwepo kwa magonjwa mengine ya kuambukiza.
+3. Mabadiliko ya mtindo wa maisha, kama vile matumizi ya dawa.
+4. Kufanya maamuzi kuhusu matumizi ya kondomu.
+
+Ni muhimu kuzungumza na daktari wako kuhusu mabadiliko haya.","5.82","0.88"
+"""Ningependa kujua, je, ni vigezo gani vinavyoweza kutumiwa ili kubaini kama PrEP inafanya kazi vizuri kwangu, na ni jinsi gani naweza kufuatilia matokeo haya?""","Ili kubaini kama PrEP inafanya kazi vizuri kwako, vigezo vifuatavyo vinahitajika:
+
+1. Uchunguzi wa HIV uliofanywa kabla ya kuanza PrEP.
+2. Vipimo vya kazi za figo.
+3. Historia ya afya yako, ikiwa ni pamoja na magonjwa mengine.
+4. Ufuatiliaji wa matumizi ya PrEP kila mwezi.
+
+Ili kufuatilia matokeo haya:
+
+1. Tembelea daktari wako kwa uchunguzi wa kawaida.
+2. Fanya vipimo vya HIV na kazi za figo kila miezi mitatu.
+3. Zungumza na daktari kuhusu maswali au wasiwasi wowote.","4.14","0.86"
+"Ningependa kujua, je, kuna mipango ya elimu au kampeni zinazotoa maelezo maalum kwa wanawake kuhusu madhara yanayoweza kutokea kutokana na matumizi ya PrEP? Na ni vipi wanawake wanaweza kushiriki katika mipango hii?","Ndiyo, kuna mipango ya elimu na kampeni zinazotoa maelezo kuhusu madhara yanayoweza kutokea kutokana na matumizi ya PrEP. Hapa kuna njia za kushiriki:
+
+1. Tembelea vituo vya afya ya ngono au kliniki za HIV.
+2. Jiunge na vikundi vya msaada ya wanawake kuhusu PrEP.
+3. Shiriki katika semina au mafunzo yanayohusiana na PrEP.
+4. Fuata kampeni za elimu mtandaoni kuhusu PrEP na afya ya wanawake.
+5. Zungumza na marafiki na familia kuhusu umuhimu wa PrEP.
+
+Hizi ni njia nzuri za kuongeza uelewa na usaidizi wa matumizi ya PrEP.","4.26","0.68"
+"""Ningependa kujua, je, kuna njia maalum za kufuatilia madhara yanayoweza kutokea wakati wa matumizi ya PrEP, na ni vipi naweza kujua kama ninahitaji kuwasiliana na daktari kuhusu masuala yoyote?""","Ili kufuatilia madhara yanayoweza kutokea wakati wa matumizi ya PrEP, unaweza kufanya yafuatayo:
+
+1. Fuata ratiba ya uchunguzi wa kawaida na daktari wako.
+2. Jitathmini kila siku kwa kutafuta dalili kama vile maumivu ya tumbo, kichwa, au kichefuchefu.
+3. Andika mabadiliko yoyote unayohisi na ukiwasiliane nayo daktari wako.
+4. Usisite kuwasiliana na daktari ikiwa unahisi dalili zisizo za kawaida au unakuwa na wasiwasi.
+
+Ni muhimu kuzungumza na daktari wako kuhusu masuala yoyote yanayohusiana na matumizi ya PrEP.","4.72","0.58"
+"""Ningependa kujua, je, kuna njia maalum za kujiandaa kiakili kabla ya kuanza kutumia PrEP, hasa kuhusu kuelewa madhara yanayoweza kutokea na jinsi ya kuyakabili?""","Ni muhimu kujiandaa kiakili kabla ya kutumia PrEP. Hapa kuna njia za kufanya hivyo:
+
+1. Jifunze kuhusu madhara ya kawaida ya PrEP. Haya ni pamoja na kichwa, kichefuchefu, au maumivu ya tumbo.
+2. Zungumza na daktari wako. Wanaweza kutoa maelezo na kujibu maswali yoyote.
+3. Fanya mpango wa kufuatilia dalili. Andika mabadiliko yoyote unayohisi.
+4. Tafuta msaada kutoka kwa marafiki au familia. Wanaweza kusaidia kukusaidia.
+
+Kujua mambo haya kutakusaidia kukabiliana na madhara yanayoweza kutokea.","4.76","0.58"
+"""Ningependa kujua, je, kuna mifano ya hadithi za mafanikio au uzoefu wa wanawake ambao wamekuwa na matumizi mazuri ya PrEP, na ni vipi wanaweza kugawana uzoefu wao ili kusaidia wengine?""","Ndiyo, kuna hadithi nyingi za mafanikio za wanawake waliotumia PrEP. Mara nyingi, wanawake hawa hushiriki uzoefu wao kupitia:
+
+1. Vikundi vya msaada ya wanawake kuhusu PrEP.
+2. Mikutano na semina za elimu kuhusu afya.
+3. Majukwaa ya mtandaoni kama blogu na mitandao ya kijamii.
+4. Nguvu za kushiriki katika kampeni za afya ya wanawake.
+5. Kutoa mazungumzo katika kliniki na vituo vya afya.
+
+Kugawana uzoefu wao kunaweza kusaidia wengine kuelewa faida za PrEP na kupunguza wasiwasi kuhusu matumizi yake.","4.39","0.89"
+"""Ningependa kujua, je, kuna mifano ya hadithi za mafanikio au uzoefu wa wanawake ambao wameweza kushiriki kwa njia ya kampeni za elimu kuhusu PrEP ili kuhamasisha wengine? Na ni vipi naweza kujiunga na kampeni hizo?""","Ndiyo, kuna wanawake wengi ambao wameweza kushiriki hadithi zao kuhusu PrEP. Hapa kuna njia za kujiunga na kampeni hizo:
+
+1. Tembelea vituo vya afya ya ngono au kliniki za HIV.
+2. Jiunge na vikundi vya msaada ya wanawake kuhusu PrEP.
+3. Shiriki katika semina au mafunzo yanayohusiana na PrEP.
+4. Fuata kampeni za elimu mtandaoni kuhusu PrEP na afya ya wanawake.
+5. Zungumza na marafiki na familia kuhusu umuhimu wa PrEP.
+
+Hizi ni njia nzuri za kuhamasisha wengine na kujifunza zaidi.","4.12","0.99"
+"Ningependa kujua, je, kuna mipango kama hiyo ya kusaidia wanawake wasio na uwezo wa kifedha kupata PrEP, na ni vipi wanaweza kuhakikishiwa usalama wa matumizi yao?","Ndiyo, kuna mipango ya kusaidia wanawake wasio na uwezo wa kifedha kupata PrEP. Hapa kuna njia za kupata msaada:
+
+1. Mpango wa ""Ready, Set, PrEP"": Hutoa dawa ya PrEP bure kwa watu walio na daktari aliyeandika.
+2. Mipango ya msaada ya gharama za Gilead: Hutoa msaada kwa watu wasio na uwezo wa kulipia PrEP.
+3. Kliniki za afya za jamii: Wanaweza kutoa PrEP bila malipo au kwa gharama nafuu.
+
+Ili kuhakikishiwa usalama wa matumizi, wanawake wanapaswa:
+
+1. Kufanya uchunguzi wa kawaida na daktari.
+2. Kufuata maelekezo ya daktari kuhusu matumizi ya PrEP.
+3. Kutoa taarifa yoyote ya dalili zisizokuwa za kawaida kwa daktari.
+
+Kujua hayo kutasaidia wanawake kujisikia salama wanapokuwa kwenye matumizi ya PrEP.","5.94","0.92"
+"Ningependa kujua, je, kuna mipango yoyote ya elimu au kampeni zinazotolewa kwa wanawake kuhusu matumizi ya PrEP, na ni vipi wanawake wanaweza kushiriki katika mipango hii ili kuongeza uelewa na usaidizi?","Ndiyo, kuna mipango na kampeni nyingi za elimu kuhusu PrEP kwa wanawake. Hapa kuna njia ambazo wanawake wanaweza kushiriki:
+
+1. Tembelea vituo vya afya au kliniki za HIV zinazotoa mafunzo.
+2. Jiunge na vikundi vya msaada ya wanawake kuhusu PrEP.
+3. Shiriki katika semina na matukio ya elimu kuhusu afya.
+4. Fuata kampeni za elimu mtandaoni kupitia mitandao ya kijamii.
+5. Zungumza na marafiki na familia kuhusu umuhimu wa PrEP.
+
+Hizi ni njia nzuri za kuongeza uelewa na kusaidia wengine.","4.23","0.98"
+"Ningependa kujua, je, ni vigezo gani vinavyoweza kutumiwa ili kubaini kama PrEP inafanya kazi vizuri kwangu, na ni jinsi gani naweza kufuatilia matokeo haya?","Ili kubaini kama PrEP inafanya kazi vizuri kwako, unaweza kufuata vigezo vifuatavyo:
+
+1. Tembelea daktari wako kila miezi mitatu kwa vipimo vya HIV.
+2. Fanya vipimo vya figo ili kuhakikisha zinafanya kazi vizuri.
+3. Jifunze kuhusu dalili zozote mpya au zisizokuwa za kawaida.
+4. Wasiliana na daktari wako kuhusu jinsi unavyohisi unapokuwa kwenye PrEP.
+5. Kumbuka kuchukua PrEP kila siku kama ilivyoelekezwa.
+
+Kufuatilia matokeo haya ni muhimu. Usisite kuzungumza na daktari wako kuhusu maswali na wasiwasi wowote.","5.17","0.75"
+"Ningependa kujua, je, kuna mipango ya elimu au kampeni zinazotoa maelezo maalum kwa wanawake kuhusu madhara yanayoweza kutokea kutokana na matumizi ya PrEP? Na ni vipi wanawake wanaweza kushiriki katika mipango hii?","Ndiyo, kuna mipango ya elimu kuhusu madhara yanayoweza kutokea kutokana na matumizi ya PrEP. Hapa kuna njia wanawake wanaweza kushiriki:
+
+1. Tembelea vituo vya afya au kliniki za HIV zinazotoa mafunzo.
+2. Jiunge na vikundi vya msaada ya wanawake kuhusu PrEP.
+3. Shiriki katika semina na matukio ya elimu kuhusu afya.
+4. Fuata kampeni za elimu mtandaoni kupitia mitandao ya kijamii.
+5. Zungumza na marafiki na familia kuhusu PrEP na madhara yake.
+
+Hizi ni njia nzuri za kuongeza uelewa na kusaidia wengine.","4.59","0.51"

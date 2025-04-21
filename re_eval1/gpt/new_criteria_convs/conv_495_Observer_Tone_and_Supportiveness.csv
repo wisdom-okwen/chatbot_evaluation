@@ -1,0 +1,206 @@
+"User_Message","Response","Response_Time","Temperature"
+"""Ningependa kujua, je, ni vigezo gani hasa vinavyohitajika ili niweze kuanza kutumia PrEP, na kuna hatari zozote ambazo ninapaswa kuzingatia?""","Ili kuanza kutumia PrEP, unahitaji kukidhi vigezo vifuatavyo:
+
+1. **HIV-negatif**: Unapaswa kufanya kipimo kuthibitisha kuwa huna HIV.
+2. **Tathmini ya mawasiliano**: Daktari atakagua tabia zako za ngono na uwezekano wa mawasiliano na HIV.
+3. **Kipimo cha STD**: Unaweza kuhitaji kufanya vipimo vya magonjwa ya zinaa.
+4. **Afya ya jumla**: Daktari atakagua afya yako na kazi ya figo.
+5. **Kukutana na daktari**: Ni lazima uongee na daktari kuhusu matumizi ya PrEP.
+
+Kuhusu hatari, PrEP inaweza kusababisha madhara madogo kama kichwa kuuma, kichefuchefu, au uchovu. Madhara haya kawaida hupita ndani ya wiki chache. Ni muhimu kuzungumza na daktari wako kuhusu wasiwasi wowote unaoweza kuwa nao.","5.67","0.51"
+"""Ningependa kujua, je, ni vipi naweza kufahamu kama PrEP inafaa kwa ajili yangu binafsi, na ni vigezo gani vinavyohitajika ili niweze kuanza kutumia?""","Ili kujua kama PrEP inafaa kwako, fuata hatua hizi:
+
+1. **Pata kipimo cha HIV**: Lazima uwe HIV-negatif.
+2. **Tathmini ya hatari**: Daktari atakagua tabia zako za ngono na uwezekano wa mawasiliano na HIV.
+3. **Kipimo cha STD**: Unaweza kuhitaji kupimwa kwa magonjwa ya zinaa.
+4. **Afya ya jumla**: Daktari atakagua afya yako na kazi ya figo.
+5. **Kukutana na daktari**: Ni lazima uongee na daktari kuhusu matumizi ya PrEP.
+
+Kila hatua hii itasaidia daktari kujua kama PrEP ni chaguo bora kwako.","4.5","0.61"
+"""Ningependa kujua, je, kuna majaribio yoyote ya kawaida yanayohitajika baada ya kuanza kutumia PrEP, na ni mara ngapi inashauriwa kufanya majaribio haya?""","Ili kuweka usalama wako wakati wa kutumia PrEP, ni muhimu kufanya majaribio yafuatayo:
+
+1. **Kipimo cha HIV**: Kila baada ya miezi mitatu.
+2. **Kipimo cha kazi ya figo**: Kila baada ya miezi mitatu.
+3. **Kipimo cha magonjwa ya zinaa**: Hii inaweza kuwa kila baada ya miezi mitatu au kama inahitajika.
+
+Ni vyema kuzungumza na daktari wako kuhusu ratiba hii.","5.05","0.77"
+"""Ningependa kujua, je, ni vipi naweza kufikia PrEP katika maeneo ya afya ya jamii nchini Kenya, na je, kuna gharama zozote zinazohusiana na kupata dawa hii?""","Ili kupata PrEP katika maeneo ya afya ya jamii nchini Kenya, fuata hatua hizi:
+
+1. **Tembelea kituo cha afya**: Tembelea kliniki au hospitali inayotoa huduma za PrEP.
+2. **Pata uchunguzi wa HIV**: Lazima uwe HIV-negatif kabla ya kuanza PrEP.
+3. **Kukutana na daktari**: Daktari atakupa maelezo zaidi na kukupa dawa.
+
+Kuhusu gharama, PrEP inaweza kuwa bure katika vituo vya afya vya umma. Ikiwa unatumia kliniki binafsi, gharama inaweza kutofautiana. Ni vyema kuuliza kituo husika kuhusu gharama na msaada wa kifedha.","5.39","0.66"
+"""Ningependa kujua, je, ni zipi faida za kutumia PrEP kwa wanawake kama mimi, na je, kuna taarifa zozote za kiutafiti zinazothibitisha faida hizi?""","PrEP ina faida nyingi kwa wanawake. Hapa kuna baadhi ya faida hizo:
+
+1. **Kinga dhidi ya HIV**: PrEP husaidia kuzuia maambukizi ya HIV wakati wa ngono au kutumia sindano.
+2. **Huru na faragha**: Unaweza kuchukua PrEP bila kumwambia mwenzi wako.
+3. **Ulinzi wa muda mrefu**: Unaweza kuchagua kutumia PrEP kwa muda mrefu au mfupi kulingana na mahitaji yako.
+4. **Msaada wa kiuchumi**: Mara nyingi, PrEP inapatikana bila malipo kupitia mipango ya afya.
+
+Utafiti umeonyesha kuwa PrEP inafanya kazi vizuri. Watu wanaotumia PrEP kila siku wanaweza kupunguza nafasi ya kupata HIV hadi 99%. 
+
+Ni vyema kuzungumza na daktari wako kwa maelezo zaidi na utafiti wa kiutafiti.","5.61","0.64"
+"""Ningependa kujua, je, ni vipi naweza kufikia taarifa zaidi kuhusu utafiti wa hivi karibuni kuhusu faida za PrEP kwa wanawake, na ni vyanzo gani vinaweza kunisaidia katika hili?""","Ili kupata taarifa zaidi kuhusu utafiti wa hivi karibuni kuhusu faida za PrEP kwa wanawake, unaweza kufanya yafuatayo:
+
+1. **Tembelea tovuti ya CDC**: Tovuti ya CDC ina habari nyingi kuhusu PrEP na tafiti zake.
+2. **Mikutano ya afya**: Angalia mikutano ya afya ya jamii au majukwaa yanayozungumzia HIV na PrEP.
+3. **Kliniki za afya**: Zungumza na daktari wako au muuguzi katika kliniki ya afya kuhusu tafiti mpya.
+4. **Vikundi vya msaada**: Jiunge na vikundi vya msaada au jamii zinazozungumzia PrEP na HIV.
+
+Hizi ni njia nzuri za kupata taarifa na msaada zaidi.","5.56","0.75"
+"""Ningependa kujua, je, ni vipi naweza kufikia makundi ya msaada kuhusu PrEP, na ni faida gani za kujiunga na makundi haya?""","Ili kufikia makundi ya msaada kuhusu PrEP, unaweza kufanya yafuatayo:
+
+1. **Tafuta kwenye mtandao**: Angalia tovuti za mashirika ya afya ya jamii.
+2. **Tembelea kliniki za afya**: Zungumza na wataalamu wa afya kuhusu makundi ya msaada.
+3. **Jiunge na vikundi vya mitandao ya kijamii**: Tafuta makundi kwenye Facebook au Twitter yanayozungumzia PrEP.
+
+Faida za kujiunga na makundi haya ni:
+
+1. **Msaada wa kihisia**: Utapata msaada kutoka kwa watu wenye uzoefu sawa.
+2. **Taarifa na elimu**: Unapata taarifa zaidi kuhusu PrEP na njia za kujikinga na HIV.
+3. **Kuungana na jamii**: Unaweza kuungana na watu wengine wanaofanya maamuzi kama yako.","5.79","0.67"
+"""Ningependa kujua, je, kuna vyanzo vya habari vya kuaminika ambavyo vinaweza kutoa taarifa zaidi kuhusu madhara ya muda mrefu yanayoweza kutokea kutokana na matumizi ya PrEP?""","Ili kupata taarifa za kuaminika kuhusu madhara ya muda mrefu ya PrEP, unaweza kutembelea:
+
+1. **Tovuti ya CDC**: Wana habari nyingi kuhusu PrEP na madhara yake.
+2. **Kliniki za afya**: Zungumza na daktari au muuguzi kuhusu maswali yako.
+3. **Vikundi vya msaada**: Jiunge na vikundi vinavyozungumzia PrEP na uzoefu wa watu wengine.
+
+Hizi ni njia nzuri za kupata taarifa sahihi na za kina.","4.27","0.9"
+"""Ningependa kujua, je, ni vigezo gani vinavyofanya PrEP iwe salama kwa matumizi ya muda mrefu, na ni jinsi gani naweza kufuatilia afya yangu wakati wa matumizi?""","PrEP ni salama kwa matumizi ya muda mrefu kutokana na mambo yafuatayo:
+
+1. **Utafiti wa Kiutafiti**: Tafiti nyingi zimeonyesha kuwa PrEP haina madhara makubwa kwa watu wengi.
+2. **Ufuatiliaji wa Afya**: Daktari wako atakagua afya yako mara kwa mara. 
+3. **Majaribio ya Mara kwa Mara**: Unahitaji kufanya vipimo vya HIV kila baada ya miezi mitatu.
+
+Ili kufuatilia afya yako, unaweza:
+
+1. **Kuhudhuria Mikutano**: Tembelea daktari wako mara kwa mara.
+2. **Kufanya Vipimo**: Fanya vipimo vya afya yako kama inavyoshauriwa.
+3. **Kurekodi Dalili**: Andika dalili zozote unazopata na uzijulishe daktari wako.
+
+Ni vyema kuzungumza na daktari wako kwa maelezo zaidi.","5.13","0.5"
+"""Ningependa kujua, je, kuna utafiti wowote wa hivi karibuni unaonyesha mabadiliko yoyote katika matumizi ya PrEP kwa wanawake vijana kama mimi, na ni taarifa gani zingine ni muhimu kuelewa kabla ya kuanza matumizi?""","Ili kupata taarifa kuhusu utafiti wa hivi karibuni kuhusu matumizi ya PrEP kwa wanawake vijana, unaweza kufanya yafuatayo:
+
+1. **Tembelea tovuti ya CDC**: Wana taarifa nyingi kuhusu PrEP na tafiti zake.
+2. **Kliniki za afya**: Zungumza na daktari wako kuhusu utafiti wa hivi karibuni.
+3. **Vikundi vya msaada**: Jiunge na vikundi vinavyozungumzia PrEP.
+
+Kabla ya kuanza matumizi ya PrEP, ni muhimu kuelewa yafuatayo:
+
+1. **Madhara**: PrEP inaweza kuwa na madhara madogo kama kichefuchefu.
+2. **Ufuatiliaji**: Unahitaji kutembelea daktari kila baada ya miezi mitatu.
+3. **Mahitaji ya Uthibitisho**: Unahitaji kupima HIV kabla ya kuanza.
+
+Hizi ni taarifa muhimu za kuzingatia.","5.83","0.66"
+"""Ningependa kujua, je, ni vipi naweza kupata msaada au ushauri wa kitaalamu kuhusu kutumia PrEP katika mazingira yangu ya kijamii, hasa kwa wanawake kama mimi?""","Ili kupata msaada au ushauri wa kitaalamu kuhusu kutumia PrEP, unaweza kufanya yafuatayo:
+
+1. **Tembelea kliniki za afya**: Zungumza na daktari au muuguzi kuhusu PrEP.
+2. **Tafuta vikundi vya msaada**: Jiunge na makundi yanayozungumzia PrEP na wanawake.
+3. **Wasiliana na mashirika ya afya ya jamii**: Wanaweza kutoa ushauri na taarifa kuhusu PrEP.
+
+Hizi ni njia nzuri za kupata msaada unaohitaji.","4.21","0.78"
+"""Ningependa kujua, je, ni vigezo gani vinavyofanya PrEP iwe salama kwa wanawake kama mimi, na ni jinsi gani naweza kufuatilia afya yangu wakati wa matumizi?""","PrEP ni salama kwa wanawake kutokana na mambo yafuatayo:
+
+1. **Utafiti wa Kiutafiti**: Tafiti nyingi zinaonyesha PrEP haina madhara makubwa kwa watu wengi.
+2. **Ufuatiliaji wa Afya**: Daktari wako atakagua afya yako mara kwa mara.
+3. **Majaribio ya Mara kwa Mara**: Unahitaji kufanya vipimo vya HIV kila baada ya miezi mitatu.
+
+Ili kufuatilia afya yako, unaweza:
+
+1. **Kuhudhuria Mikutano**: Tembelea daktari wako mara kwa mara.
+2. **Kufanya Vipimo**: Fanya vipimo vya afya yako kama inavyoshauriwa.
+3. **Kurekodi Dalili**: Andika dalili zozote unazopata na uzijulishe daktari wako.
+
+Ni vyema kuzungumza na daktari wako kwa maelezo zaidi.","6.78","0.64"
+"Ningependa kujua, je, ni vigezo gani vinavyofanya PrEP iwe salama kwa wanawake kama mimi, na ni jinsi gani naweza kufuatilia afya yangu wakati wa matumizi?","PrEP ni salama kwa wanawake kutokana na mambo yafuatayo:
+
+1. **Utafiti wa Kiutafiti**: Tafiti nyingi zinaonyesha PrEP haina madhara makubwa kwa watu wengi.
+2. **Ufuatiliaji wa Afya**: Daktari wako atakagua afya yako mara kwa mara.
+3. **Majaribio ya Mara kwa Mara**: Unahitaji kufanya vipimo vya HIV kila baada ya miezi mitatu.
+
+Ili kufuatilia afya yako, unaweza:
+
+1. **Kuhudhuria Mikutano**: Tembelea daktari wako mara kwa mara.
+2. **Kufanya Vipimo**: Fanya vipimo vya afya yako kama inavyoshauriwa.
+3. **Kurekodi Dalili**: Andika dalili zozote unazopata na uzijulishe daktari wako.
+
+Ni vyema kuzungumza na daktari wako kwa maelezo zaidi.","5.52","0.94"
+"Ningependa kujua, je, kuna madhara yoyote ya muda mrefu ambayo wanawake wanapaswa kuzingatia wanapokuwa wanafanya matumizi ya PrEP, na ni jinsi gani wanaweza kufuatilia afya zao wakati wa matumizi?","PrEP ina madhara machache ambayo wanawake wanapaswa kuzingatia. Haya ni pamoja na:
+
+1. **Madhara ya Kawaida**: Watu wengine wanaweza kupata kichefuchefu, kichwa, au maumivu ya tumbo.
+2. **Madhara Makubwa**: Madhara makubwa ni nadra. Ikiwa unapata maumivu ya tumbo makali au mabadiliko katika mkojo, zungumza na daktari.
+
+Ili kufuatilia afya yako wakati wa matumizi ya PrEP, unaweza:
+
+1. **Kuhudhuria Mikutano**: Tembelea daktari wako kila baada ya miezi mitatu.
+2. **Kufanya Vipimo**: Fanya vipimo vya HIV na afya nyingine kama inavyoshauriwa.
+3. **Kurekodi Dalili**: Andika dalili zozote unazopata na uzijulishe daktari wako.
+
+Ni muhimu kuzungumza na daktari wako kwa maelezo zaidi.","6.95","0.89"
+"""Ningependa kujua, je, kuna mabadiliko yoyote ambayo wanawake wanapaswa kuzingatia wanapokuwa wanatumia PrEP, hasa katika kuhusishwa na afya ya uzazi na uzalishaji?""","PrEP ni salama kwa wanawake, hata wakati wa ujauzito au wanapojaribu kupata mimba. Hapa kuna mambo ya kuzingatia:
+
+1. **Utafiti**: Utafiti unaonyesha PrEP haathiri afya ya uzazi.
+2. **Kujadili na Daktari**: Ni vyema kuzungumza na daktari wako kuhusu matumizi ya PrEP.
+3. **Ufuatiliaji**: Tembelea daktari mara kwa mara ili kufuatilia afya yako.
+
+Hakikisha unapata ushauri wa kitaalamu unapotumia PrEP.","3.97","0.95"
+"""Ningependa kujua, je, ni vigezo gani vinavyofanya PrEP iwe salama kwa wanawake katika mazingira tofauti, na ni jinsi gani naweza kufuatilia afya yangu wakati wa matumizi?""","PrEP ni salama kwa wanawake kwa sababu ya mambo yafuatayo:
+
+1. **Utafiti wa Kiutafiti**: Tafiti nyingi zinaonyesha PrEP haina madhara makubwa.
+2. **Ufuatiliaji wa Afya**: Daktari wako atakagua afya yako mara kwa mara.
+3. **Majaribio ya Mara kwa Mara**: Unahitaji kufanya vipimo vya HIV kila baada ya miezi mitatu.
+
+Ili kufuatilia afya yako wakati wa matumizi, unaweza:
+
+1. **Kuhudhuria Mikutano**: Tembelea daktari wako mara kwa mara.
+2. **Kufanya Vipimo**: Fanya vipimo vya HIV na afya nyingine kama inavyoshauriwa.
+3. **Kurekodi Dalili**: Andika dalili zozote unazopata na uzijulishe daktari wako.
+
+Ni vyema kuzungumza na daktari wako kwa maelezo zaidi.","6.57","0.5"
+"""Ningependa kujua, je, kuna maelezo zaidi kuhusu madhara ya muda mrefu ya PrEP ambayo wanawake wanapaswa kujua, na ni vipi wanaweza kujikinga na matatizo yoyote yanayoweza kutokea kutokana na matumizi haya?""","PrEP ina madhara machache ambayo wanawake wanapaswa kujua. Hapa kuna maelezo zaidi:
+
+1. **Madhara ya Kawaida**: Watu wengine wanaweza kupata kichefuchefu, kichwa, au maumivu ya tumbo. Madhara haya kawaida hupotea baada ya wiki chache.
+2. **Madhara Makubwa**: Madhara makubwa ni nadra. Ikiwa unapata maumivu ya tumbo makali au mabadiliko katika mkojo, zungumza na daktari.
+
+Ili kujikinga na matatizo yoyote, unaweza:
+
+1. **Kuhudhuria Mikutano**: Tembelea daktari wako kila baada ya miezi mitatu.
+2. **Kufanya Vipimo**: Fanya vipimo vya HIV na afya nyingine kama inavyoshauriwa.
+3. **Kurekodi Dalili**: Andika dalili zozote unazopata na uzijulishe daktari wako.
+
+Ni muhimu kuzungumza na daktari wako kwa maelezo zaidi.","5.5","0.68"
+"""Ningependa kujua, je, kuna makundi ya msaada au vyanzo vya habari ambavyo vinaweza kunisaidia kuelewa vizuri kuhusu madhara ya muda mrefu yanayoweza kutokea kutokana na matumizi ya PrEP?""","Ni nzuri kutafuta taarifa zaidi kuhusu madhara ya muda mrefu ya PrEP. Hapa kuna makundi ya msaada na vyanzo vya habari:
+
+1. **CDC (Centers for Disease Control and Prevention)**: Tovuti yao ina taarifa nyingi kuhusu PrEP na madhara yake.  
+   [cdc.gov/hiv](https://www.cdc.gov/hiv)  
+
+2. **Gilead Advancing Access**: Hutoa maelezo na msaada kuhusu PrEP na matumizi yake.  
+   [gileadadvancingaccess.com](https://www.gileadadvancingaccess.com)  
+
+3. **NAMI (National Alliance on Mental Illness)**: Hutoa msaada wa akili kwa wale wanaokabiliwa na matatizo ya afya ya akili.  
+   [nami.org](https://www.nami.org)  
+
+4. **Local Health Departments**: Tembelea ofisi yako ya afya ya umma kwa vyanzo vya habari na usaidizi wa karibu.  
+
+Kujadili na daktari wako pia ni njia nzuri ya kupata maelezo zaidi.","5.79","0.65"
+"""Ningependa kujua, je, kuna makundi ya msaada au vyanzo vya habari ambavyo vinaweza kunisaidia kuelewa vizuri kuhusu madhara ya muda mrefu yanayoweza kutokea kutokana na matumizi ya PrEP?""","Ni nzuri kutafuta taarifa zaidi kuhusu madhara ya muda mrefu ya PrEP. Hapa kuna makundi ya msaada na vyanzo vya habari:
+
+1. **CDC (Centers for Disease Control and Prevention)**: Tovuti yao ina taarifa nyingi kuhusu PrEP na madhara yake.  
+   [cdc.gov/hiv](https://www.cdc.gov/hiv)  
+
+2. **Gilead Advancing Access**: Hutoa maelezo na msaada kuhusu PrEP na matumizi yake.  
+   [gileadadvancingaccess.com](https://www.gileadadvancingaccess.com)  
+
+3. **NAMI (National Alliance on Mental Illness)**: Hutoa msaada wa akili kwa wale wanaokabiliwa na matatizo ya afya ya akili.  
+   [nami.org](https://www.nami.org)  
+
+4. **Local Health Departments**: Tembelea ofisi yako ya afya ya umma kwa vyanzo vya habari na usaidizi wa karibu.  
+
+Kujadili na daktari wako pia ni njia nzuri ya kupata maelezo zaidi.","6.54","0.93"
+"""Ningependa kujua, je, kuna mipango yoyote ya elimu au kampeni zinazofanywa nchini Kenya ili kuongeza uelewa kuhusu PrEP miongoni mwa wanawake, hasa vijana kama mimi?""","Samahani, sina taarifa maalum kuhusu mipango ya elimu au kampeni za PrEP nchini Kenya. Tafadhali tembelea tovuti za afya za serikali au mashirika yasiyo ya kiserikali nchini humo. Hizi zinaweza kutoa habari zaidi kuhusu kampeni za uelewa wa PrEP kwa wanawake, hasa vijana.","3.36","0.79"
+"""Ningependa kujua, je, kuna mipango yoyote ya elimu au kampeni zinazofanywa nchini Kenya ili kuongeza uelewa kuhusu PrEP miongoni mwa wanawake, hasa vijana kama mimi?""","Samahani, sina taarifa maalum kuhusu mipango ya elimu au kampeni za PrEP nchini Kenya. Tafadhali tembelea tovuti za afya za serikali au mashirika yasiyo ya kiserikali nchini humo. Hizi zinaweza kutoa habari zaidi kuhusu kampeni za uelewa wa PrEP kwa wanawake, hasa vijana.","3.23","0.59"
+"""Ningependa kujua, je, kuna makundi ya msaada au vikundi vya kijamii ambavyo vinaweza kusaidia wanawake vijana kama mimi katika kuelewa matumizi ya PrEP na kupata taarifa zaidi?""","Samahani, sina taarifa maalum kuhusu makundi ya msaada nchini Kenya. Tafadhali angalia tovuti za afya za serikali au mashirika yasiyo ya kiserikali. Hizi zinaweza kutoa habari zaidi kuhusu vikundi vya kijamii na msaada wa kuelewa PrEP kwa wanawake vijana.","3.01","0.51"
+"""Ningependa kujua, je, kuna makundi ya msaada au vikundi vya kijamii ambavyo vinaweza kusaidia wanawake vijana kama mimi katika kuelewa matumizi ya PrEP na kupata taarifa zaidi?""","Samahani, sina taarifa maalum kuhusu makundi ya msaada nchini Kenya. Tafadhali angalia tovuti za afya za serikali au mashirika yasiyo ya kiserikali. Hizi zinaweza kutoa habari zaidi kuhusu vikundi vya kijamii na msaada wa kuelewa PrEP kwa wanawake vijana.","2.95","0.61"
+"""Ningependa kujua, je, kuna mipango yoyote ya elimu au kampeni zinazofanywa nchini Kenya ili kuongeza uelewa kuhusu PrEP miongoni mwa wanawake, hasa vijana kama mimi?""","Samahani, sina taarifa maalum kuhusu mipango ya elimu au kampeni za PrEP nchini Kenya. Tafadhali tembelea tovuti za afya za serikali au mashirika yasiyo ya kiserikali nchini humo. Hizi zinaweza kutoa habari zaidi kuhusu kampeni za uelewa wa PrEP kwa wanawake, hasa vijana.","3.31","0.52"
+"""Ningependa kujua, je, kuna mikakati yoyote ya kitaifa inayotumika nchini Kenya ili kusaidia wanawake vijana kuelewa na kupata PrEP kwa urahisi, na je, kuna ushirikiano wowote kati ya serikali na mashirika yasiyo ya kiserikali katika hili?""","Samahani, sina taarifa maalum kuhusu mikakati ya kitaifa nchini Kenya kuhusu PrEP. Tafadhali tembelea tovuti za afya za serikali au mashirika yasiyo ya kiserikali nchini humo. Hizi zinaweza kutoa habari zaidi kuhusu jinsi wanawake vijana wanaweza kupata PrEP kwa urahisi.","3.38","0.72"

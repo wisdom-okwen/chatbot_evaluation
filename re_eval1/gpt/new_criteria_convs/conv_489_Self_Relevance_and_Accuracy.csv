@@ -1,0 +1,179 @@
+"User_Message","Response","Response_Time","Temperature"
+"""Je, kuna mifano yoyote ya vituo vya afya au mashirika ambayo yanaweza kusaidia wanawake vijana kupata elimu zaidi kuhusu PrEP na jinsi ya kuitumia?""","Ndio, hapa kuna mifano ya vituo vya afya na mashirika yanayoweza kusaidia wanawake vijana kuhusu PrEP:
+
+1. Vituo vya afya vya jamii vinatoa elimu kuhusu PrEP na huduma zinazohusiana.
+2. Mashirika yasiyo ya kiserikali yanaweza kutoa mafunzo na rasilimali za PrEP.
+3. Tovuti za Wizara ya Afya ya Kenya zina habari kuhusu PrEP na msaada.
+
+Zungumza na daktari wako kwa maelezo zaidi na rasilimali zinazopatikana katika eneo lako.","3.52","0.74"
+"Je, kuna mipango yoyote ya uhamasishaji wa jamii kuhusu PrEP ambayo inahusisha wanawake vijana nchini Kenya?","Ndio, kuna mipango kadhaa ya uhamasishaji wa jamii kuhusu PrEP kwa wanawake vijana nchini Kenya. Hapa kuna baadhi:
+
+1. Vituo vya afya vya jamii vinatoa maelezo kuhusu PrEP.
+2. Mashirika yasiyo ya kiserikali hutoa mafunzo na rasilimali za PrEP.
+3. Kampeni za uhamasishaji zinaweza kufanyika shuleni na katika jamii.
+4. Vikundi vya vijana vinaweza kusaidia kueneza habari kuhusu PrEP.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","3.88","0.67"
+"Je, kuna aina yoyote ya msaada wa kifedha au rasilimali zinazopatikana kwa wanawake vijana wanaotaka kutumia PrEP nchini Kenya?","Ndio, kuna msaada wa kifedha na rasilimali kwa wanawake vijana wanaotaka kutumia PrEP nchini Kenya. Hapa kuna baadhi:
+
+1. Mashirika yasiyo ya kiserikali hutoa msaada wa kifedha kwa PrEP.
+2. Programu za serikali zinaweza kusaidia wanawake vijana kupata PrEP bure au kwa bei nafuu.
+3. Vituo vya afya vya jamii vinaweza kutoa taarifa kuhusu msaada wa kifedha.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi kuhusu rasilimali zinazopatikana.","4.33","0.55"
+"Je, kuna njia zozote za kuhamasisha wanawake vijana kuhusu umuhimu wa kufuatilia afya zao wakati wa kutumia PrEP?","Ndio, hapa kuna njia za kuhamasisha wanawake vijana kuhusu umuhimu wa kufuatilia afya zao wakati wa kutumia PrEP:
+
+1. Kuandaa semina za elimu kuhusu PrEP na afya.
+2. Kutoa mafunzo katika vituo vya afya na shule.
+3. Kutumia mitandao ya kijamii kueneza habari.
+4. Kuunda vikundi vya kujadili masuala ya afya.
+5. Kutoa vifaa vya elimu kama broshures na video.
+
+Zungumza na daktari wako au mashirika ya afya kwa maelezo zaidi.","4.2","0.67"
+"Je, kuna njia gani za kusaidia wanawake vijana kujiandikisha na kupata huduma za afya zinazohusiana na PrEP?","Ndio, hapa kuna njia za kusaidia wanawake vijana kujiandikisha na kupata huduma za afya zinazohusiana na PrEP:
+
+1. Kutoa mafunzo katika vituo vya afya na mashirika yasiyo ya kiserikali.
+2. Kuandaa kampeni za uhamasishaji katika shule na jamii.
+3. Kutoa maelezo ya wazi kuhusu PrEP kwenye mitandao ya kijamii.
+4. Kuweka vituo vya msaada wa kifedha kwa wanawake vijana.
+5. Kutoa rasilimali kama broshures na video zinazofafanua jinsi ya kupata PrEP.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","3.87","0.57"
+"Je, kuna mashirika yoyote ambayo yanaweza kusaidia katika kutoa mafunzo au elimu kuhusu matumizi ya PrEP kwa wanawake vijana nchini Kenya?","Ndio, hapa kuna mashirika ambayo yanaweza kusaidia kutoa mafunzo au elimu kuhusu PrEP kwa wanawake vijana nchini Kenya:
+
+1. Mashirika yasiyo ya kiserikali yanatoa mafunzo kuhusu PrEP.
+2. Vituo vya afya vya jamii hupanga semina na warsha za elimu.
+3. Wizara ya Afya inaweza kutoa rasilimali na mafunzo.
+4. Vikundi vya vijana vinaweza kuandaa kampeni za uhamasishaji.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","6.53","0.62"
+"Je, kuna njia zozote za kusaidia kuhamasisha vijana wanawake kuhusu umuhimu wa kufanya vipimo vya afya mara kwa mara wakati wanapotumia PrEP?","Ndio, hapa kuna njia za kusaidia kuhamasisha vijana wanawake kuhusu umuhimu wa kufanya vipimo vya afya mara kwa mara wakati wanapotumia PrEP:
+
+1. Kuandaa semina za elimu kuhusu umuhimu wa vipimo vya afya.
+2. Kutoa mafunzo katika vituo vya afya na shule.
+3. Kutumia mitandao ya kijamii kueneza habari kuhusu vipimo vya afya.
+4. Kuunda vikundi vya kujadili masuala ya afya na PrEP.
+5. Kutoa vifaa vya elimu kama broshures na video zinazofafanua umuhimu wa vipimo.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","5.22","0.51"
+"Je, kuna mifano yoyote ya kampeni za uhamasishaji ambazo zinaweza kusaidia kueneza uelewa kuhusu PrEP kwa wanawake vijana nchini Kenya?","Ndio, hapa kuna mifano ya kampeni za uhamasishaji zinazoweza kusaidia kueneza uelewa kuhusu PrEP kwa wanawake vijana nchini Kenya:
+
+1. Kampeni za elimu kupitia mitandao ya kijamii.
+2. Warsha za afya katika shule na vituo vya vijana.
+3. Matukio ya jamii kama maonyesho na mikutano.
+4. Usambazaji wa vifaa vya elimu kama broshures na video.
+5. Ushirikiano na mashirika yasiyo ya kiserikali yanayofanya kazi na vijana.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","4.5","0.59"
+"Je, kuna njia gani za kusaidia kuhamasisha wanawake vijana kuhusu umuhimu wa kufanya vipimo vya afya mara kwa mara wakati wanapotumia PrEP?","Ndio, hapa kuna njia za kusaidia kuhamasisha wanawake vijana kuhusu umuhimu wa kufanya vipimo vya afya mara kwa mara wakati wanapotumia PrEP:
+
+1. Kuandaa semina za elimu kuhusu umuhimu wa vipimo vya afya.
+2. Kutoa mafunzo katika vituo vya afya na shule.
+3. Kutumia mitandao ya kijamii kueneza habari kuhusu vipimo vya afya.
+4. Kuunda vikundi vya kujadili masuala ya afya na PrEP.
+5. Kutoa vifaa vya elimu kama broshures na video zinazofafanua umuhimu wa vipimo.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","6.27","0.54"
+"Je, kuna mifano ya hadithi za mafanikio kutoka kwa wanawake vijana ambao wameitumia PrEP na jinsi ilivyowasaidia katika kujikinga na HIV?","Ndio, hapa kuna mifano ya hadithi za mafanikio kutoka kwa wanawake vijana wanaotumia PrEP:
+
+1. Mwanafunzi mmoja alitumia PrEP na akasema ilikuwa njia bora ya kujihifadhi.
+2. Mwanamke mwingine alielezea jinsi PrEP ilimsaidia kujiamini zaidi katika mahusiano yake.
+3. Mtu mmoja aligundua kuwa alikuwa salama na akapata uhusiano mzuri na mpenzi wake.
+4. Wanawake wengine walitumia PrEP na wakaweza kujihusisha na shughuli za kijamii bila wasiwasi wa HIV.
+
+Hadithi hizi zinaonyesha jinsi PrEP inavyoweza kusaidia wanawake vijana kujilinda na HIV. Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","4.31","0.91"
+"Je, kuna mifano ya vituo vya afya au mashirika ambayo yanaweza kusaidia wanawake vijana kupata elimu zaidi kuhusu PrEP na jinsi ya kuitumia?","Ndio, hapa kuna mifano ya vituo vya afya na mashirika yanayoweza kusaidia wanawake vijana kupata elimu kuhusu PrEP:
+
+1. Vituo vya afya vya jamii vinavyotoa huduma za afya ya uzazi.
+2. Mashirika yasiyo ya kiserikali yanayofanya kazi na vijana kwenye masuala ya afya.
+3. Kliniki za HIV na STI zinazotoa maelezo kuhusu PrEP.
+4. Shule na vyuo ambavyo vinaweza kuwa na programu za elimu ya afya.
+5. Mitandao ya kijamii inayohusisha mashirika ya afya kutoa habari.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","4.0","0.72"
+"Je, kuna mipango yoyote ya utafiti au tathmini kuhusu jinsi PrEP inavyoweza kusaidia wanawake vijana nchini Kenya?","Samahani, sina taarifa za hivi karibuni kuhusu mipango ya utafiti au tathmini ya PrEP nchini Kenya. Tafadhali angazia vituo vya afya au mashirika yanayohusika na afya ya uzazi nchini Kenya kwa habari zaidi. Zungumza na daktari wako au mtaalamu wa afya kwa maelezo zaidi.","3.58","0.7"
+"Je, kuna njia zozote za kusaidia wanawake vijana kuelewa vizuri kuhusu madhara yanayoweza kutokea wakati wa kutumia PrEP?","Ndio, hapa kuna njia za kusaidia wanawake vijana kuelewa madhara ya PrEP:
+
+1. Kuandaa semina za elimu kuhusu madhara ya PrEP.
+2. Kupata vipeperushi vyenye taarifa za madhara ya PrEP.
+3. Kutoa mafunzo katika vituo vya afya.
+4. Kutumia mitandao ya kijamii kueneza habari kuhusu madhara.
+5. Kuunda vikundi vya kujadili masuala ya afya na PrEP.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","4.34","0.56"
+"Je, kuna hatua gani ambazo zinaweza kuchukuliwa ili kuhakikisha kwamba wanawake vijana wanapata msaada wa kijamii na kiakili wanapotumia PrEP?","Ndio, hapa kuna hatua ambazo zinaweza kuchukuliwa:
+
+1. Kuunda vikundi vya msaada kwa wanawake vijana wanaotumia PrEP.
+2. Kutoa mafunzo kwa wafanyakazi wa afya kuhusu mahitaji ya kiakili ya wanawake.
+3. Kutoa habari kuhusu huduma za afya ya akili na msaada wa kijamii.
+4. Kuandaa kampeni za uhamasishaji kuhusu umuhimu wa msaada wa kiakili.
+5. Kutoa fursa za kuzungumza na wataalamu wa afya kuhusu changamoto wanazokutana nazo.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","4.32","0.93"
+"Je, kuna njia maalum za kusaidia wanawake vijana kupata msaada wa afya ya akili wanapokuwa kwenye matumizi ya PrEP?","Ndio, hapa kuna njia maalum za kusaidia wanawake vijana kupata msaada wa afya ya akili wanapokuwa kwenye matumizi ya PrEP:
+
+1. Kuunda vikundi vya msaada kwa wanawake vijana wanaotumia PrEP.
+2. Kutoa mafunzo kwa wafanyakazi wa afya kuhusu mahitaji ya kiakili ya wanawake.
+3. Kutoa habari kuhusu huduma za afya ya akili na msaada wa kijamii.
+4. Kuandaa kampeni za uhamasishaji kuhusu umuhimu wa msaada wa kiakili.
+5. Kutoa fursa za kuzungumza na wataalamu wa afya kuhusu changamoto wanazokutana nazo.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","4.51","0.82"
+"Je, kuna huduma au mipango yoyote ya msaada wa kijamii inayopatikana kwa wanawake vijana wanaotumia PrEP nchini Kenya?","Samahani, sina taarifa za hivi karibuni kuhusu huduma au mipango ya msaada wa kijamii kwa wanawake vijana wanaotumia PrEP nchini Kenya. Tafadhali angazia vituo vya afya au mashirika yanayohusika na afya ya uzazi nchini Kenya kwa habari zaidi. Zungumza na daktari wako au mtaalamu wa afya kwa maelezo zaidi.","3.7","0.7"
+"Je, kuna njia zozote za kuwasaidia wanawake vijana kujiamini wakati wanapokuwa wakitumia PrEP na katika mazungumzo yao kuhusu afya na kinga dhidi ya HIV?","Ndio, hapa kuna njia za kuwasaidia wanawake vijana kujiamini wanapokuwa wakitumia PrEP na katika mazungumzo yao kuhusu afya:
+
+1. Kuandaa mafunzo juu ya PrEP na HIV.
+2. Kuunda vikundi vya kujadili afya na kinga.
+3. Kutoa rasilimali za elimu kuhusu PrEP na HIV.
+4. Kuwa na wanajamii wa afya kama mfano mzuri.
+5. Kutoa msaada wa kihisia na ushauri.
+
+Zungumza na daktari wako au kituo cha afya kwa maelezo zaidi.","9.36","0.84"
+"Je, kuna taarifa zozote za hivi karibuni kuhusu utafiti wa PrEP miongoni mwa wanawake vijana nchini Kenya?","Samahani, sina taarifa za hivi karibuni kuhusu utafiti wa PrEP miongoni mwa wanawake vijana nchini Kenya. Tafadhali angazia vituo vya afya au mashirika yanayohusika na afya ya uzazi nchini Kenya kwa habari zaidi. Zungumza na daktari wako au mtaalamu wa afya kwa maelezo zaidi.","5.76","0.74"
+"Je, ni ushauri gani unaoweza kumpatia mwanamke kijana anayekabiliwa na changamoto za kijamii na kiakili wakati wa kutumia PrEP?","Ni sawa kuhisi changamoto za kijamii na kiakili wakati wa kutumia PrEP. Hapa kuna baadhi ya ushauri:
+
+1. Zungumza na mtaalamu wa afya kuhusu hisia zako.
+2. Jiunge na kikundi cha msaada kwa wanawake wengine wanaotumia PrEP.
+3. Tafuta maelezo kuhusu rasilimali za afya ya akili.
+4. Fanya mazoezi ya kujijenga na kujifunza kuhusu PrEP na HIV.
+5. Jitahidi kuzungumza wazi na marafiki au familia kuhusu hali yako.
+
+Kumbuka, ni muhimu kutafuta msaada unapohitaji.","4.11","0.94"
+"Je, kuna njia gani za kusaidia wanawake vijana kujiandaa vizuri kabla ya kuanza kutumia PrEP, hasa kuhusu elimu na rasilimali zinazopatikana?","Hapa kuna njia za kusaidia wanawake vijana kujiandaa vizuri kabla ya kuanza kutumia PrEP:
+
+1. Kutoa mafunzo kuhusu PrEP na jinsi inavyofanya kazi.
+2. Kuandaa mikutano ya kujadili maswali na wasiwasi kuhusu PrEP.
+3. Kutoa rasilimali za elimu kama vipeperushi au tovuti za kuaminika.
+4. Kuwa na washauri wa afya kusaidia katika maamuzi.
+5. Kuonyesha vidokezo vya jinsi ya kutumia PrEP kwa usahihi.
+
+Zungumza na daktari au mtaalamu wa afya kwa maelezo zaidi.","3.9","0.52"
+"Je, kuna vidokezo vyovyote vinavyoweza kusaidia wanawake vijana kujenga uhusiano mzuri na watumiaji wengine wa PrEP ili kushiriki uzoefu na kuimarisha msaada wa kijamii?","Hapa kuna vidokezo kusaidia wanawake vijana kujenga uhusiano mzuri na watumiaji wengine wa PrEP:
+
+1. Kuunda vikundi vya kujadili na kushiriki uzoefu.
+2. Kushiriki mafunzo na rasilimali kuhusu PrEP na HIV.
+3. Kuandaa matukio ya kijamii kama mikutano au semina.
+4. Kutoa nafasi za kuzungumza kuhusu changamoto na mafanikio.
+5. Kusaidia kila mmoja katika masuala ya kihisia na kisaikolojia.
+
+Zungumza na wataalamu wa afya kwa maelezo zaidi.","4.01","0.91"
+"Je, kuna mipango yoyote ya elimu katika shule au vyuo vikuu kuhusu PrEP na umuhimu wa kujikinga na HIV miongoni mwa wanawake vijana?","Samahani, sina taarifa za hivi karibuni kuhusu mipango ya elimu ya PrEP katika shule au vyuo vikuu. Tafadhali angazia taasisi za elimu au mashirika ya afya nchini Kenya kwa habari zaidi. Zungumza na daktari au mtaalamu wa afya kwa maelezo zaidi.","3.02","0.84"
+"Je, kuna njia zozote za kukuza uelewa kuhusu faida za PrEP miongoni mwa wanawake vijana kupitia mitandao ya kijamii?","Hapa kuna njia za kukuza uelewa kuhusu faida za PrEP miongoni mwa wanawake vijana kupitia mitandao ya kijamii:
+
+1. Kuunda maudhui ya kuvutia kuhusu PrEP na HIV.
+2. Kushiriki hadithi za watu waliofanikiwa kutumia PrEP.
+3. Kuandaa kampeni za uhamasishaji kwenye mitandao ya kijamii.
+4. Kutumia video na picha za kuelezea jinsi PrEP inavyofanya kazi.
+5. Kuitisha mijadala au maswali kwenye mitandao ya kijamii.
+
+Zingatia kushirikisha wataalamu wa afya ili kutoa taarifa sahihi.","5.66","1.0"
+"Je, kuna mipango yoyote ya ushirikiano kati ya mashirika ya afya na jamii ili kuhamasisha matumizi ya PrEP miongoni mwa wanawake vijana nchini Kenya?","Samahani, sina maelezo ya hivi karibuni kuhusu mipango ya ushirikiano nchini Kenya. Tafadhali angazia mashirika ya afya au taasisi za jamii nchini Kenya kwa habari zaidi. Zungumza na daktari au mtaalamu wa afya kwa maelezo zaidi.","4.49","0.51"
+"Je, kuna njia yoyote za kusaidia wanawake vijana kuelewa mchakato wa kupima HIV na umuhimu wa kupima kabla ya kuanza kutumia PrEP?","Hapa kuna njia za kusaidia wanawake vijana kuelewa mchakato wa kupima HIV:
+
+1. Kuandaa warsha za elimu kuhusu HIV na upimaji.
+2. Kushiriki taarifa za kijamii kuhusu umuhimu wa kupimwa HIV.
+3. Kutoa maelezo ya wazi kuhusu jinsi upimaji unavyofanyika.
+4. Kuwa na wakala wa afya wanaoweza kujibu maswali.
+5. Kuunda vifaa vya elimu kama vipeperushi au video.
+
+Kujifunza kuhusu HIV ni hatua muhimu kabla ya kutumia PrEP.","3.99","0.65"

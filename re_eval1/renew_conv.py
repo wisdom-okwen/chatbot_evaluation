@@ -126,6 +126,50 @@ def llama_summalyzer(conv, ratings):
     except Exception as e:
         return f"GPT experienced an internal error: {e}"
     
+def gpt_summalyzer(conv: str, rating: float, criterion: str) -> str:
+    """
+    Gets a single‐paragraph feedback summary for one criterion.
+    """
+    user_prompt = (
+        f"Conversation:\n{conv}\n\n"
+        f"Criterion: {criterion}\n"
+        f"Rating: {rating}\n\n"
+        "Please provide a single‑paragraph summary analysis focusing on this criterion."
+    )
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user",   "content": user_prompt}
+    ]
+    resp = gpt_client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=messages,
+        max_tokens=400,
+        temperature=0.65
+    )
+    return resp.choices[0].message.content.strip()
+
+
+def llama_summalyzer(conv: str, rating: float, criterion: str) -> str:
+    """
+    Gets a single‐paragraph feedback summary for one criterion using Llama.
+    """
+    user_prompt = (
+        f"Conversation:\n{conv}\n\n"
+        f"Criterion: {criterion}\n"
+        f"Rating: {rating}\n\n"
+        "Please provide a single‑paragraph summary analysis focusing on this criterion."
+    )
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user",   "content": user_prompt}
+    ]
+    resp = llama_client.chat.completions.create(
+        model=model_name,
+        messages=messages,
+        max_tokens=400,
+        temperature=0.65
+    )
+    return resp.choices[0].message.content.strip()
 
 def generate_new_convs():
     df_ratings = pd.read_csv(GPT_OVERALL_RATINGS)
@@ -201,54 +245,69 @@ def generate_new_convs():
 
 
 def generate_criteria_convs():
+    """
+    For each persona and criterion, simulate new trajectories
+    for conversations that scored below the percentile threshold,
+    logging all outputs into a single directory.
+    """
+    # 1) get low-rated conversation IDs per persona/criterion
     low_dict = get_low_criteria_rating_ids()
+
+    # 2) load each persona's DataFrame
     persona_paths = {
-        "User":     os.path.join(GPT_CRITERIA_RATINGS, "user_ratings.csv"),
-        "Observer": os.path.join(GPT_CRITERIA_RATINGS, "observer_ratings.csv"),
-        "Self":     os.path.join(GPT_CRITERIA_RATINGS, "self_ratings.csv"),
+        "User":     os.path.join(GPT_CRITERIA_RATINGS, "user.csv"),
+        "Observer": os.path.join(GPT_CRITERIA_RATINGS, "observer.csv"),
+        "Self":     os.path.join(GPT_CRITERIA_RATINGS, "self.csv"),
     }
     persona_dfs = {p: pd.read_csv(path) for p, path in persona_paths.items()}
 
+    # 3) ensure single output directory exists
+    os.makedirs(GPT_CRITERIA_CONVO_DIR, exist_ok=True)
+
+    # 4) iterate personas and criteria
     for persona, crit_map in low_dict.items():
         df_persona = persona_dfs[persona]
         for criterion, conv_ids in crit_map.items():
             if not conv_ids:
                 continue
 
-            out_dir = os.path.join(GPT_CRITERIA_CONVO_DIR, persona, criterion)
-            os.makedirs(out_dir, exist_ok=True)
-
             for conv_id in conv_ids:
+                # lookup rating
                 row = df_persona[df_persona["Conversation_Id"] == conv_id]
                 if row.empty:
-                    print(f"[WARN] {persona}/{criterion}: no data for ID={conv_id}")
+                    print(f"[WARN⚠️] {persona}/{criterion}: no data for ID={conv_id}")
                     continue
                 rating_value = row.iloc[0][criterion]
 
                 # read original conversation
                 conv_path = os.path.join(PREV_CONV_DIR, f"trajectory{conv_id}.csv")
                 if not os.path.exists(conv_path):
-                    print(f"[WARN] Missing {conv_path}")
+                    print(f"[WARN⚠️] Missing {conv_path}")
                     continue
                 conv_text = open(conv_path, encoding="utf8").read().strip()
 
+                # generate feedback summaries
                 try:
-                    gpt_sum   = gpt_summalyzer(conv_text, rating_value, criterion)
+                    gpt_sum = gpt_summalyzer(conv_text, rating_value, criterion)
                     llama_sum = llama_summalyzer(conv_text, rating_value, criterion)
                 except Exception as e:
-                    print(f"[ERROR] Summaries failed {persona}/{criterion}/{conv_id}: {e}")
+                    print(f"[ERROR❌] Summaries failed {persona}/{criterion}/{conv_id}: {e}")
                     continue
 
+                # load base prompt
                 prompt_path = os.path.join(PROMPT_DIR, f"prompt{conv_id}.txt")
                 if not os.path.exists(prompt_path):
-                    print(f"[WARN] Missing prompt {prompt_path}")
+                    print(f"[WARN⚠️] Missing prompt {prompt_path}")
                     continue
                 base_prompt = open(prompt_path, encoding="utf8").read().strip()
 
-                convo_csv = os.path.join(out_dir, f"conv_{conv_id}.csv")
+                # prepare CSV path in single directory
+                file_name = f"conv_{conv_id}_{persona}_{criterion}.csv"
+                convo_csv = os.path.join(GPT_CRITERIA_CONVO_DIR, file_name)
                 initialize_convo_csv(convo_csv)
 
                 history = []
+                # simulate conversation turns
                 for _ in range(NUM_QUERIES):
                     temp = round(random.uniform(0.5, 1.0), 2)
                     hist_text = "\n".join(
@@ -263,22 +322,23 @@ def generate_criteria_convs():
                         + "\n\n### Llama Feedback for “" + criterion + "”:\n" + llama_sum
                     )
 
-                    user_q = seeker(combined, hist_text, temp)
-
+                    seeker_query = seeker(combined, hist_text, temp)
                     start = datetime.now()
                     try:
-                        bot_r = get_gpt_response(user_q)
+                        bot_r = get_gpt_response(seeker_query)
                     except Exception as e:
-                        bot_r = f"[ERROR] {e}"
+                        bot_r = f"[ERROR❌] {e}"
                     rt = (datetime.now() - start).total_seconds()
 
-                    history.append({"user": user_q, "chatbot": bot_r})
+                    history.append({"user": seeker_query, "chatbot": bot_r})
 
-                    with open(convo_csv, "a", newline="", encoding="utf8") as f:
+                    # append to CSV
+                    with open(convo_csv, mode="a", newline="", encoding="utf8") as f:
                         writer = csv.writer(f, quoting=csv.QUOTE_ALL)
-                        writer.writerow([user_q, bot_r, round(rt,2), temp])
+                        writer.writerow([seeker_query, bot_r, round(rt,2), temp])
 
-                print(f"[OK] {persona}/{criterion}: trajectories for conv {conv_id}")
+                print(f"[OK✅] Generated trajectories for conv {conv_id} ({persona}/{criterion})")
+
 
 def generate_new_overall_ratings():
     pass
@@ -294,7 +354,7 @@ def generate_self_criteria_ratings():
 
 
 if __name__ == '__main__':
-    generate_new_convs()
+    generate_criteria_convs()
 
 
 # Overall - [21, 22, 23, 24, 25, 26, 27, 37, 66, 91, 115, 133, 142, 145, 149, 150, 151, 183, 233, 243, 305, 381, 383, 385, 399, 487, 489, 495, 499, 501, 502, 503, 504]

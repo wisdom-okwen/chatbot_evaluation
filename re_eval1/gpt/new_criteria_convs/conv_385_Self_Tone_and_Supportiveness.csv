@@ -1,0 +1,218 @@
+"User_Message","Response","Response_Time","Temperature"
+"Je, ni vipi naweza kufuatilia afya yangu wakati wa kutumia PrEP ili kuhakikisha nipo salama?","Ili kufuatilia afya yako wakati wa kutumia PrEP, unaweza kufanya yafuatayo:
+
+1. **Tembelea daktari wako**: Fanya hivyo kila baada ya miezi mitatu.
+2. **Pima HIV**: Hakikisha unapata vipimo vya HIV mara kwa mara.
+3. **Kagua afya ya figo**: Daktari wako atafanya vipimo vya figo kwa usalama wako.
+4. **Ripoti dalili**: Ikiwa una dalili kama maumivu ya tumbo au mabadiliko ya mkojo, sema kwa daktari.
+5. **Fuatilia hisia zako**: Zungumza na mtaalamu wa afya kuhusu wasiwasi wowote wa kiakili. 
+
+Hii itasaidia kuhakikisha unatumia PrEP salama na kwa ufanisi.","4.44","0.65"
+"""Je, ni aina gani za msaada au ushauri wa kihisia zinazopatikana kwa watu wanaotumia PrEP nchini Kenya?""","Nchini Kenya, aina mbalimbali za msaada wa kihisia zinapatikana kwa watu wanaotumia PrEP:
+
+1. **Madaktari wa familia**: Wanatoa ushauri wa afya ya akili.
+2. **Kliniki za afya ya ngono**: Mara nyingi hutoa huduma za ushauri na msaada.
+3. **Psychologists**: Wanaweza kusaidia watu kuhudumia wasiwasi na matatizo yanayohusiana na PrEP.
+4. **Makundi ya msaada**: Hizi zinatoa nafasi ya kushiriki uzoefu na kupata usaidizi kutoka kwa wengine.
+
+Ni muhimu kutafuta msaada unaofaa kwako.","4.26","0.91"
+"""Je, kuna vyanzo vyovyote vya mtandaoni ambapo naweza kupata taarifa zaidi kuhusu uzoefu wa wengine na PrEP?""","Ndio, kuna vyanzo vingi vya mtandaoni ambapo unaweza kupata taarifa kuhusu uzoefu wa wengine na PrEP. Hapa kuna baadhi yao:
+
+1. **Forums za afya ya ngono**: Tovuti kama Reddit au HealthUnlocked zina makundi ya kujadili PrEP.
+2. **Tovuti za mashirika**: Tovuti kama CDC au WHO zina habari za kina kuhusu PrEP.
+3. **Blogu za kibinafsi**: Watu wengi hushiriki uzoefu wao wa PrEP kwenye blogu zao.
+4. **Mitandao ya kijamii**: Facebook na Twitter wana makundi ya kujadili PrEP. 
+
+Hakikisha unafuata vyanzo sahihi na vya kuaminika.","5.44","0.89"
+"""Je, kuna tofauti gani kati ya PrEP na PEP, na ni ipi inashauriwa kwa hali tofauti?""","PrEP na PEP ni njia mbili tofauti za kuzuia HIV.
+
+PrEP (Pre-Exposure Prophylaxis):
+1. Ni dawa ya kila siku au sindano ya kila miezi miwili.
+2. Inafaa kwa watu wasio na HIV wanaokabiliwa na hatari ya kupata virusi.
+3. Inahitaji kuanza kabla ya kuwa na hatari ya kuambukizwa.
+
+PEP (Post-Exposure Prophylaxis):
+1. Ni dawa inachukuliwa ndani ya masaa 72 baada ya kuathirika.
+2. Inafaa kwa watu walio katika hatari baada ya kuwasiliana na HIV, kama vile baada ya unprotected sex au kuambukizwa na sindano.
+3. Inapaswa kutumika kwa muda wa siku 28.
+
+Zungumza na daktari wako ili kujua ipi njia ni bora kwako kulingana na hali yako.","4.93","0.73"
+"Je, kuna makundi ya msaada au vikundi vya kujadili mambo yanayohusiana na PrEP nchini Kenya ambavyo naweza kujiunga?","Ndio, kuna makundi kadhaa ya msaada kuhusu PrEP nchini Kenya. Hapa kuna baadhi yao:
+
+1. **Makundi ya mitandao ya kijamii**: Kichwa kama Facebook yana makundi ya kujadili PrEP.
+2. **Kliniki za afya ya ngono**: Mara nyingi hutoa vikundi vya msaada na matukio ya kujadili.
+3. **Mashirika ya afya**: Mashirika kama KELIN na LVCT Health yanaweza kuwa na makundi ya msaada.
+
+Ni vyema kuwasiliana na kliniki au mashirika haya ili kupata maelezo zaidi kuhusu makundi ya msaada.","3.72","0.97"
+"""Je, kuna makundi mengine ya kusaidia au vyanzo vya mtandaoni ambavyo vinaweza kutoa msaada wa kihisia kwa watu wanaotumia PrEP?""","Ndio, hapa kuna makundi na vyanzo vinavyoweza kusaidia:
+
+1. **Makundi ya Facebook**: Kuna makundi yanayojadili PrEP na msaada wa kihisia.
+2. **Tovuti za afya ya ngono**: Tovuti kama HealthUnlocked zina majadiliano na msaada.
+3. **Blogu za kibinafsi**: Watu wanashiriki uzoefu wao na PrEP.
+4. **Mitandao ya kijamii**: Twitter na Reddit zina vikundi vya kujadili PrEP.
+
+Hakikisha unafuata vyanzo sahihi na vya kuaminika.","3.74","0.61"
+"""Je, kuna aina gani za maswali ambayo ningeweza kuuliza daktari wangu kuhusu PrEP kabla ya kuanza matumizi?""","Ndio, hapa kuna maswali kadhaa unayoweza kuuliza daktari wako kuhusu PrEP:
+
+1. Je, PrEP inafaa kwangu?
+2. Ni aina gani za PrEP zinaweza kupatikana?
+3. Ni faida na hatari gani za kutumia PrEP?
+4. Je, kuna madhara yoyote ya kawaida ya PrEP?
+5. Ni mara ngapi ni lazima nifanye vipimo vya HIV wakati wa kutumia PrEP?
+6. Je, PrEP inafanya kazi vipi?
+7. Ni gharama gani ya kutumia PrEP?
+8. Naweza kupata PrEP wapi na ni lazima nipate agizo la daktari?
+
+Haya maswali yatakusaidia kufahamu vizuri kuhusu PrEP kabla ya kuanza matumizi.","3.9","0.93"
+"""Je, ni aina gani za PrEP zinazopatikana nchini Kenya na je, kuna tofauti kati ya hizo?""","Nchini Kenya, kuna aina mbili za PrEP:
+
+1. **PrEP ya Kila Siku (Truvada)**: Hii ni kidonge kinachochukuliwa kila siku. Inafaa kwa watu wasio na HIV wanaokabiliwa na hatari ya kupata virusi.
+
+2. **PrEP ya Sindano (CAB-LA)**: Hii ni sindano inayopigwa kila miezi miwili. Ni chaguo bora kwa wale wasiopenda kuchukua vidonge kila siku.
+
+Tofauti kuu ni jinsi zinavyotumiwa. Kidonge kinachohitaji kuchukuliwa kila siku, wakati sindano inaruhusu ulinzi bila haja ya kuchukua vidonge kila siku. Zungumza na daktari wako ili kujua ipi ni bora kwako.","4.6","0.86"
+"""Je, ni faida gani za kutumia PrEP ambazo ni muhimu kujua?""","Hapa kuna faida muhimu za kutumia PrEP:
+
+1. Inasaidia kuzuia maambukizi ya HIV kwa asilimia 99 wakati inachukuliwa kila siku.
+2. Inapatikana kama kidonge cha kila siku au sindano kila miezi miwili.
+3. Inaweza kusaidia kupunguza wasiwasi kuhusu HIV wakati wa tendo la ngono.
+4. Inasaidia watu ambao hawawezi kutumia njia nyingine za ulinzi.
+5. Inaweza kupatikana kwa urahisi kupitia kliniki na vifaa vya afya.
+
+Zungumza na daktari wako kuhusu faida hizi na jinsi PrEP inavyoweza kukufaa.","4.74","0.95"
+"""Je, ni aina gani za PrEP zinazopatikana nchini Kenya na je, kuna tofauti kati ya hizo?""","Nchini Kenya, kuna aina mbili za PrEP:
+
+1. **PrEP ya Kila Siku (Truvada)**: Hii ni kidonge kinachochukuliwa kila siku. 
+
+2. **PrEP ya Sindano (CAB-LA)**: Hii ni sindano inayopigwa kila miezi miwili. 
+
+Tofauti kuu ni jinsi zinavyotumiwa. Kidonge kinahitaji kuchukuliwa kila siku, wakati sindano inaruhusu ulinzi bila haja ya kuchukua vidonge kila siku. Zungumza na daktari wako ili kujua ipi ni bora kwako.","4.28","0.83"
+"""Je, kuna maswali mengine ambayo ni muhimu kuuliza daktari wangu kuhusu PrEP kabla ya kuanza matumizi?""","Ndio, hapa kuna maswali mengine muhimu unaweza kuuliza daktari wako kuhusu PrEP:
+
+1. Je, kuna madhara makubwa ya PrEP ambayo ninapaswa kujua?
+2. Je, PrEP inafaa kwa watu wenye hali nyingine za kiafya?
+3. Ni vigezo gani vinatumika kujua kama PrEP inafaa kwangu?
+4. Je, nitahitaji kufanya vipimo vingine wakati wa kutumia PrEP?
+5. Ni njia gani bora za kukumbuka kuchukua PrEP kila siku?
+
+Haya maswali yatakusaidia kuelewa vizuri kuhusu PrEP kabla ya kuanza matumizi.","4.5","0.77"
+"""Je, kuna aina nyingine za kinga dhidi ya HIV ambazo zinaweza kutumiwa pamoja na PrEP?""","Ndio, kuna njia nyingine za kinga dhidi ya HIV ambazo unaweza kutumia pamoja na PrEP:
+
+1. **Konzi za Kiume (External Condoms)**: Hizi hutumiwa juu ya uume wakati wa ngono. Zinatoa kinga dhidi ya HIV na magonjwa mengine ya zinaa.
+
+2. **Konzi za Kike (Internal Condoms)**: Hizi ni pouches za plastiki zinazowekwa ndani ya uke wakati wa ngono. Zinatoa kinga kama konzi za kiume.
+
+3. **Kujiepusha na ngono isiyo salama**: Kuepuka ngono bila kinga inaweza kusaidia kupunguza uwezekano wa maambukizi.
+
+Kuzitumia pamoja na PrEP kunaweza kuongeza ulinzi wako dhidi ya HIV. Zungumza na daktari wako ili kupata maelezo zaidi.","4.92","0.8"
+"""Je, ni vipi naweza kufuatilia afya yangu wakati wa kutumia PrEP ili kuhakikisha nipo salama?""","Ili kufuatilia afya yako wakati wa kutumia PrEP, unaweza kufanya yafuatayo:
+
+1. Tembelea daktari wako kila miezi mitatu kwa vipimo vya HIV na afya.
+2. Fuata maagizo ya daktari kuhusu jinsi ya kuchukua PrEP.
+3. Jitahidi kufuata ratiba yako ya kuchukua vidonge kila siku au sindano kila miezi miwili.
+4. Kumbuka kushiriki kuhusu mabadiliko yoyote ya afya au madhara unayopata.
+5. Fanya vipimo vya magonjwa mengine ya zinaa kama ilivyoagizwa.
+
+Hii itasaidia kuhakikisha uko salama unapotumia PrEP.","3.82","0.59"
+"""Je, ni vipi naweza kuzingatia ushirikiano wa wapenzi wangu kuhusu matumizi ya PrEP?""","Ili kuzingatia ushirikiano wa wapenzi wako kuhusu matumizi ya PrEP, unaweza kufanya yafuatayo:
+
+1. Zungumza waziwazi kuhusu umuhimu wa PrEP na jinsi inavyofanya kazi.
+2. Eleza jinsi unavyohisi kuhusu afya yenu ya pamoja.
+3. Pata wakati mzuri wa kuzungumza bila dharura.
+4. Sikiliza maoni na maswali yao kuhusu PrEP.
+5. Jenga uhusiano wa kuaminiana ili wawe na faraja katika kuzungumza kuhusu mada hii.
+
+Hii itasaidia kuimarisha ushirikiano katika matumizi ya PrEP.","4.16","0.96"
+"""Je, PrEP inaweza kubadilisha jinsi ya kuishi maisha yangu ya kila siku, hasa katika mahusiano yangu na afya yangu ya akili?""","Ni sawa kabisa kufikiria jinsi PrEP inaweza kuathiri maisha yako ya kila siku. 
+
+1. PrEP inaweza kukupa hisia ya usalama zaidi kuhusu kupata HIV. 
+2. Inaweza kusaidia wewe na wapenzi wako kuzungumza kwa uwazi kuhusu afya yenu. 
+3. Watu wengi wanafurahia kuwa na udhibiti zaidi juu ya kinga yao. 
+
+Hata hivyo, inaweza pia kuleta wasiwasi au shinikizo kuhusu kukumbuka kuchukua vidonge kila siku. 
+
+Kuhusiana na afya yako ya akili, ni muhimu kuzungumza na mtaalamu wa afya kuhusu hisia zako. 
+
+Watu wengi wanapata msaada kutoka kwa wataalamu wa afya wa akili kuzungumzia masuala haya. Kumbuka, ni sawa kutafuta msaada unapohitaji.","4.39","0.93"
+"""Je, ni aina gani za msaada au ushauri wa kihisia zinazopatikana kwa watu wanaotumia PrEP nchini Kenya?""","Katika Kenya, watu wanaotumia PrEP wanaweza kupata msaada wa kihisia kupitia njia hizi:
+
+1. **Vituo vya afya**: Vituo vya afya mara nyingi hutoa ushauri na msaada wa kihisia.
+2. **Mafanikio ya kundi**: Kundi la msaada linaweza kusaidia watu kushiriki uzoefu wao na kusaidiana.
+3. **Mtaalamu wa afya ya akili**: Wataalamu wanaweza kusaidia kutoa ushauri na msaada binafsi.
+4. **Mikakati ya jamii**: Mashirika ya afya yanaweza kutoa huduma za msaada na elimu kuhusu PrEP.
+
+Ni muhimu kuzungumza na daktari wako au kituo cha afya ili kupata rasilimali zinazofaa.","6.25","0.6"
+"""Je, ni vipi naweza kuzingatia ushirikiano wa wapenzi wangu kuhusu matumizi ya PrEP?""","Ili kuzingatia ushirikiano wa wapenzi wako kuhusu matumizi ya PrEP, unaweza kufanya yafuatayo:
+
+1. Zungumza waziwazi kuhusu umuhimu wa PrEP na jinsi inavyofanya kazi.
+2. Eleza jinsi unavyohisi kuhusu afya yenu ya pamoja.
+3. Pata wakati mzuri wa kuzungumza bila dharura.
+4. Sikiliza maoni na maswali yao kuhusu PrEP.
+5. Jenga uhusiano wa kuaminiana ili wawe na faraja katika kuzungumza kuhusu mada hii.
+
+Hii itasaidia kuimarisha ushirikiano katika matumizi ya PrEP.","5.27","0.7"
+"""Je, kuna mashirika yoyote ya afya nchini Kenya ambayo yanaweza kunisaidia kwa maelezo zaidi kuhusu PrEP na huduma zinazohusiana?""","Ndio, kuna mashirika kadhaa nchini Kenya ambayo yanaweza kusaidia:
+
+1. **NASCOP** (National AIDS and STI Control Programme): Hutoa taarifa kuhusu PrEP na huduma za HIV.
+2. **Kenya Medical Research Institute (KEMRI)**: Inafanya utafiti kuhusu HIV na inatoa huduma za afya.
+3. **MSF (Médecins Sans Frontières)**: Inatoa huduma za afya na ushauri kuhusu HIV na PrEP.
+4. **KEMSA** (Kenya Medical Supplies Authority): Hutoa vifaa na huduma za afya kwa vituo vya afya.
+5. **Vituo vya afya vya jamii**: Mara nyingi vinatoa huduma za ushauri na maelezo kuhusu PrEP.
+
+Ni bora kuwasiliana na vituo hivi kwa maelezo zaidi.","6.02","0.94"
+"""Je, kuna njia nyingine za kuweza kupata taarifa zaidi kuhusu PrEP na huduma zinazohusiana nchini Kenya?""","Ndio, kuna njia mbalimbali za kupata taarifa zaidi kuhusu PrEP nchini Kenya:
+
+1. **Tovuti ya NASCOP**: Hutoa taarifa kuhusu PrEP na huduma za HIV.
+2. **Kituo cha Afya**: Tembelea kituo cha afya cha karibu kwa ushauri.
+3. **Mafanikio ya Kundi**: Jiunge na kundi la msaada kwa watu wanaotumia PrEP.
+4. **Mtaalamu wa Afya**: Zungumza na daktari au muuguzi kwa maelezo zaidi.
+5. **Mashirika ya Afya**: Tafuta mashirika kama MSF au KEMRI kwa huduma za afya.
+
+Hizi ni njia nzuri za kupata msaada na taarifa.","5.13","0.61"
+"""Je, kuna mashirika yoyote ya afya nchini Kenya ambayo yanaweza kunisaidia kwa maelezo zaidi kuhusu PrEP na huduma zinazohusiana?""","Ndio, kuna mashirika kadhaa nchini Kenya ambayo yanaweza kusaidia:
+
+1. **NASCOP** (National AIDS and STI Control Programme): Hutoa taarifa kuhusu PrEP na huduma za HIV.
+2. **Kenya Medical Research Institute (KEMRI)**: Inafanya utafiti kuhusu HIV na inatoa huduma za afya.
+3. **MSF (Médecins Sans Frontières)**: Inatoa huduma za afya na ushauri kuhusu HIV na PrEP.
+4. **KEMSA** (Kenya Medical Supplies Authority): Hutoa vifaa na huduma za afya kwa vituo vya afya.
+5. **Vituo vya afya vya jamii**: Mara nyingi vinatoa huduma za ushauri na maelezo kuhusu PrEP.
+
+Ni bora kuwasiliana na vituo hivi kwa maelezo zaidi.","5.16","0.72"
+"Je, PrEP inaweza kuathiri uzito wangu au metaboli yangu?","PrEP inachukuliwa kuwa salama na haina madhara makubwa kwa uzito au metaboli. 
+
+1. **Oral PrEP (Truvada)**: Watu wengine wanaweza kupata uzito mdogo, lakini hii sio ya kawaida. 
+2. **Injectable PrEP (Apretude)**: Haina uhusiano ulio wazi na uzito au metaboli.
+
+Ni vizuri kuzungumza na daktari wako kuhusu wasiwasi wowote kuhusu uzito au afya yako.","6.1","0.51"
+"Je, ni aina gani za msaada au ushauri wa kihisia zinazopatikana kwa watu wanaotumia PrEP nchini Kenya?","Nchini Kenya, kuna aina kadhaa za msaada na ushauri wa kihisia kwa watu wanaotumia PrEP:
+
+1. **Mashirika ya Afya**: Mashirika kama NASCOP hutoa ushauri na msaada wa kihisia.
+2. **Vituo vya Afya**: Tembelea vituo vya afya vya karibu kwa ushauri wa kiakili.
+3. **Kundi la Msaada**: Jiunge na vikundi vya msaada kwa watu wanaotumia PrEP.
+4. **Mtaalamu wa Afya**: Zungumza na daktari au mshauri kwa msaada wa kihisia.
+
+Ni muhimu kutafuta msaada unavyohitaji.","4.13","0.63"
+"""Je, kuna wakati maalum ambao unashauriwa kuanza kutumia PrEP kabla ya kufanya ngono ili kuhakikisha ulinzi mzuri dhidi ya HIV?""","Ndio, kuna wakati maalum wa kuanza kutumia PrEP kabla ya kufanya ngono.
+
+1. **Kuanza kwa Oral PrEP (Truvada)**: Inashauriwa kuchukua kila siku kwa siku 21 kabla ya kufanya ngono.
+2. **Kuanza kwa Injectable PrEP (Apretude)**: Inashauriwa kupokea sindano kila baada ya miezi miwili.
+
+Ni bora kuzungumza na daktari wako kuhusu kuanza kutumia PrEP.","4.03","0.94"
+"""Je, ni vipi naweza kufuatilia afya yangu wakati wa kutumia PrEP ili kuhakikisha nipo salama?""","Ni muhimu kufuatilia afya yako wakati wa kutumia PrEP. Hapa kuna njia za kufanya hivyo:
+
+1. **Kutembelea Daktari**: Panga miadi kila miezi mitatu ili kupima HIV na afya yako kwa ujumla.
+2. **Majaribio ya Mkojo**: Daktari atachukua majaribio ya mkojo ili kuona kama PrEP inafanya kazi.
+3. **Kujifunza kuhusu Madhara**: Fuata dalili zozote kama vile maumivu ya tumbo au mabadiliko ya hisia na ueleze daktari.
+4. **Kujadili Mabadiliko**: Zungumza na daktari kuhusu mabadiliko yoyote katika maisha yako ya ngono au afya ya akili.
+5. **Kujua Taarifa**: Jihusishe na elimu kuhusu PrEP na HIV ili uwe na habari sahihi.
+
+Kumbuka, kuwasiliana na daktari wako ni muhimu ili kuhakikisha uko salama.","8.82","0.53"
+"Je, ni vipi naweza kufuatilia ushirikiano wa wapenzi wangu kuhusu matumizi ya PrEP?","Kufuata ushirikiano wa wapenzi wako kuhusu PrEP kunaweza kufanywa kwa njia zifuatazo:
+
+1. **Kuwasiliana**: Zungumza wazi wazi na wapenzi wako kuhusu umuhimu wa kutumia PrEP.
+2. **Kushiriki Taarifa**: Eleza faida za kutumia PrEP na jinsi inavyosaidia kuzuia HIV.
+3. **Kuweka Malengo**: Kuweka malengo ya pamoja kuhusu matumizi ya PrEP.
+4. **Kuwapa Msaada**: Wasaidie wapenzi wako kuelewa jinsi ya kuchukua PrEP kwa usahihi.
+5. **Zingatia Ufuatiliaji**: Panga miadi ya pamoja kwa vipimo vya HIV ili kuimarisha ushirikiano.
+
+Kumbuka, mawasiliano yanaweza kusaidia katika kuhakikisha kwamba wapenzi wako wanajihusisha ipasavyo na matumizi ya PrEP.","4.99","0.98"
