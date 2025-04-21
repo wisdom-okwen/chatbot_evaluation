@@ -1,0 +1,158 @@
+"User_Message","Response","Response_Time","Temperature"
+"""Je, ni aina gani za msaada au ushauri wa kihisia zinazopatikana kwa watu wanaotumia PrEP nchini Kenya?""","Ndio, kuna aina nyingi za msaada na ushauri wa kihisia kwa watu wanaotumia PrEP nchini Kenya. Hapa kuna baadhi ya rasilimali:
+
+1. **Kliniki za afya ya jamii**: Zinatoa usaidizi wa afya ya akili na ushauri.
+2. **Mifumo ya msaada wa mtandaoni**: Kuna vikundi vya msaada mtandaoni kwa watu wanaotumia PrEP.
+3. **Mashirika yasiyo ya kiserikali**: Mengi yanatoa huduma za ushauri na msaada kwa watu wanaohitaji.
+
+Ni muhimu kutafuta msaada wa kitaalamu ikiwa unahitaji. Unapohitaji msaada, usisite kuwasiliana na mtaalamu wa afya.","4.95","0.8"
+"""Je, ni vigezo gani vingine ambavyo nitatakiwa kukidhi ili kupata PrEP?""","Ili kupata PrEP, unahitaji kukidhi vigezo vifuatavyo:
+
+1. Unapaswa kuwa na HIV-negative.
+2. Unahitaji kufanya mtihani wa figo na HIV.
+3. Unapaswa kuwa na ushirikiano mzuri na mtoa huduma wako wa afya.
+4. Unahitaji kuweza kurudi kwa mtoa huduma kila miezi mitatu kwa uchunguzi wa kawaida.
+
+Ni bora kuzungumza na daktari wako kuhusu vigezo vyako maalum.","5.58","0.52"
+"""Je, kuna tofauti gani kati ya PrEP na PEP, na ni ipi inashauriwa kwa hali tofauti?""","PrEP na PEP ni njia mbili za kuzuia HIV, lakini zinatumiwa tofauti.
+
+PrEP:
+1. Inatumika kabla ya kukabiliwa na hatari ya HIV.
+2. Inachukuliwa kila siku na inahitaji mapendekezo ya daktari.
+3. Inafaa kwa watu walio katika hatari kubwa ya kupata HIV.
+
+PEP:
+1. Inatumika baada ya kukabiliwa na hatari ya HIV.
+2. Inapaswa kuchukuliwa ndani ya masaa 72 baada ya kuathiriwa.
+3. Inahitaji mapendekezo ya daktari na inachukuliwa kwa kipindi cha siku 28.
+
+Kila moja inahitajika katika hali tofauti. Zungumza na daktari wako ili kujua ni ipi inafaa kwako.","4.93","0.93"
+"""Je, ni vipi naweza kufuatilia afya yangu wakati wa kutumia PrEP ili kuhakikisha nipo salama?""","Ili kufuatilia afya yako wakati wa kutumia PrEP, unaweza kufanya yafuatayo:
+
+1. Tembelea daktari wako kila miezi mitatu kwa uchunguzi.
+2. Fanya mtihani wa HIV kila wakati unapotembelea daktari.
+3. Fanya mtihani wa kazi za figo ili kuhakikisha uko salama.
+4. Ripoti daktari wako kuhusu mabadiliko yoyote ya afya au hisia.
+
+Hii itasaidia kuhakikisha unatumia PrEP salama na kwa ufanisi.","3.82","0.5"
+"""Je, ni aina gani za msaada au ushauri wa kihisia zinazopatikana kwa watu wanaotumia PrEP nchini Kenya?""","Hapa kuna aina za msaada na ushauri wa kihisia kwa watu wanaotumia PrEP nchini Kenya:
+
+1. Kliniki za afya ya jamii: Zinatoa usaidizi wa afya ya akili na ushauri.
+2. Vikundi vya msaada: Kuna vikundi vinavyosaidia watu wanaotumia PrEP.
+3. Mashirika yasiyo ya kiserikali: Mengi yana huduma za ushauri na msaada wa kihisia.
+
+Ni muhimu kutafuta msaada wa kitaalamu ikiwa unahitaji.","4.37","0.68"
+"Je, PrEP inahitaji kuzingatia mabadiliko ya mtindo wa maisha, kama vile lishe au mazoezi, wakati wa matumizi yake?","PrEP haiitaji kubadilisha mtindo wa maisha kama lishe au mazoezi. 
+
+Hata hivyo, kuishi kwa afya bora inaweza kusaidia. 
+
+Fanya mazoezi na kula vizuri ili kusaidia mwili wako. 
+
+Ni bora kuzungumza na daktari wako kuhusu masuala ya afya yako wakati wa kutumia PrEP.","3.79","0.88"
+"""Je, PrEP inahitaji kuzingatia mabadiliko ya mtindo wa maisha, kama vile lishe au mazoezi, wakati wa matumizi yake?""","PrEP haiitaji kubadilisha mtindo wa maisha kama lishe au mazoezi. 
+
+Hata hivyo, kuishi kwa afya bora inaweza kusaidia mwili wako. 
+
+Ni bora kuzungumza na daktari wako kuhusu masuala ya afya yako wakati wa kutumia PrEP.","3.39","0.55"
+"""Je, PrEP inaweza kuathiri uzito wangu au metaboli yangu?""","PrEP inaweza kuwa na athari ndogo kwenye uzito au metabolismo. 
+
+Watu wengine wanaweza kupata uzito au kupunguza uzito kidogo. 
+
+Hata hivyo, mabadiliko haya si ya kawaida. 
+
+Ni bora kuzungumza na daktari wako kuhusu masuala yoyote ya uzito unayoweza kuwa nayo wakati wa kutumia PrEP.","3.24","0.78"
+"""Je, PrEP inahitaji kuzingatia mabadiliko ya mtindo wa maisha, kama vile lishe au mazoezi, wakati wa matumizi yake?""","PrEP haiitaji kubadilisha mtindo wa maisha kama lishe au mazoezi. 
+
+Hata hivyo, kuishi kwa afya bora inaweza kusaidia mwili wako. 
+
+Ni bora kuzungumza na daktari wako kuhusu masuala ya afya yako wakati wa kutumia PrEP.","2.91","0.67"
+"""Je, PrEP inahitaji kuzingatia mabadiliko ya mtindo wa maisha, kama vile lishe au mazoezi, wakati wa matumizi yake?""","PrEP haiitaji kubadilisha mtindo wa maisha kama lishe au mazoezi. 
+
+Hata hivyo, kuishi kwa afya bora kunaweza kusaidia mwili wako. 
+
+Ni bora kuzungumza na daktari wako kuhusu masuala ya afya yako wakati wa kutumia PrEP.","3.3","0.6"
+"Je, ni vipi naweza kupata taarifa zaidi kuhusu miundombinu ya kupokea PrEP nchini Kenya? Je, kuna mashirika ambayo yanaweza kusaidia?","I’m glad you’re interested in learning more about PrEP in Kenya! Here are some ways to find information and support:
+
+1. **Kenya Ministry of Health**: Check their website for resources on PrEP.
+2. **Local Health Clinics**: Visit health centers or clinics that provide HIV services.
+3. **Non-Governmental Organizations (NGOs)**: Organizations like ""NASCOP"" and ""K-Life"" offer information about PrEP.
+4. **Community Health Workers**: Talk to community health workers for guidance and support.
+5. **Online Resources**: Websites like ""Aidsfonds"" and ""AVAC"" provide global information on PrEP.
+
+These resources can help you find the information and support you need.","4.88","0.95"
+"Je, ni wapi naweza kupata habari zaidi kuhusu taarifa na huduma kuhusu PrEP nchini Kenya? Je, kuna tovuti au vituo maalum vinavyoshughulikia maswala haya?","Ninafurahi kuwa unataka kujifunza zaidi kuhusu PrEP nchini Kenya! Hapa kuna njia za kupata habari na msaada:
+
+1. **Wizara ya Afya ya Kenya**: Tembelea tovuti yao kwa rasilimali kuhusu PrEP.
+2. **Vituo vya Afya vya Mitaa**: Tembelea vituo vya afya au kliniki zinazotoa huduma za HIV.
+3. **Mashirika Yasiyo ya Kiserikali (NGOs)**: Mashirika kama ""NASCOP"" na ""K-Life"" hutoa habari kuhusu PrEP.
+4. **Wafanyakazi wa Afya wa Jamii**: Zungumza na wafanyakazi wa afya wa jamii kwa mwongozo na msaada.
+5. **Rasilimali za Mtandaoni**: Tovuti kama ""Aidsfonds"" na ""AVAC"" hutoa taarifa za kimataifa kuhusu PrEP.
+
+Rasilimali hizi zinaweza kukusaidia kupata habari na msaada unahitaji.","5.4","0.96"
+"Je, kuna njia za kuweza kupata taarifa zaidi kuhusu PrEP kupitia mitandao ya kijamii au vikundi vya kujadili?","Ndio, kuna njia nyingi za kupata taarifa kuhusu PrEP kupitia mitandao ya kijamii na vikundi vya kujadili. Hapa kuna baadhi ya njia:
+
+1. **Facebook Groups**: Tafuta vikundi vya kujadili PrEP na afya ya HIV.
+2. **Twitter**: Fuata akaunti za mashirika kama CDC au WHO kwa taarifa za hivi punde.
+3. **Instagram**: Mashirika mengi hushiriki picha na video kuhusu PrEP na afya ya ngono.
+4. **Reddit**: Jiunge na subreddits zinazohusiana na PrEP na afya ya HIV kwa majadiliano.
+5. **YouTube**: Angalia video za elimu kuhusu PrEP kutoka kwa wataalam.
+
+Njia hizi zinaweza kukusaidia kupata taarifa na kuungana na wengine wanaopata PrEP.","4.18","0.91"
+"Je, kuna mashirika au vikundi vya kijamii nchini Kenya ambavyo vinaweza kusaidia watu wanaotumia PrEP na kutoa taarifa zaidi?","Ndio, hapa kuna baadhi ya mashirika na vikundi vya kijamii nchini Kenya yanayoweza kusaidia:
+
+1. **NASCOP**: Hutoa taarifa na huduma kuhusu HIV na PrEP.
+2. **K-Life**: Shirika linaloelekeza watu kuhusu masuala ya afya na PrEP.
+3. **Vituo vya Afya vya Mitaa**: Wanaweza kutoa huduma za PrEP na ushauri.
+4. **Wafanyakazi wa Afya wa Jamii**: Wanaweza kusaidia katika kupata rasilimali na taarifa.
+5. **Vikundi vya Kijamii**: Tafuta vikundi kwenye mitandao ya kijamii kama Facebook na WhatsApp.
+
+Mashirika haya yanaweza kukusaidia kupata msaada na taarifa unazohitaji.","4.82","0.63"
+"Je, kuna programu zozote za uhamasishaji kuhusu PrEP nchini Kenya ambazo zinaweza kusaidia watu kupata taarifa na huduma hii?","Ndio, hapa kuna baadhi ya programu za uhamasishaji kuhusu PrEP nchini Kenya:
+
+1. **NASCOP**: Hutoa elimu na huduma kuhusu PrEP na HIV.
+2. **K-Life**: Inatoa maelezo na mwongozo kuhusu masuala ya afya ya ngono.
+3. **Vituo vya Afya vya Mitaa**: Wanatoa huduma za PrEP na uhamasishaji.
+4. **Wafanyakazi wa Afya wa Jamii**: Wanaweza kusaidia katika kutoa taarifa na ushauri.
+5. **Mashirika Yasiyo ya Kiserikali (NGOs)**: Wengi wanajitolea kutoa elimu na msaada kuhusu PrEP.
+
+Programu hizi zinaweza kusaidia watu kupata taarifa na huduma za PrEP.","5.14","0.95"
+"Je, PrEP inahitaji kuzingatia mabadiliko ya mtindo wa maisha, kama vile lishe au mazoezi, wakati wa matumizi yake?","PrEP haihitaji mabadiliko maalum ya mtindo wa maisha kama lishe au mazoezi. 
+
+Lakini, kula vizuri na kufanya mazoezi kunaweza kusaidia afya yako kwa jumla. Unaweza kuzungumza na daktari wako kuhusu njia bora za kudumisha afya yako wakati wa kutumia PrEP.","3.43","0.85"
+"Je, PrEP inahitaji kuzingatia mabadiliko ya mtindo wa maisha, kama vile lishe au mazoezi, wakati wa matumizi yake?","PrEP haihitaji mabadiliko maalum ya mtindo wa maisha kama lishe au mazoezi. 
+
+Lakini, kula vizuri na kufanya mazoezi kunaweza kusaidia afya yako kwa jumla. Unaweza kuzungumza na daktari wako kuhusu njia bora za kudumisha afya yako wakati wa kutumia PrEP.","3.37","0.89"
+"Je, ni vigezo gani vingine ambavyo nitatakiwa kukidhi ili kupata PrEP, na je, kuna masharti yoyote ya ziada ambayo ni muhimu kujua?","Ili kupata PrEP, kuna vigezo ambavyo unahitaji kukidhi:
+
+1. Unapaswa kuwa na HIV hasi.
+2. Unapaswa kuwa na umri wa miaka 13 au zaidi.
+3. Unapaswa kuwa na afya njema ya figo.
+4. Unapaswa kujaza fomu ya historia ya afya na kufanya majaribio ya HIV na virusi vingine.
+
+Masharti mengine ya ziada ni:
+
+1. Unahitaji kutembelea daktari kila baada ya miezi mitatu kwa uchunguzi na majaribio.
+2. Unapaswa kuchukua PrEP kila siku ili iweze kufanya kazi vizuri.
+
+Ni vizuri kuzungumza na daktari wako ili kuelewa mchakato mzima na mahitaji mengine.","4.86","0.79"
+"Je, PrEP inahitaji kuzingatia mabadiliko ya mtindo wa maisha, kama vile lishe au mazoezi, wakati wa matumizi yake?","PrEP haihitaji mabadiliko maalum ya mtindo wa maisha kama lishe au mazoezi. 
+
+Lakini, kula vizuri na kufanya mazoezi kunaweza kusaidia afya yako kwa jumla. Unaweza kuzungumza na daktari wako kuhusu njia bora za kudumisha afya yako wakati wa kutumia PrEP.","4.54","0.84"
+"Je, PrEP inahitaji kuzingatia mabadiliko ya mtindo wa maisha, kama vile lishe au mazoezi, wakati wa matumizi yake?","PrEP haihitaji mabadiliko maalum ya mtindo wa maisha kama lishe au mazoezi. 
+
+Hata hivyo, kula vizuri na kufanya mazoezi kunaweza kusaidia afya yako kwa jumla. Unaweza kuzungumza na daktari wako kuhusu njia bora za kudumisha afya yako wakati wa kutumia PrEP.","3.55","0.53"
+"""Je, ni muhimu kufanya vipimo vya HIV kabla ya kuanza kutumia PrEP, na ni vipi vipimo vingine vitahitajika?""","Ndio, ni muhimu kufanya vipimo vya HIV kabla ya kuanza kutumia PrEP. Hii inasaidia kuhakikisha kuwa huna HIV. Pia, unahitaji kufanya vipimo vya afya ya figo. 
+
+Unahitaji kufanya vipimo hivi kila baada ya miezi mitatu wakati wa kutumia PrEP. Zungumza na daktari wako ili kuelewa zaidi kuhusu mchakato huu.","3.22","0.9"
+"Je, ni vipi naweza kufuatilia afya yangu wakati wa kutumia PrEP ili kuhakikisha nipo salama?","Ili kufuatilia afya yako wakati wa kutumia PrEP, unahitaji kufanya mambo yafuatayo:
+
+1. Tembelea daktari kila baada ya miezi mitatu kwa uchunguzi.
+2. Fanya vipimo vya HIV kila wakati unapotembelea daktari.
+3. Fanya vipimo vya afya ya figo ili kuhakikisha zinafanya kazi vizuri.
+4. Jifunze kuhusu dalili zozote za madhara na uzungumze na daktari wako ikiwa unaziona.
+5. Kuwa na mazungumzo wazi na daktari wako kuhusu afya yako na maswali yoyote.
+
+Hii itakusaidia kuhakikisha unatumia PrEP salama na kwa ufanisi.","3.83","0.87"
+"Je, kuna mipango ya usaidizi wa kifedha kwa ajili ya kupata PrEP nchini Kenya, hasa kwa watu wa kati kama mimi?","Nisamehe, lakini siwezi kusaidia na maelezo ya mipango ya usaidizi wa kifedha nchini Kenya. Tafadhali wasiliana na kliniki za afya au mashirika ya afya ya jamii nchini Kenya. Wanaweza kutoa maelezo kuhusu mipango ya msaada wa kifedha kwa PrEP.","3.23","0.76"
+"Je, kuna mipango ya usaidizi wa kifedha kwa ajili ya kupata PrEP nchini Kenya, hasa kwa watu wa kati kama mimi?","Nisamehe, lakini siwezi kusaidia na maelezo ya mipango ya usaidizi wa kifedha nchini Kenya. Tafadhali wasiliana na kliniki za afya au mashirika ya afya ya jamii nchini Kenya. Wanaweza kutoa maelezo kuhusu mipango ya msaada wa kifedha kwa PrEP.","4.98","0.65"
+"Je, kuna mipango ya usaidizi wa kifedha kwa ajili ya kupata PrEP nchini Kenya, hasa kwa watu wa kati kama mimi?","Nisamehe, siwezi kusaidia na maelezo ya mipango ya usaidizi wa kifedha nchini Kenya. Tafadhali wasiliana na kliniki za afya au mashirika ya afya ya jamii nchini Kenya. Wanaweza kutoa maelezo kuhusu mipango ya msaada wa kifedha kwa PrEP.","3.12","0.56"
