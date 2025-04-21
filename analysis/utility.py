@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-OVERALL_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/overall_ratings.csv"
-USER_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/criteria_ratings/user.csv"
-SELF_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/criteria_ratings/self.csv"
-OBSERVER_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/criteria_ratings/observer.csv"
-PER_TURN_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/data/per_turn_ratings.csv"
+OVERALL_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/gpt_ratings/data/overall_ratings.csv"
+USER_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/gpt_ratings/data/criteria_ratings/user.csv"
+SELF_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/gpt_ratings/data/criteria_ratings/self.csv"
+OBSERVER_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/gpt_ratings/data/criteria_ratings/observer.csv"
+PER_TURN_RATINGS = "/playpen-ssd/wokwen/projects/chatbot_eval/analysis/gpt_ratings/data/per_turn_ratings.csv"
 
 def visualize_overall_ratings_summary(df):
     """Display basic statistics for overall ratings (excluding language)."""
