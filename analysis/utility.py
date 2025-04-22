@@ -206,3 +206,14 @@ def get_low_per_turn_rating_ids(percentile=0.05):
             result[int(row['Conversation_ID'])] = low_turns
 
     return result
+
+
+def get_average_overall_ratings_per_language():
+    cols = set(['User_Rating', 'Observer_Rating', 'Self_Rating'])
+    df = pd.read_csv(OVERALL_RATINGS)
+    print(df.columns)
+    averages = {}
+    for persona in cols:
+        averages[persona] = int(df[persona].quantile(0.02))
+    print(averages)
+
