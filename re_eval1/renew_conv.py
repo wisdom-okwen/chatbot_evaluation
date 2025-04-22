@@ -340,21 +340,7 @@ def generate_criteria_convs():
                 print(f"[OK✅] Generated trajectories for conv {conv_id} ({persona}/{criterion})")
 
 
-def generate_new_overall_ratings():
-    pass
-
-def generate_observer_criteria_ratings():
-    pass
-
-def generate_user_criteria_ratings():
-    pass
-
-def generate_self_criteria_ratings():
-    pass
-
 
 if __name__ == '__main__':
-    generate_criteria_convs()
-
-
-# Overall - [21, 22, 23, 24, 25, 26, 27, 37, 66, 91, 115, 133, 142, 145, 149, 150, 151, 183, 233, 243, 305, 381, 383, 385, 399, 487, 489, 495, 499, 501, 502, 503, 504]
+    # generate_criteria_convs()
+    pass
