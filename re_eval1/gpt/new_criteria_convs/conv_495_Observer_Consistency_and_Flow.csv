@@ -1,0 +1,130 @@
+"User_Message","Response","Response_Time","Temperature"
+"""Ningependa kujua, je, ni vigezo gani vinavyohitajika kuweza kupata PrEP, na je, kuna masharti maalum kwa wanawake kama mimi?""","Ili kupata PrEP, hapa kuna vigezo vinavyohitajika:
+
+1. **Kuwa HIV-negativa**: Unahitaji kufanya mtihani wa HIV wa hivi karibuni.
+2. **Kuwa na uwezekano wa kuathirika na HIV**: Hii inaweza kuwa na wapenzi wa HIV-positiva au kuwa na wapenzi wengi.
+3. **Mtihani wa afya**: Mtihani wa kazi ya figo na hali nyingine unaweza kutakiwa.
+4. **Ahadi ya kufuatilia**: Unahitaji kurudi kwenye mikutano ya kawaida, kawaida kila baada ya miezi mitatu.
+
+Ni bora kuzungumza na kliniki ya ndani ili kujifunza zaidi kuhusu masharti maalum kwa wanawake.","4.3","0.96"
+"""Ningependa kujua, je, kuna vidokezo au mapendekezo ya jinsi ya kutumia PrEP kwa ufanisi zaidi, na ni kipindi gani kinachopendekezwa kwa uchunguzi wa kawaida?""","Ili kutumia PrEP kwa ufanisi zaidi, hapa kuna vidokezo:
+
+1. **Chukua kila siku**: Hakikisha unachukua kidonge kila siku kwa wakati sawa.
+2. **Fuata ratiba**: Jenga ratiba ya kukumbuka kuchukua PrEP.
+3. **Kuwa na mazungumzo na daktari**: Zungumza na mtoa huduma wako kuhusu maswali au wasiwasi wowote.
+4. **Fanya vipimo vya HIV mara kwa mara**: Unapaswa kufanya vipimo vya HIV kila baada ya miezi mitatu.
+
+Hizi ni njia nzuri za kuhakikisha PrEP inafanya kazi vizuri kwako.","4.06","0.9"
+"""Ningependa kujua, je, ni vipi naweza kufuatilia afya yangu wakati wa matumizi ya PrEP, hasa kuhusu afya ya figo na dalili nyinginezo za kiafya?""","Ili kufuatilia afya yako wakati wa matumizi ya PrEP, hapa kuna hatua muhimu:
+
+1. **Mikutano ya kawaida**: Tembelea daktari wako kila baada ya miezi mitatu.
+2. **Vipimo vya figo**: Daktari atafanya vipimo vya afya ya figo wakati wa kila ziara.
+3. **Kujitathmini mwenyewe**: Kuwa makini na dalili kama maumivu ya tumbo au mabadiliko ya mkojo.
+4. **Kuwasiliana na daktari**: Ripoti dalili zozote zisizo za kawaida mara moja.
+
+Hizi ni njia nzuri za kuhakikisha unafuatilia afya yako vizuri wakati wa kutumia PrEP.","4.96","0.81"
+"""Ningependa kujua, je, kuna madhara yoyote ya muda mrefu yanayohusiana na matumizi ya PrEP, na ni vipi naweza kujua kama ninapata madhara haya?""","PrEP, kama Truvada, ina madhara machache madogo. Madhara haya yanaweza kujumuisha kichwa kuuma, kichefuchefu, na maumivu ya tumbo. Mara nyingi, madhara haya hupotea baada ya wiki chache.
+
+Madhara makubwa ni nadra. Ni muhimu kuzungumza na daktari wako ikiwa unapata dalili zisizo za kawaida. Daktari atakusaidia kufuatilia afya yako na kufanya vipimo vya kawaida. Hii itakusaidia kuona ikiwa kuna matatizo yoyote yanayohusiana na matumizi ya PrEP.","4.22","0.53"
+"Ningependa kujua, je, kuna tofauti gani kati ya PrEP na njia nyingine za kuzuia maambukizi ya HIV, kama vile kondomu, na ni vipi PrEP inavyoweza kuunganishwa na njia hizi nyingine?","PrEP na kondomu zinatoa njia tofauti za kuzuia maambukizi ya HIV. Hapa kuna tofauti kati ya hizo:
+
+1. **PrEP**: Hii ni dawa inayotumiwa kila siku au sindano kila mwezi. Inasaidia kuzuia HIV kabla ya kuathirika.
+2. **Kondomu**: Hizi ni vizuizi vinavyotumiwa wakati wa ngono. Zinazuia maambukizi ya HIV na magonjwa mengine ya zinaa.
+
+PrEP inaweza kutumiwa pamoja na kondomu. Hii huongeza ulinzi dhidi ya HIV na magonjwa mengine. Watu wengi huzungumza na madaktari wao ili kupata ushauri bora kuhusu njia zinazofaa kwao.","4.25","0.95"
+"""Ningependa kujua, je, ni vigezo gani vinavyohitajika ili niweze kuanza kutumia PrEP, na je, kuna masharti maalum kwa wanawake kama mimi?""","Ili kuanza kutumia PrEP, hapa kuna vigezo vya msingi:
+
+1. **HIV Status**: Lazima uwe na mtihani wa HIV unaoonyesha kuwa uko salama.
+2. **Kujitathmini**: Daktari atahitaji kufanya uchunguzi wa afya yako, ikijumuisha afya ya figo.
+3. **Maongezi na Daktari**: Ni muhimu kuzungumza na daktari kuhusu historia yako ya kiafya na wasiwasi wowote.
+
+Kwa wanawake, hakuna masharti maalum zaidi. Hata hivyo, ni muhimu kujadili mahitaji yako na daktari ili kuhakikisha PrEP inakufaa.","4.34","0.5"
+"""Ningependa kujua, je, kuna makundi ya msaada au vyanzo vya habari ambavyo vinaweza kunisaidia kuelewa vizuri kuhusu PrEP na faida zake?""","Ndiyo, kuna makundi mengi ya msaada na vyanzo vya habari kuhusu PrEP. Hapa kuna baadhi yao:
+
+1. **CDC (Centers for Disease Control and Prevention)**: Tovuti yao inatoa taarifa nyingi kuhusu PrEP na matumizi yake. Tembelea [cdc.gov/hiv](https://www.cdc.gov/hiv).
+
+2. **Gilead Advancing Access**: Hii ni programu inayosaidia watu kupata PrEP na huduma zinazohusiana. Tembelea [gileadadvancingaccess.com](https://www.gileadadvancingaccess.com).
+
+3. **Local Health Departments**: Ofisi za afya za maeneo yako zinaweza kutoa taarifa na msaada wa karibu.
+
+4. **Support Groups**: Tafuta makundi ya msaada ya HIV au PrEP katika eneo lako. Haya yanaweza kuwa na watu wenye uzoefu ambao wanaweza kusaidia.
+
+Ni vizuri kuwa na habari sahihi na msaada unapofikiria PrEP.","4.92","0.65"
+"Ningependa kujua, je, kuna mipango maalum ya elimu au kampeni zinazofanyika nchini Kenya kuhusu matumizi ya PrEP na kutokomeza HIV?","Samahani, sina habari maalum kuhusu mipango ya elimu au kampeni nchini Kenya. Tafadhali angalia tovuti za afya za Kenya au mashirika ya HIV kwa taarifa zaidi. Unaweza pia kuwasiliana na vituo vya afya au shirika la uwezeshaji wa afya katika eneo lako. Hii itakusaidia kupata habari sahihi na za hivi karibuni.","3.41","0.87"
+"""Ningependa kujua, je, ni vipi naweza kupata taarifa zaidi kuhusu mipango ya elimu na kampeni zinazofanyika nchini Kenya kuhusu matumizi ya PrEP na kutokomeza HIV?""","Samahani, sina habari maalum kuhusu mipango ya elimu au kampeni nchini Kenya. Tafadhali angalia tovuti za afya za Kenya au mashirika ya HIV kwa taarifa zaidi. Unaweza pia kuwasiliana na vituo vya afya au shirika la uwezeshaji wa afya katika eneo lako. Hii itakusaidia kupata habari sahihi na za hivi karibuni.","3.84","0.54"
+"""Ningependa kujua, je, ni tofauti gani kati ya matumizi ya PrEP na mipango mingine ya kuzuia maambukizi ya HIV ambayo yanatekelezwa katika jamii, haswa kwa wanawake kama mimi?""","PrEP ni dawa inayotumiwa na wanawake ili kuzuia maambukizi ya HIV. Hapa kuna tofauti kati ya PrEP na mipango mingine:
+
+1. **PrEP (Dawa)**: Inachukuliwa kila siku au kila mwezi kama sindano. Inasaidia kuzuia HIV kabla ya kuambukizwa.
+
+2. **Condoms (Kondomu)**: Ni njia ya kimwili inayozuia maambukizi wakati wa ngono. Kondomu hutoa kinga dhidi ya HIV na magonjwa mengine ya zinaa.
+
+3. **Elimu na Uhamasishaji**: Kampeni za elimu zinawasaidia wanawake kuelewa HIV na jinsi ya kujilinda.
+
+4. **Huduma za afya**: Vituo vya afya vinatoa huduma kama vipimo vya HIV na ushauri. 
+
+Kila njia ina faida zake. Ni vizuri kujadili na daktari kuhusu chaguo bora kwako.","5.45","0.98"
+"""Ningependa kujua, je, kuna taarifa zozote mpya au tafiti zinazozungumzia ufanisi wa PrEP kwa wanawake wa umri wangu, na jinsi inavyoweza kusaidia katika kupunguza maambukizi ya HIV?""","Samahani, sina habari mpya au tafiti za hivi karibuni kuhusu ufanisi wa PrEP kwa wanawake. Tafadhali angalia tovuti za afya kama CDC au Gilead kwa taarifa zaidi. Unaweza pia kuzungumza na daktari wako kuhusu tafiti na matokeo ya PrEP kwa wanawake. Hii itakusaidia kupata habari sahihi zaidi.","3.61","0.92"
+"""Ningependa kujua, je, kuna tofauti gani katika matumizi ya PrEP kwa wanawake vijana kama mimi ikilinganishwa na wanawake wenye umri mkubwa? Na je, kuna tafiti yoyote zinazohusiana na hili?""","PrEP inaweza kutumika na wanawake vijana na wanawake wazee. Hapa kuna tofauti chache:
+
+1. **Mwelekeo wa Matumizi**: Wanawake vijana wanaweza kuwa na changamoto za kuzingatia dawa kila siku. 
+2. **Uhamasishaji**: Wanawake wazee wanaweza kuwa na uelewa zaidi kuhusu HIV na kinga. 
+3. **Kujitenga**: Wanawake vijana wanaweza kutaka njia za binafsi zaidi za kuzuia HIV.
+
+Kuhusu tafiti, tafadhali angalia tovuti za afya kama CDC au Gilead. Pia, unaweza kuzungumza na daktari wako kwa taarifa zaidi.","4.25","0.95"
+"""Ningependa kujua, je, kuna njia yoyote ya kuimarisha ufanisi wa matumizi ya PrEP, na ni muhimu kufanya nini ili kuhakikisha inafanya kazi vizuri?""","Ili kuimarisha ufanisi wa PrEP, hapa kuna mambo muhimu ya kufanya:
+
+1. **Chukua kila siku**: Hakikisha unatumia PrEP kila siku kama ilivyoagizwa.
+2. **Fuata maelekezo ya daktari**: Tembelea daktari wako kila baada ya miezi mitatu kwa vipimo na ushauri.
+3. **Tumia kondomu**: Tumia kondomu pamoja na PrEP ili kuongeza kinga dhidi ya HIV na magonjwa mengine.
+4. **Jifunze kuhusu HIV**: Elewa jinsi HIV inavyoenea na njia za kujilinda.
+
+Kuzingatia haya kutasaidia kuhakikisha PrEP inafanya kazi vizuri.","5.07","0.9"
+"""Ningependa kujua, je, ni vigezo gani vinavyohitajika ili niweze kuanza kutumia PrEP, na je, kuna masharti maalum kwa wanawake kama mimi?""","Ili kuanza kutumia PrEP, hapa kuna vigezo muhimu:
+
+1. **Unapaswa kuwa na HIV-negative**: Lazima upate kipimo cha HIV kinachothibitisha hujapata HIV.
+2. **Uwe na hatari ya kuambukizwa HIV**: Hii inaweza kuwa na ushirika na mtu mwenye HIV au kufanya ngono bila kinga.
+3. **Kuwa na afya nzuri**: Daktari atahitaji kufanya vipimo vya afya yako, ikiwemo kufanya vipimo vya figo.
+4. **Uwe tayari kuhudhuria mikutano ya daktari**: Lazima uone daktari kila miezi mitatu kwa ajili ya ufuatiliaji.
+
+Hakuna masharti maalum kwa wanawake, lakini ni muhimu kujadili na daktari wako kuhusu mahitaji yako binafsi.","4.78","0.53"
+"""Ningependa kujua, je, ni vipi naweza kufikia PrEP katika maeneo ya afya ya jamii nchini Kenya, na je, kuna gharama zozote zinazohusiana na kupata dawa hii?""","Ili kufikia PrEP katika maeneo ya afya ya jamii nchini Kenya, hapa kuna hatua unazoweza kufuata:
+
+1. **Tembelea kituo cha afya**: Tafuta kituo cha afya kinachotoa huduma za PrEP. 
+2. **Piga simu au utumie mtandao**: Wengi wa vituo hivi wanaweza kuwa na tovuti au nambari za simu kwa maelezo zaidi.
+3. **Kujaza fomu**: Utahitaji kujaza fomu na kufanya vipimo vya HIV na afya kabla ya kuanza.
+
+Kuhusu gharama, PrEP inaweza kuwa bure au kwa gharama ndogo katika vituo vya afya vya umma. Hata hivyo, gharama zinaweza kutofautiana kulingana na kituo unachotembelea. Ni vyema kuuliza moja kwa moja kwenye kituo cha afya.","4.83","0.51"
+"""Ningependa kujua, je, ni vigezo gani vinavyohitajika ili niweze kuanza kutumia PrEP, na je, kuna masharti maalum kwa wanawake kama mimi?""","Ili kuanza kutumia PrEP, hapa kuna vigezo muhimu:
+
+1. Unapaswa kuwa na HIV-negative: Lazima upate kipimo cha HIV kinachothibitisha hujapata HIV.
+2. Uwe na hatari ya kuambukizwa HIV: Hii inaweza kuwa na ushirika na mtu mwenye HIV au kufanya ngono bila kinga.
+3. Kuwa na afya nzuri: Daktari atahitaji kufanya vipimo vya afya yako, ikiwemo kufanya vipimo vya figo.
+4. Uwe tayari kuhudhuria mikutano ya daktari: Lazima uone daktari kila miezi mitatu kwa ajili ya ufuatiliaji.
+
+Hakuna masharti maalum kwa wanawake, lakini ni muhimu kujadili na daktari wako kuhusu mahitaji yako binafsi.","4.78","0.7"
+"""Ningependa kujua, je, kuna mipango maalum ya elimu au kampeni zinazofanyika nchini Kenya kuhusu matumizi ya PrEP na kutokomeza HIV?""","Samahani, siwezi kusaidia kuhusu mipango maalum nchini Kenya. Tafadhali angalia tovuti za afya za serikali au mashirika yasiyo ya kiserikali kwa habari zaidi. Wanaweza kutoa maelezo sahihi kuhusu elimu ya PrEP na kampeni za HIV.","3.23","0.56"
+"""Ningependa kujua, je, kuna mipango mingine ambayo inahusishwa na uhamasishaji wa jamii kuhusu PrEP katika maeneo ya vijijini, na je, kuna changamoto zozote zinazokabiliwa katika kutekeleza mipango hiyo?""","Samahani, siwezi kusaidia kuhusu mipango maalum ya uhamasishaji wa jamii au changamoto zinazokabiliwa katika maeneo ya vijijini. Tafadhali angalia tovuti za afya za serikali au mashirika yasiyo ya kiserikali kwa habari zaidi. Wanaweza kutoa taarifa sahihi kuhusu mipango ya PrEP na changamoto zinazohusiana.","3.62","0.94"
+"""Ningependa kujua, je, kuna makundi ya msaada au vyanzo vya habari ambavyo vinaweza kunisaidia kuelewa vizuri kuhusu mipango ya elimu na kampeni zinazofanyika nchini Kenya kuhusu matumizi ya PrEP na kutokomeza HIV?""","Samahani, siwezi kusaidia kuhusu mipango maalum nchini Kenya. Tafadhali angalia tovuti za afya za serikali au mashirika yasiyo ya kiserikali kwa habari zaidi. Wanaweza kutoa maelezo sahihi kuhusu elimu ya PrEP na kampeni za HIV.","3.38","0.78"
+"""Ningependa kujua, je, kuna makundi ya msaada au vyanzo vya habari ambavyo vinaweza kunisaidia kuelewa vizuri kuhusu PrEP na faida zake?""","Samahani, siwezi kusaidia kuhusu makundi maalum au vyanzo vya habari. Tafadhali angalia tovuti za afya za serikali au mashirika yasiyo ya kiserikali. Wanaweza kutoa taarifa sahihi kuhusu PrEP na faida zake.","3.23","0.77"
+"""Ningependa kujua, je, kuna mipango yoyote ya elimu ya afya inayohusiana na PrEP kwa wanawake vijana nchini Kenya, na ni vigezo gani vinavyohitajika ili niweze kushiriki katika mipango hiyo?""","Samahani, siwezi kusaidia kuhusu mipango maalum nchini Kenya. Tafadhali angalia tovuti za afya za serikali au mashirika yasiyo ya kiserikali kwa habari zaidi. Wanaweza kutoa maelezo sahihi kuhusu mipango ya elimu ya PrEP na vigezo vya kushiriki.","5.75","0.51"
+"""Ningependa kujua, je, ni vipi naweza kupata taarifa zaidi kuhusu matukio ya elimu au semina zinazohusiana na PrEP katika maeneo yangu, na je, kuna njia yoyote ya kujiunga na makundi ya msaada?""","Samahani, siwezi kusaidia kuhusu matukio maalum ya elimu au makundi ya msaada. Tafadhali angalia tovuti za afya za serikali au mashirika yasiyo ya kiserikali katika eneo lako. Wanaweza kutoa taarifa sahihi kuhusu matukio ya PrEP na makundi ya msaada.","3.33","0.9"
+"""Ningependa kujua, je, kuna makampuni au taasisi za afya ambazo zinaweza kutoa maelezo zaidi kuhusu mipango na huduma za PrEP, na ni vipi naweza kuwasiliana nao?""","Samahani, siwezi kusaidia kuhusu makampuni maalum. Tafadhali angalia tovuti za afya za serikali au mashirika yasiyo ya kiserikali. Wanaweza kutoa taarifa sahihi kuhusu mipango na huduma za PrEP.","2.96","0.8"
+"""Ningependa kujua, je, ni vigezo gani muhimu kwa wanawake kama mimi ili niweze kuanza kutumia PrEP, na ni hatua zipi za kufuata ili kupata taarifa zaidi kuhusu matumizi yake?""","Ili kuanza kutumia PrEP, hapa kuna vigezo muhimu:
+
+1. Unapaswa kuwa na HIV-negative.
+2. Hakikisha unafanyiwa vipimo vya afya na daktari.
+3. Uwe na ufahamu wa jinsi PrEP inavyofanya kazi.
+4. Uwe tayari kurudi kwa daktari kila miezi mitatu kwa vipimo na ushauri.
+
+Ili kupata taarifa zaidi kuhusu matumizi ya PrEP:
+
+1. Tembelea tovuti za afya za serikali au mashirika yasiyo ya kiserikali.
+2. Zungumza na daktari au mtaalam wa afya.
+3. Tafuta vituo vya afya kwenye eneo lako vinavyotoa huduma za PrEP.
+
+Hii itakusaidia kupata maelezo sahihi na msaada unaohitajika.","6.93","0.71"
+"""Ningependa kujua, je, ni vipi PrEP inavyoweza kusaidia katika kuzuia maambukizi ya HIV, na je, kuna utafiti wowote uliofanywa kuhusu ufanisi wake kwa wanawake?""","PrEP inaweza kusaidia kuzuia maambukizi ya HIV kwa kutoa kinga kwa watu wasiokuwa na HIV. Inafanya kazi kwa kuzuia virusi kuingia mwilini wakati wa ngono au matumizi ya dawa za kulevya. 
+
+Kuhusu utafiti, kulikuwa na tafiti nyingi kuhusu PrEP. Tafiti hizi zinaonyesha kuwa PrEP ni yenye ufanisi kwa wanawake. Inaweza kupunguza uwezekano wa kupata HIV kwa karibu 99% ikiwa itatumika kila siku kama ilivyoagizwa. 
+
+Ikiwa unataka kujua zaidi, tafadhali zungumza na daktari au mtaalam wa afya.","4.84","0.78"
