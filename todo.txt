@@ -1,5 +1,7 @@
 1. Run simulations for 141 - 200 and 511 - 530: Completed
 2. Run evaluation metrics on new generated data: Completed
-3. Plot graphs and analyze evaluation metrics:
-4. Generate ratings using various metrics in ml-flow library
-5. 
+3. Plot graphs and analyze evaluation metrics: Completed
+4. Generate ratings using various metrics in ml-flow library - In progress
+5. Generate feedback from conversation-ratings pairs for each rating category
+6. Find clustering for different kinds of errors
+7. Fine-tune chatbot based on different clusters 
